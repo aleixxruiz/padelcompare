@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PadelCompare — Compara palas de pádel</title>
+  <meta name="description" content="Compara palas de pádel por nivel, estilo de juego, forma, balance y precio. Encuentra la pala perfecta para ti.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎾</text></svg>">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+  <!-- Cabecera -->
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="index.html" class="brand">
+        <span class="brand-logo">P</span>
+        <span class="brand-name">Padel<span>Compare</span></span>
+      </a>
+      <nav class="nav">
+        <a href="index.html" class="active">Palas</a>
+        <span class="disabled" title="Próximamente">Zapatillas</span>
+        <span class="disabled" title="Próximamente">Accesorios</span>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Hero -->
+  <section class="hero">
+    <div class="container">
+      <h1>Encuentra y compara la <span class="accent">pala de pádel</span> perfecta para ti</h1>
+      <p class="hero-sub">Filtra por nivel, estilo de juego, forma, balance y precio. Compara hasta 4 palas lado a lado.</p>
+      <div class="hero-stats">
+        <div class="stat"><b id="stat-palas">0</b><span>palas</span></div>
+        <div class="stat"><b id="stat-marcas">0</b><span>marcas</span></div>
+        <div class="stat"><b id="stat-tiendas">0</b><span>tiendas</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Toolbar -->
+  <div class="container">
+    <div class="toolbar">
+      <input type="search" id="buscador" placeholder="Buscar por marca o modelo…" autocomplete="off">
+      <select id="orden">
+        <option value="relevancia">Más populares</option>
+        <option value="precio-asc">Precio: menor a mayor</option>
+        <option value="precio-desc">Precio: mayor a menor</option>
+        <option value="valoracion">Mejor valoradas</option>
+      </select>
+      <button id="btn-filtros-movil" class="btn-ghost only-mobile">Filtros</button>
+    </div>
+  </div>
+
+  <!-- Layout principal -->
+  <main class="container layout">
+    <aside id="sidebar" class="sidebar">
+      <div class="filtros-card">
+        <div class="filtros-head">
+          <h2>Filtros</h2>
+          <button id="btn-limpiar" class="link">Limpiar</button>
+        </div>
+        <div id="filtros"><!-- generado por JS --></div>
+        <fieldset class="filtro-grupo">
+          <legend>Precio máximo</legend>
+          <input type="range" id="precio-range" min="0" max="500" step="5">
+          <div class="precio-labels">
+            <span id="precio-min">0 €</span>
+            <span>Hasta <b id="precio-max-val">0 €</b></span>
+          </div>
+        </fieldset>
+      </div>
+    </aside>
+
+    <section class="resultados-col">
+      <p class="resultados-count"><span id="contador">0</span> palas encontradas</p>
+      <div id="grid" class="grid"><!-- tarjetas generadas por JS --></div>
+      <div id="vacio" class="vacio" hidden>
+        <p class="vacio-titulo">Sin resultados</p>
+        <p class="vacio-sub">Prueba a ampliar el presupuesto o quitar algún filtro.</p>
+        <button id="btn-limpiar-2" class="btn-primary">Limpiar filtros</button>
+      </div>
+    </section>
+  </main>
+
+  <!-- Barra de comparación fija -->
+  <div id="compare-bar" class="compare-bar" hidden>
+    <div class="container compare-bar-inner">
+      <span class="compare-bar-title">Comparar (<span id="compare-count">0</span>/4):</span>
+      <div id="compare-chips" class="compare-chips"></div>
+      <button id="btn-vaciar" class="link">Vaciar</button>
+      <button id="btn-comparar" class="btn-primary" disabled>Comparar palas</button>
+    </div>
+  </div>
+
+  <!-- Modal de comparación -->
+  <div id="modal" class="modal" hidden>
+    <div class="modal-card">
+      <div class="modal-head">
+        <h2>Comparativa (<span id="modal-count">0</span>)</h2>
+        <button id="btn-cerrar-modal" class="btn-ghost">Cerrar ✕</button>
+      </div>
+      <div class="modal-body">
+        <table id="tabla-compara" class="tabla-compara"></table>
+      </div>
+    </div>
+  </div>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>PadelCompare · Datos orientativos obtenidos de tiendas de terceros. Los precios pueden variar; consulta siempre la tienda de origen.</p>
+    </div>
+  </footer>
+
+  <!-- Datos + lógica -->
+  <script src="datos/productos.js"></script>
+  <script src="assets/app.js"></script>
+  <!-- Pantalla de contraseña (disuasoria) -->
+  <script src="assets/gate.js"></script>
+  <!-- Asistente IA flotante -->
+  <script src="assets/widget.js"></script>
+</body>
+</html>
