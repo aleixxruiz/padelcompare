@@ -16,6 +16,9 @@
 
 * { box-sizing: border-box; }
 
+/* El atributo [hidden] debe ocultar siempre, por encima de display:flex/grid. */
+[hidden] { display: none !important; }
+
 html, body { height: 100%; }
 
 body {
