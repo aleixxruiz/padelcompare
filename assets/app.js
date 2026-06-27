@@ -154,8 +154,8 @@
 
   // -------- Render: filtros --------
   function grupoCheck(titulo, opciones, clave, etiquetaFn) {
-    var fs = el("fieldset", { class: "filtro-grupo" });
-    fs.appendChild(el("legend", null, titulo));
+    var fs = el("div", { class: "filtro-grupo" });
+    fs.appendChild(el("div", { class: "filtro-titulo" }, titulo));
     opciones.forEach(function (op) {
       var lab = el("label", { class: "filtro-opcion" });
       var checked = estado[clave].indexOf(op) !== -1 ? " checked" : "";
