@@ -154,6 +154,10 @@ input[type="range"] { width: 100%; accent-color: var(--accent); }
 .vacio-titulo { font-size: 18px; font-weight: 700; margin: 0; }
 .vacio-sub { color: var(--muted); margin: 6px 0 16px; }
 
+/* ---- Ver más ---- */
+.ver-mas-wrap { text-align: center; margin-top: 24px; }
+.ver-mas-wrap .btn-ghost { padding: 11px 28px; font-weight: 600; }
+
 /* ---- Barra de comparación ---- */
 .compare-bar { position: fixed; left: 0; right: 0; bottom: 0; z-index: 40; background: rgba(255,255,255,.96); backdrop-filter: blur(8px); border-top: 1px solid var(--border); }
 .compare-bar-inner { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; padding: 12px 20px; }

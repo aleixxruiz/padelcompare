@@ -7,6 +7,8 @@
 
   var PRODUCTOS = window.PRODUCTOS || [];
   var MAX_COMPARAR = 4;
+  var LOTE = 24;        // palas que se muestran por tanda
+  var mostradas = LOTE; // cuántas hay visibles ahora mismo
 
   // -------- Estado --------
   var estado = {
@@ -123,13 +125,30 @@
     var lista = filtrar();
     var grid = document.getElementById("grid");
     var vacio = document.getElementById("vacio");
+    var verMasWrap = document.getElementById("ver-mas-wrap");
     document.getElementById("contador").textContent = lista.length;
     grid.innerHTML = "";
     if (lista.length === 0) {
-      grid.hidden = true; vacio.hidden = false; return;
+      grid.hidden = true; vacio.hidden = false; verMasWrap.hidden = true; return;
     }
     grid.hidden = false; vacio.hidden = true;
-    lista.forEach(function (p) { grid.appendChild(tarjeta(p)); });
+    if (mostradas > lista.length) mostradas = lista.length;
+    var visibles = lista.slice(0, mostradas);
+    visibles.forEach(function (p) { grid.appendChild(tarjeta(p)); });
+    var restantes = lista.length - visibles.length;
+    if (restantes > 0) {
+      verMasWrap.hidden = false;
+      document.getElementById("ver-mas").textContent =
+        "Ver más palas (" + restantes + " restantes)";
+    } else {
+      verMasWrap.hidden = true;
+    }
+  }
+
+  // Reinicia la paginación y repinta (al cambiar filtros/búsqueda/orden).
+  function aplicarFiltros() {
+    mostradas = LOTE;
+    renderGrid();
   }
 
   // -------- Render: filtros --------
@@ -244,7 +263,7 @@
     document.getElementById("precio-range").value = PRECIO_MAX;
     document.getElementById("precio-max-val").textContent = eur(PRECIO_MAX);
     renderFiltros();
-    renderGrid();
+    aplicarFiltros();
   }
 
   // -------- Inicialización --------
@@ -274,22 +293,26 @@
       var idx = arr.indexOf(val);
       if (cb.checked && idx === -1) arr.push(val);
       else if (!cb.checked && idx !== -1) arr.splice(idx, 1);
-      renderGrid();
+      aplicarFiltros();
     });
 
     // Buscador
     document.getElementById("buscador").addEventListener("input", function (e) {
-      estado.busqueda = e.target.value; renderGrid();
+      estado.busqueda = e.target.value; aplicarFiltros();
     });
     // Orden
     document.getElementById("orden").addEventListener("change", function (e) {
-      estado.orden = e.target.value; renderGrid();
+      estado.orden = e.target.value; aplicarFiltros();
     });
     // Precio
     range.addEventListener("input", function (e) {
       estado.precioMax = Number(e.target.value);
       document.getElementById("precio-max-val").textContent = eur(estado.precioMax);
-      renderGrid();
+      aplicarFiltros();
+    });
+    // Ver más palas
+    document.getElementById("ver-mas").addEventListener("click", function () {
+      mostradas += LOTE; renderGrid();
     });
 
     // Grid: botón comparar (delegación)
