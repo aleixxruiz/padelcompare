@@ -92,6 +92,11 @@
     c.innerHTML =
       '<div class="card-img">' +
         '<span class="inicial">' + p.marca.charAt(0) + '</span>' +
+        (p.imagen
+          ? '<img class="card-foto" src="' + p.imagen + '" alt="' +
+            String(p.nombre).replace(/"/g, "&quot;") +
+            '" loading="lazy" onerror="this.remove()">'
+          : "") +
         (desc != null ? '<span class="card-badge-desc">-' + desc + '%</span>' : '') +
         '<span class="card-tienda">' + p.tienda + '</span>' +
       '</div>' +
