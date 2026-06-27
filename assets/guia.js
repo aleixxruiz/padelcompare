@@ -23,7 +23,7 @@
     "#guia-head .sub{font-size:12px;color:#5d6b62}" +
     "#guia-close{background:none;border:none;font-size:20px;cursor:pointer;color:#5d6b62;line-height:1}" +
     "#guia-card img{display:block;width:100%;height:auto}" +
-    "@media(max-width:640px){#guia-fab{right:auto;left:16px;bottom:88px}}";
+    "@media(max-width:900px){#guia-fab{right:auto;left:16px;bottom:20px;padding:12px 16px}}";
   document.head.appendChild(css);
 
   function montar() {
