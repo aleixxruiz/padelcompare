@@ -273,11 +273,6 @@
 
   // -------- Inicialización --------
   function init() {
-    // Stats
-    document.getElementById("stat-palas").textContent = PRODUCTOS.length;
-    document.getElementById("stat-marcas").textContent = MARCAS.length;
-    document.getElementById("stat-tiendas").textContent = TIENDAS.length;
-
     // Precio
     var range = document.getElementById("precio-range");
     range.min = PRECIO_MIN; range.max = PRECIO_MAX; range.value = PRECIO_MAX;
