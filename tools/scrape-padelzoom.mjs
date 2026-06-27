@@ -1,0 +1,172 @@
+/**
+ * Scraper de padelzoom.es → datos/productos.js
+ *
+ * Sigue el método del tutorial https://hescaso.github.io/ScrapingPalas/:
+ *   1) Recorre el listado paginado (palas/?fwp_paged=N) → nombre, precio,
+ *      puntuación, descuento, imagen y enlace a la ficha.
+ *   2) Entra en cada ficha → forma, balance, nivel, peso y descripción.
+ *
+ * Uso:
+ *   node tools/scrape-padelzoom.mjs                 # todo el catálogo + fichas
+ *   node tools/scrape-padelzoom.mjs --sin-detalles  # solo el listado (rápido)
+ *   node tools/scrape-padelzoom.mjs --max-paginas 5 # límite para pruebas
+ *
+ * Tras revisar:  git add datos/productos.js && git commit && git push
+ */
+import { writeFileSync } from "node:fs";
+import { fileURLToPath } from "node:url";
+import { dirname, resolve } from "node:path";
+
+const __dirname = dirname(fileURLToPath(import.meta.url));
+const OUT = resolve(__dirname, "../datos/productos.js");
+const BASE = "https://padelzoom.es";
+const UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36";
+
+const args = process.argv.slice(2);
+const SIN_DETALLES = args.includes("--sin-detalles");
+const MAX_PAGINAS = (() => { const i = args.indexOf("--max-paginas"); return i >= 0 ? Number(args[i + 1]) : 100; })();
+
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+
+async function get(url, reintentos = 2) {
+  for (let i = 0; i <= reintentos; i++) {
+    try {
+      const r = await fetch(url, { headers: { "User-Agent": UA, "Accept-Language": "es-ES,es;q=0.9" } });
+      if (!r.ok) throw new Error("HTTP " + r.status);
+      return await r.text();
+    } catch (e) { if (i === reintentos) throw e; await sleep(700 * (i + 1)); }
+  }
+}
+
+// --- utilidades de texto ----------------------------------------------------
+const limpiar = (s) => s.replace(/<[^>]*>/g, "").replace(/&amp;/g, "&").replace(/&nbsp;/g, " ").replace(/&#?\w+;/g, " ").replace(/\s+/g, " ").trim();
+const num = (s) => { if (!s) return null; const n = parseFloat(String(s).replace(/[^\d,.]/g, "").replace(",", ".")); return Number.isFinite(n) ? n : null; };
+const slug = (s) => String(s).normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
+
+const MARCAS = ["Bullpadel","Adidas","Nox","Head","Babolat","Siux","StarVie","Star Vie","Wilson","Dunlop","Vibora","Víbora","Kuikma","Drop Shot","Black Crown","Varlion","Akkeron","Royal Padel","Enebe","Vairo","Alkemia","Kelme","Joma","Munich","Kombat","Prince","Mystica","Cartri"];
+function marcaDe(nombre) {
+  const t = nombre.toLowerCase();
+  for (const m of MARCAS) if (t.startsWith(m.toLowerCase())) return m === "Star Vie" ? "StarVie" : (m === "Víbora" ? "Vibora" : m);
+  return nombre.split(/\s+/)[0];
+}
+function estiloDe(t) { t = t.toLowerCase(); const p = /potencia|pegada|remate|ataque|power|ofensiv/.test(t), c = /control|precisi|defensa|manejab|toque/.test(t); if (p && !c) return "potencia"; if (c && !p) return "control"; return "polivalente"; }
+function formaDe(t) { t = t.toLowerCase(); if (/diamante/.test(t)) return "diamante"; if (/l[áa]grima|gota|h[íi]brid|teardrop/.test(t)) return "lágrima"; if (/redond/.test(t)) return "redonda"; return null; }
+function balanceDe(t) { t = t.toLowerCase(); if (/balance\s+alto|balance\s+medio[- ]?alto/.test(t)) return "alto"; if (/balance\s+bajo/.test(t)) return "bajo"; if (/balance\s+medio/.test(t)) return "medio"; return null; }
+function nivelDe(t) { t = t.toLowerCase(); if (/iniciaci[óo]n|principiante/.test(t)) return "iniciación"; if (/avanzad|competici|profesional|experto/.test(t)) return "avanzado"; if (/nivel\s+(de\s+)?medio|intermedio/.test(t)) return "intermedio"; return null; }
+
+// --- 1) listado -------------------------------------------------------------
+function parseListado(html) {
+  const out = [];
+  const re = /<a\s+href="(https:\/\/padelzoom\.es\/[^"]+)"[^>]*>([\s\S]*?text-title-price[\s\S]*?)<\/a>/g;
+  let m;
+  while ((m = re.exec(html))) {
+    const url = m[1], inner = m[2];
+    if (/\/palas\/?(\?|$)/.test(url) || url.includes("#")) continue;
+    const nombre = limpiar((inner.match(/text-title-price[\s\S]*?<p>([\s\S]*?)<\/p>/) || [])[1] || "");
+    if (!nombre) continue;
+    const punt = num((inner.match(/color-red">([\d.,]+)</) || [])[1]);
+    const precio = num((inner.match(/color-blue[^"]*">([\d.,]+)</) || [])[1]);
+    const desc = num((inner.match(/descuento-pala-col[^>]*><span>\s*-?(\d+)\s*%/) || [])[1]);
+    let img = (inner.match(/<img[^>]*src="([^"]+)"/) || [])[1] || "";
+    if (img && img.startsWith("/")) img = BASE + img;
+    if (precio == null) continue;
+    out.push({ nombre, url, puntuacion: punt, precio, descuentoPct: desc, imagen: img || undefined });
+  }
+  return out;
+}
+
+// --- 2) ficha de detalle ----------------------------------------------------
+function parseDetalle(html) {
+  const meta = (html.match(/<meta[^>]+name="description"[^>]+content="([^"]*)"/i) || [])[1] || "";
+  const visible = html.replace(/<script[\s\S]*?<\/script>/gi, "").replace(/<style[\s\S]*?<\/style>/gi, "");
+  const texto = limpiar(visible); // quitar etiquetas ANTES de analizar (las specs están en el cuerpo)
+  const peso = (texto.match(/Peso\s*:?\s*(\d{3})\s*(?:gramos|gr|g)\b/i) || [])[1];
+  const corta = (s) => s ? s.replace(/\s+(Tacto|Forma|Balance|Nivel|Cara|N[úu]cleo|Marco|Peso|Material|Superficie|Goma|Dureza|Acabado)\b.*$/i, "").trim() : s;
+  const goma = corta((texto.match(/Material\s+goma\s*:?\s*([A-Za-z0-9 .\-]{2,40})/i) || [])[1]);
+  const cara = corta((texto.match(/(?:Material\s+)?(?:cara|superficie)\s*:?\s*([A-Za-z0-9 .\-]{2,40})/i) || [])[1]);
+  return {
+    descripcion: limpiar(meta) || texto.slice(0, 240),
+    forma: formaDe(texto), balance: balanceDe(texto), nivel: nivelDe(texto),
+    estilo: estiloDe(texto),
+    peso: peso ? peso + " g" : undefined,
+    material: (goma || cara) ? { cara: cara ? cara.trim() : undefined, nucleo: goma ? goma.trim() : undefined } : undefined,
+  };
+}
+
+// --- pool de concurrencia ---------------------------------------------------
+async function pool(items, n, fn) {
+  const res = new Array(items.length); let idx = 0;
+  await Promise.all(Array.from({ length: n }, async () => {
+    while (idx < items.length) { const i = idx++; try { res[i] = await fn(items[i], i); } catch { res[i] = null; } }
+  }));
+  return res;
+}
+
+async function main() {
+  console.log("▶ Recorriendo el listado de padelzoom.es…");
+  const vistos = new Set();
+  let lista = [];
+  for (let p = 1; p <= MAX_PAGINAS; p++) {
+    let html;
+    try { html = await get(`${BASE}/palas/?fwp_paged=${p}`); }
+    catch (e) { console.warn(`  página ${p}: ${e.message}`); break; }
+    const items = parseListado(html).filter((x) => !vistos.has(x.url));
+    if (items.length === 0) { console.log(`  página ${p}: 0 nuevas → fin`); break; }
+    items.forEach((x) => vistos.add(x.url));
+    lista = lista.concat(items);
+    console.log(`  página ${p}: +${items.length} (total ${lista.length})`);
+    await sleep(250);
+  }
+  console.log(`▶ ${lista.length} palas en el listado.`);
+
+  if (!SIN_DETALLES && lista.length) {
+    console.log("▶ Descargando fichas de detalle (forma/balance/nivel/peso)…");
+    let hechas = 0;
+    await pool(lista, 5, async (item) => {
+      try {
+        const det = parseDetalle(await get(item.url));
+        Object.assign(item, det);
+      } catch {}
+      if (++hechas % 50 === 0) console.log(`  ${hechas}/${lista.length} fichas`);
+    });
+  }
+
+  // Normalizar al esquema de la web
+  const productos = lista.map((x) => {
+    const base = `${x.nombre} ${x.descripcion || ""}`;
+    const forma = x.forma || formaDe(base) || "redonda";
+    const balance = x.balance || balanceDe(base) || (forma === "diamante" ? "alto" : forma === "redonda" ? "bajo" : "medio");
+    // Estilo según forma+balance (criterio habitual del pádel; el texto de
+    // reseña menciona "control" y "potencia" a la vez y no sirve para clasificar).
+    const estilo = (forma === "diamante" && balance === "alto") ? "potencia"
+      : (forma === "redonda" && balance === "bajo") ? "control"
+      : "polivalente";
+    const precioOriginal = x.descuentoPct ? +(x.precio / (1 - x.descuentoPct / 100)).toFixed(2) : undefined;
+    return {
+      id: slug(x.nombre),
+      nombre: x.nombre,
+      marca: marcaDe(x.nombre),
+      precio: x.precio,
+      precioOriginal: precioOriginal && precioOriginal > x.precio ? precioOriginal : undefined,
+      nivel: x.nivel || nivelDe(base) || "intermedio",
+      estilo,
+      forma,
+      balance,
+      peso: x.peso,
+      material: x.material,
+      descripcion: x.descripcion || x.nombre,
+      valoracion: x.puntuacion != null ? +(x.puntuacion / 2).toFixed(1) : undefined, // /10 → /5
+      popularidad: x.puntuacion != null ? Math.round(x.puntuacion * 10) : undefined,
+      imagen: x.imagen,
+      url: x.url,
+      tienda: "Padelzoom",
+    };
+  });
+
+  const out = "/* Generado por tools/scrape-padelzoom.mjs (datos de padelzoom.es). No editar a mano. */\n" +
+    "window.PRODUCTOS = " + JSON.stringify(productos, null, 2) + ";\n";
+  writeFileSync(OUT, out);
+  console.log(`✓ Escrito ${productos.length} palas en datos/productos.js`);
+}
+
+main().catch((e) => { console.error(e); process.exit(1); });

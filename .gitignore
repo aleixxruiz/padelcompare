@@ -2,9 +2,16 @@
 .DS_Store
 Thumbs.db
 
-# Editor
+# Editor / IDE
 .vscode/
 .idea/
+.claude/
+
+# Restos de Node / Next (no van en una web estática)
+node_modules/
+.next/
+*.tsbuildinfo
+err.txt
 
 # Worker (si usas wrangler)
 worker/node_modules/
