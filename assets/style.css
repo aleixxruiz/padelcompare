@@ -138,6 +138,7 @@ input[type="range"] { width: 100%; accent-color: var(--accent); }
 .card-precio .actual { font-size: 20px; font-weight: 800; }
 .card-precio .original { font-size: 14px; color: var(--muted); text-decoration: line-through; }
 .card-acciones { display: flex; gap: 8px; margin-top: auto; }
+.card-acciones .btn-comparar { flex: 1; }
 .card-acciones .btn-tienda {
   flex: 1; text-align: center; text-decoration: none; padding: 9px 12px; border-radius: 10px;
   border: 1px solid var(--border); font-size: 14px; font-weight: 500;

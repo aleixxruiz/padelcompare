@@ -183,9 +183,7 @@ async function main() {
       descripcion: x.descripcion || x.nombre,
       valoracion: x.puntuacion != null ? +(x.puntuacion / 2).toFixed(1) : undefined, // /10 → /5
       popularidad: x.puntuacion != null ? Math.round(x.puntuacion * 10) : undefined,
-      imagen: x.imagen,
-      url: x.url,
-      tienda: "Padelzoom",
+      imagen: x.imagen, // URL temporal; ejecuta tools/localize-images.mjs para descargarla a assets/palas/
     };
   });
 

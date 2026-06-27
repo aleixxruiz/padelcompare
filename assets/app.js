@@ -32,7 +32,6 @@
 
   function unicos(arr) { return arr.filter(function (v, i) { return arr.indexOf(v) === i; }); }
   var MARCAS = unicos(PRODUCTOS.map(function (p) { return p.marca; })).sort(function (a, b) { return a.localeCompare(b, "es"); });
-  var TIENDAS = unicos(PRODUCTOS.map(function (p) { return p.tienda; })).sort();
   var PRECIOS = PRODUCTOS.map(function (p) { return p.precio; });
   var PRECIO_MIN = PRECIOS.length ? Math.floor(Math.min.apply(null, PRECIOS)) : 0;
   var PRECIO_MAX = PRECIOS.length ? Math.ceil(Math.max.apply(null, PRECIOS)) : 500;
@@ -68,7 +67,6 @@
       if (estado.formas.length && estado.formas.indexOf(p.forma) === -1) return false;
       if (estado.balances.length && estado.balances.indexOf(p.balance) === -1) return false;
       if (estado.marcas.length && estado.marcas.indexOf(p.marca) === -1) return false;
-      if (estado.tiendas.length && estado.tiendas.indexOf(p.tienda) === -1) return false;
       if (p.precio > estado.precioMax) return false;
       return true;
     });
@@ -98,7 +96,6 @@
             '" loading="lazy" onerror="this.remove()">'
           : "") +
         (desc != null ? '<span class="card-badge-desc">-' + desc + '%</span>' : '') +
-        '<span class="card-tienda">' + p.tienda + '</span>' +
       '</div>' +
       '<div class="card-body">' +
         '<div>' +
@@ -117,7 +114,6 @@
           '</div>' +
         '</div>' +
         '<div class="card-acciones">' +
-          '<a class="btn-tienda" href="' + p.url + '" target="_blank" rel="noopener noreferrer">Ver en tienda</a>' +
           '<button class="btn-comparar ' + (sel ? "on" : (puede ? "add" : "")) + '"' + (!puede && !sel ? " disabled" : "") + ' data-comparar="' + p.id + '">' +
             (sel ? "✓ Comparando" : "Comparar") +
           '</button>' +
@@ -178,7 +174,6 @@
     cont.appendChild(grupoCheck("Forma", FORMAS, "formas"));
     cont.appendChild(grupoCheck("Balance", BALANCES, "balances"));
     cont.appendChild(grupoCheck("Marca", MARCAS, "marcas", function (v) { return v; }));
-    cont.appendChild(grupoCheck("Tienda", TIENDAS, "tiendas", function (v) { return v; }));
   }
 
   // -------- Render: barra de comparación --------
@@ -217,7 +212,6 @@
     { etq: "Material plano", val: function (p) { return (p.material && p.material.plano) || "—"; } },
     { etq: "Material goma", val: function (p) { return (p.material && p.material.goma) || "—"; } },
     { etq: "Temporada", val: function (p) { return p.temporada || p.anio || "—"; } },
-    { etq: "Tienda", val: function (p) { return p.tienda; } },
   ];
 
   function abrirModal() {
@@ -239,11 +233,7 @@
       });
       html += "</tr>";
     });
-    html += '<tr><td></td>';
-    ps.forEach(function (p) {
-      html += '<td><a class="btn-tienda-mini" href="' + p.url + '" target="_blank" rel="noopener noreferrer">Ver en tienda</a></td>';
-    });
-    html += "</tr></tbody>";
+    html += "</tbody>";
     tabla.innerHTML = html;
     document.getElementById("modal").hidden = false;
     document.body.style.overflow = "hidden";

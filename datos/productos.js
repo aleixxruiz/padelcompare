@@ -1,4 +1,4 @@
-/* Generado por tools/scrape-padelzoom.mjs (datos de padelzoom.es). No editar a mano. */
+/* Catálogo de palas. Imágenes locales en assets/palas/. */
 window.PRODUCTOS = [
   {
     "id": "head-extreme-pro-2026",
@@ -22,9 +22,7 @@ window.PRODUCTOS = [
     "descripcion": "Jugadores ofensivos, principalmente de revés, con buena técnica y que disfrutan dominando desde la red. También es ideal para quienes buscan una pala rígida y estable, que premie el gesto firme y la agresividad en todo momento.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-extreme-pro-2026.jpg",
-    "url": "https://padelzoom.es/head-extreme-pro-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-extreme-pro-2026.jpg"
   },
   {
     "id": "alkemia-ignis-2026",
@@ -48,9 +46,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Alkemia Ignis 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Alkemia/alkemia-ignis-2026.jpg",
-    "url": "https://padelzoom.es/alkemia-ignis-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/alkemia-ignis-2026.jpg"
   },
   {
     "id": "alkemia-tenebris-2026",
@@ -74,9 +70,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Alkemia Tenebris 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Alkemia/alkemia-tenebris-2026.jpg",
-    "url": "https://padelzoom.es/alkemia-tenebris-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/alkemia-tenebris-2026.jpg"
   },
   {
     "id": "wilson-bela-pro-v3-2025",
@@ -100,9 +94,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Wilson Bela Pro V3 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Wilson/wilson-bela-pro-v3-2025.jpg",
-    "url": "https://padelzoom.es/wilson-bela-pro-v3-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/wilson-bela-pro-v3-2025.jpg"
   },
   {
     "id": "siux-electra-pro-shadow-red-2026-franco-stupackzuk",
@@ -126,9 +118,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Electra Pro Shadow Red 2026 Franco Stupackzuk. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-electra-pro-shadow-red-2026-franco-stupackzuk.jpg",
-    "url": "https://padelzoom.es/siux-electra-pro-shadow-red-2026-franco-stupackzuk/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-electra-pro-shadow-red-2026-franco-stupackzuk.jpg"
   },
   {
     "id": "siux-electra-pro-fire-red-2026-franco-stupackzuk",
@@ -152,9 +142,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Electra Pro Fire Red 2026 Franco Stupackzuk. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-electra-pro-fire-red-2026-franco-stupackzuk.jpg",
-    "url": "https://padelzoom.es/siux-electra-pro-fire-red-2026-franco-stupackzuk/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-electra-pro-fire-red-2026-franco-stupackzuk.jpg"
   },
   {
     "id": "bullpadel-vertex-05-2026-juan-tello",
@@ -178,9 +166,7 @@ window.PRODUCTOS = [
     "descripcion": "Para jugadores avanzados o intermedios de revés que desean un juego ofensivo controlado, que suben con frecuencia a la red y buscan una pala estable, firme y con pegada, pero sin perder manejabilidad ni control desde atrás.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-vertex-05-2026-juan-tello.jpg",
-    "url": "https://padelzoom.es/bullpadel-vertex-05-2026-juan-tello/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-vertex-05-2026-juan-tello.jpg"
   },
   {
     "id": "bullpadel-hack-04-2026-paquito-navarro",
@@ -204,9 +190,7 @@ window.PRODUCTOS = [
     "descripcion": "Para jugadores ofensivos de nivel avanzado que dominan la red, que golpean firme y buscan una pala estable, potente y precisa. Ideal para perfiles como el propio Paquito: juego agresivo, velocidad de brazo y mucho protagonismo en el punto.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-hack-04-2026-paquito-navarro.jpg",
-    "url": "https://padelzoom.es/bullpadel-hack-04-2026-paquito-navarro/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-hack-04-2026-paquito-navarro.jpg"
   },
   {
     "id": "nox-at10-luxury-genius-12k-alum-xtrem-2026-agustin-tapia",
@@ -230,9 +214,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox AT10 Luxury Genius 12K Alum Xtrem 2026 Agustin Tapia. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-at10-luxury-genius-12k-alum-xtrem-2026-agustin-tapia.jpg",
-    "url": "https://padelzoom.es/nox-at10-luxury-genius-12k-alum-xtrem-2026-agustin-tapia/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-at10-luxury-genius-12k-alum-xtrem-2026-agustin-tapia.jpg"
   },
   {
     "id": "babolat-technical-viper-3-0-2026",
@@ -256,9 +238,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Babolat Technical Viper 3.0 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Babolat/babolat-technical-viper-3-0-2026.jpg",
-    "url": "https://padelzoom.es/babolat-technical-viper-3-0-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/babolat-technical-viper-3-0-2026.jpg"
   },
   {
     "id": "head-coello-pro-2026",
@@ -282,9 +262,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Coello Pro 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-coello-pro-2026.jpg",
-    "url": "https://padelzoom.es/head-coello-pro-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-coello-pro-2026.jpg"
   },
   {
     "id": "nox-at10-luxury-genius-18k-alum-2026-agustin-tapia",
@@ -308,9 +286,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox AT10 Luxury Genius 18K Alum 2026 Agustin Tapia. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-at10-luxury-genius-18k-alum-2026-agustin-tapia.jpg",
-    "url": "https://padelzoom.es/nox-at10-luxury-genius-18k-alum-2026-agustin-tapia/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-at10-luxury-genius-18k-alum-2026-agustin-tapia.jpg"
   },
   {
     "id": "babolat-viper-3-0-2026-juan-lebron",
@@ -334,9 +310,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Babolat Viper 3.0 2026 Juan Lebron. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Babolat/babolat-viper-3-0-2026-juan-lebron.jpg",
-    "url": "https://padelzoom.es/babolat-viper-3-0-2026-juan-lebron/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/babolat-viper-3-0-2026-juan-lebron.jpg"
   },
   {
     "id": "oxdog-ultimate-pro-2026",
@@ -359,9 +333,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Oxdog Ultimate Pro+ 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Oxdog/oxdog-ultimate-pro-plus-2026.jpg",
-    "url": "https://padelzoom.es/oxdog-ultimate-pro-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/oxdog-ultimate-pro-2026.jpg"
   },
   {
     "id": "adidas-metalbone-hrd-2026-ale-galan",
@@ -385,9 +357,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Metalbone HRD+ 2026 - Ale Galan. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-metalbone-hrd-2026-ale-galan.jpg",
-    "url": "https://padelzoom.es/adidas-metalbone-hrd-2026-ale-galan/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-metalbone-hrd-2026-ale-galan.jpg"
   },
   {
     "id": "head-radical-pro-2026",
@@ -411,9 +381,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Radical Pro 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-radical-pro-2026.jpg",
-    "url": "https://padelzoom.es/head-radical-pro-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-radical-pro-2026.jpg"
   },
   {
     "id": "wilson-bela-ls-v3-2025",
@@ -437,9 +405,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Wilson Bela LS V3 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Wilson/wilson-bela-ls-v3-2025.jpg",
-    "url": "https://padelzoom.es/wilson-bela-ls-v3-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/wilson-bela-ls-v3-2025.jpg"
   },
   {
     "id": "wilson-bela-v3-2025",
@@ -463,9 +429,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Wilson Bela V3 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Wilson/wilson-bela-v3-2025.jpg",
-    "url": "https://padelzoom.es/wilson-bela-v3-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/wilson-bela-v3-2025.jpg"
   },
   {
     "id": "alkemia-vento-2026",
@@ -489,9 +453,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Alkemia Vento 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Alkemia/alkemia-vento-2026.jpg",
-    "url": "https://padelzoom.es/alkemia-vento-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/alkemia-vento-2026.jpg"
   },
   {
     "id": "alkemia-terra-2026",
@@ -515,9 +477,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Alkemia Terra 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Alkemia/alkemia-terra-2026.jpg",
-    "url": "https://padelzoom.es/alkemia-terra-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/alkemia-terra-2026.jpg"
   },
   {
     "id": "star-vie-black-titan-2026",
@@ -541,9 +501,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Star Vie Black Titan 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Star-Vie/star-vie-black-titan-2026.jpg",
-    "url": "https://padelzoom.es/star-vie-black-titan-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/star-vie-black-titan-2026.jpg"
   },
   {
     "id": "star-vie-raptor-2026-plus",
@@ -567,9 +525,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Star Vie Raptor 2026 Plus. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Star-Vie/star-vie-raptor-2026-plus.jpg",
-    "url": "https://padelzoom.es/star-vie-raptor-2026-plus/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/star-vie-raptor-2026-plus.jpg"
   },
   {
     "id": "babolat-technical-viper-soft-3-0-2026",
@@ -593,9 +549,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Babolat Technical Viper Soft 3.0 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Babolat/babolat-technical-viper-soft-3-0-2026.jpg",
-    "url": "https://padelzoom.es/babolat-technical-viper-soft-3-0-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/babolat-technical-viper-soft-3-0-2026.jpg"
   },
   {
     "id": "babolat-counter-viper-2026",
@@ -619,9 +573,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Babolat Counter Viper 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Babolat/babolat-counter-viper-2026.jpg",
-    "url": "https://padelzoom.es/babolat-counter-viper-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/babolat-counter-viper-2026.jpg"
   },
   {
     "id": "babolat-counter-veron-2026",
@@ -645,9 +597,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Babolat Counter Veron 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Babolat/babolat-counter-veron-2026.jpg",
-    "url": "https://padelzoom.es/babolat-counter-veron-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/babolat-counter-veron-2026.jpg"
   },
   {
     "id": "bullpadel-xplo-2026-martin-di-nenno",
@@ -671,9 +621,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Xplo 2026 Martin Di Nenno. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-xplo-2026-martin-di-nenno.jpg",
-    "url": "https://padelzoom.es/bullpadel-xplo-2026-martin-di-nenno/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-xplo-2026-martin-di-nenno.jpg"
   },
   {
     "id": "babolat-air-viper-2026",
@@ -697,9 +645,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Babolat Air Viper 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Babolat/babolat-air-viper-2026.jpg",
-    "url": "https://padelzoom.es/babolat-air-viper-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/babolat-air-viper-2026.jpg"
   },
   {
     "id": "bullpadel-vertex-05-hybrid-2026",
@@ -723,9 +669,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Vertex 05 Hybrid 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-vertex-05-hybrid-2026.jpg",
-    "url": "https://padelzoom.es/bullpadel-vertex-05-hybrid-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-vertex-05-hybrid-2026.jpg"
   },
   {
     "id": "siux-pegasus-pro-storm-grey-2026",
@@ -749,9 +693,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Pegasus Pro Storm Grey 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-pegasus-pro-storm-grey-2026.jpg",
-    "url": "https://padelzoom.es/siux-pegasus-pro-storm-grey-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-pegasus-pro-storm-grey-2026.jpg"
   },
   {
     "id": "siux-pegasus-pro-lava-orange-2026",
@@ -775,9 +717,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Pegasus Pro Lava Orange 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-pegasus-pro-lava-orange-2026.jpg",
-    "url": "https://padelzoom.es/siux-pegasus-pro-lava-orange-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-pegasus-pro-lava-orange-2026.jpg"
   },
   {
     "id": "siux-diablo-pro-royal-blue-2026",
@@ -801,9 +741,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Diablo Pro Royal Blue 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-diablo-pro-royal-blue-2026.jpg",
-    "url": "https://padelzoom.es/siux-diablo-pro-royal-blue-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-diablo-pro-royal-blue-2026.jpg"
   },
   {
     "id": "siux-diablo-pro-night-blue-2026",
@@ -827,9 +765,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Diablo Pro Night Blue 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-diablo-pro-night-blue-2026.jpg",
-    "url": "https://padelzoom.es/siux-diablo-pro-night-blue-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-diablo-pro-night-blue-2026.jpg"
   },
   {
     "id": "bullpadel-neuron-02-2026-fede-chingotto",
@@ -853,9 +789,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Neuron 02 2026 Fede Chingotto. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-neuron-02-2026-fede-chingotto.jpg",
-    "url": "https://padelzoom.es/bullpadel-neuron-02-2026-fede-chingotto/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-neuron-02-2026-fede-chingotto.jpg"
   },
   {
     "id": "siux-trilogy-pro-ash-green-2026",
@@ -879,9 +813,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Trilogy Pro Ash Green 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-trilogy-pro-ash-green-2026.jpg",
-    "url": "https://padelzoom.es/siux-trilogy-pro-ash-green-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-trilogy-pro-ash-green-2026.jpg"
   },
   {
     "id": "siux-trilogy-pro-noir-fog-2026",
@@ -905,9 +837,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Trilogy Pro Noir Fog 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-trilogy-pro-noir-fog-2026.jpg",
-    "url": "https://padelzoom.es/siux-trilogy-pro-noir-fog-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-trilogy-pro-noir-fog-2026.jpg"
   },
   {
     "id": "bullpadel-vertex-05-geo-2026-pablo-cardona",
@@ -931,9 +861,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Vertex 05 GEO 2026 Pablo Cardona. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-vertex-05-geo-2026-pablo-cardona.jpg",
-    "url": "https://padelzoom.es/bullpadel-vertex-05-geo-2026-pablo-cardona/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-vertex-05-geo-2026-pablo-cardona.jpg"
   },
   {
     "id": "nox-at10-genius-12k-alum-xtrem-lite-2026",
@@ -957,9 +885,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox AT10 Genius 12K Alum Xtrem Lite 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-at10-genius-12k-alum-xtrem-lite-2026.jpg",
-    "url": "https://padelzoom.es/nox-at10-genius-12k-alum-xtrem-lite-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-at10-genius-12k-alum-xtrem-lite-2026.jpg"
   },
   {
     "id": "nox-at10-genius-attack-18k-alum-2026",
@@ -983,9 +909,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox AT10 Genius Attack 18K Alum 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-at10-genius-attack-18k-alum-2026.jpg",
-    "url": "https://padelzoom.es/nox-at10-genius-attack-18k-alum-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-at10-genius-attack-18k-alum-2026.jpg"
   },
   {
     "id": "adidas-metalbone-2026-ale-galan",
@@ -1009,9 +933,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Metalbone 2026 - Ale Galan. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-metalbone-2026-ale-galan.jpg",
-    "url": "https://padelzoom.es/adidas-metalbone-2026-ale-galan/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-metalbone-2026-ale-galan.jpg"
   },
   {
     "id": "wilson-endure-pro-v1-2026-momo-gonzalez",
@@ -1035,9 +957,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Wilson Endure Pro V1 2026 Momo Gonzalez. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Wilson/wilson-endure-pro-v1-2026-momo-gonzalez.jpg",
-    "url": "https://padelzoom.es/wilson-endure-pro-v1-2026-momo-gonzalez/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/wilson-endure-pro-v1-2026-momo-gonzalez.jpg"
   },
   {
     "id": "siux-valkiria-pro-2026",
@@ -1061,9 +981,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Valkiria Pro 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-valkiria-pro-2026.jpg",
-    "url": "https://padelzoom.es/siux-valkiria-pro-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-valkiria-pro-2026.jpg"
   },
   {
     "id": "adidas-cross-it-ctrl-2026",
@@ -1087,9 +1005,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Cross IT CTRL 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-cross-it-ctrl-2026.jpg",
-    "url": "https://padelzoom.es/adidas-cross-it-ctrl-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-cross-it-ctrl-2026.jpg"
   },
   {
     "id": "oxdog-pure-pro-2026",
@@ -1112,9 +1028,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Oxdog Pure Pro+ 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Oxdog/oxdog-pure-pro-plus-2026.jpg",
-    "url": "https://padelzoom.es/oxdog-pure-pro-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/oxdog-pure-pro-2026.jpg"
   },
   {
     "id": "vibora-black-mamba-pro-2-0-2026",
@@ -1138,9 +1052,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Vibora Black Mamba Pro 2.0 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Vibora/vibora-black-mamba-pro-2-0-2026.jpg",
-    "url": "https://padelzoom.es/vibora-black-mamba-pro-2-0-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/vibora-black-mamba-pro-2-0-2026.jpg"
   },
   {
     "id": "drop-shot-conqueror-attack-2-0-2026",
@@ -1164,9 +1076,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Drop Shot Conqueror Attack 2.0 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Drop-Shot/drop-shot-conqueror-attack-2-0-2026.jpg",
-    "url": "https://padelzoom.es/drop-shot-conqueror-attack-2-0-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/drop-shot-conqueror-attack-2-0-2026.jpg"
   },
   {
     "id": "oxdog-hyper-pro-2-0-2026",
@@ -1189,9 +1099,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Oxdog Hyper Pro 2.0 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Oxdog/oxdog-hyper-pro-2-0-2026.jpg",
-    "url": "https://padelzoom.es/oxdog-hyper-pro-2-0-2026-2/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/oxdog-hyper-pro-2-0-2026.jpg"
   },
   {
     "id": "oxdog-hyper-pro-2-0-2026",
@@ -1214,9 +1122,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Oxdog Hyper Pro+ 2.0 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Oxdog/oxdog-hyper-pro-plus-2-0-2026.jpg",
-    "url": "https://padelzoom.es/oxdog-hyper-pro-2-0-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/oxdog-hyper-pro-2-0-2026.jpg"
   },
   {
     "id": "vibora-titan-black-3k-2026",
@@ -1240,9 +1146,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Vibora Titan Black 3K 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Vibora/vibora-titan-black-3k-2026.jpg",
-    "url": "https://padelzoom.es/vibora-titan-black-3k-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/vibora-titan-black-3k-2026.jpg"
   },
   {
     "id": "vibora-titan-black-15k-twill-2026",
@@ -1266,9 +1170,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Vibora Titan Black 15K Twill 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Vibora/vibora-titan-black-15k-twill-2026.jpg",
-    "url": "https://padelzoom.es/vibora-titan-black-15k-twill-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/vibora-titan-black-15k-twill-2026.jpg"
   },
   {
     "id": "drop-shot-prime-attack-2026",
@@ -1292,9 +1194,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Drop Shot Prime Attack 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Drop-Shot/drop-shot-prime-attack-2026.jpg",
-    "url": "https://padelzoom.es/drop-shot-prime-attack-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/drop-shot-prime-attack-2026.jpg"
   },
   {
     "id": "oxdog-ultimate-pro-2026",
@@ -1317,9 +1217,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Oxdog Ultimate Pro 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Oxdog/oxdog-ultimate-pro-2026.jpg",
-    "url": "https://padelzoom.es/oxdog-ultimate-pro-2026-2/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/oxdog-ultimate-pro-2026.jpg"
   },
   {
     "id": "oxdog-ultimate-pro-smash-2026",
@@ -1342,9 +1240,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Oxdog Ultimate Pro Smash 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Oxdog/oxdog-ultimate-pro-smash-2026.jpg",
-    "url": "https://padelzoom.es/oxdog-ultimate-pro-smash-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/oxdog-ultimate-pro-smash-2026.jpg"
   },
   {
     "id": "adidas-metalbone-ctrl-2026",
@@ -1368,9 +1264,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Metalbone CTRL 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-metalbone-ctrl-2026.jpg",
-    "url": "https://padelzoom.es/adidas-metalbone-ctrl-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-metalbone-ctrl-2026.jpg"
   },
   {
     "id": "adidas-arrow-hit-ctrl-2026",
@@ -1394,9 +1288,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Arrow Hit CTRL 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-arrow-hit-ctrl-2026.jpg",
-    "url": "https://padelzoom.es/adidas-arrow-hit-ctrl-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-arrow-hit-ctrl-2026.jpg"
   },
   {
     "id": "head-graphene-360-alpha-pro",
@@ -1420,9 +1312,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Graphene 360 Alpha Pro. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-graphene-360-alpha-pro-2021.jpg",
-    "url": "https://padelzoom.es/head-graphene-360-alpha-pro/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-graphene-360-alpha-pro.jpg"
   },
   {
     "id": "head-radical-team-2026",
@@ -1446,9 +1336,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Radical Team 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-radical-team-2026.jpg",
-    "url": "https://padelzoom.es/head-radical-team-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-radical-team-2026.jpg"
   },
   {
     "id": "head-radical-motion-2026",
@@ -1472,9 +1360,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Radical Motion 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-radical-motion-2026.jpg",
-    "url": "https://padelzoom.es/head-radical-motion-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-radical-motion-2026.jpg"
   },
   {
     "id": "head-extreme-team-2026",
@@ -1498,9 +1384,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Extreme Team 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-extreme-team-2026.jpg",
-    "url": "https://padelzoom.es/head-extreme-team-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-extreme-team-2026.jpg"
   },
   {
     "id": "head-extreme-pro-ltd-2024",
@@ -1524,9 +1408,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Extreme Pro LTD 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-extreme-pro-ltd-2024.jpg",
-    "url": "https://padelzoom.es/head-extreme-pro-ltd-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-extreme-pro-ltd-2024.jpg"
   },
   {
     "id": "bullpadel-xplo-2025-martin-di-nenno",
@@ -1550,9 +1432,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel XPLO 2025 Martin Di Nenno. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-xplo-2025.jpg",
-    "url": "https://padelzoom.es/bullpadel-xplo-2025-martin-di-nenno/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-xplo-2025-martin-di-nenno.jpg"
   },
   {
     "id": "head-extreme-pro-2024",
@@ -1576,9 +1456,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Extreme Pro 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-extreme-pro-2024.jpg",
-    "url": "https://padelzoom.es/head-extreme-pro-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-extreme-pro-2024.jpg"
   },
   {
     "id": "babolat-technical-viper-2024",
@@ -1602,9 +1480,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Babolat Technical Viper 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Babolat/babolat-technical-viper-2024.jpg",
-    "url": "https://padelzoom.es/babolat-technical-viper-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/babolat-technical-viper-2024.jpg"
   },
   {
     "id": "bullpadel-hack-04-2025-paquito-navarro",
@@ -1628,9 +1504,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Hack 04 2025 Paquito Navarro. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-hack-04-2025.jpg",
-    "url": "https://padelzoom.es/bullpadel-hack-04-2025-paquito-navarro/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-hack-04-2025-paquito-navarro.jpg"
   },
   {
     "id": "bullpadel-hack-03-2023",
@@ -1654,9 +1528,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Hack 03 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-hack-03-2023.jpg",
-    "url": "https://padelzoom.es/bullpadel-hack-03-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-hack-03-2023.jpg"
   },
   {
     "id": "bullpadel-hack-03-2024",
@@ -1680,9 +1552,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Hack 03 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-hack-03-2024.jpg",
-    "url": "https://padelzoom.es/bullpadel-hack-03-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-hack-03-2024.jpg"
   },
   {
     "id": "nox-at10-genius-12k-2025",
@@ -1706,9 +1576,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox AT10 Genius 12K 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-at10-genius-12k-2025.jpg",
-    "url": "https://padelzoom.es/nox-at10-genius-12k-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-at10-genius-12k-2025.jpg"
   },
   {
     "id": "bullpadel-vertex-04-2024",
@@ -1732,9 +1600,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Vertex 04 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-vertex-04-2024.jpg",
-    "url": "https://padelzoom.es/bullpadel-vertex-04-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-vertex-04-2024.jpg"
   },
   {
     "id": "nox-at10-genius-12k-2024",
@@ -1758,9 +1624,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox AT10 Genius 12K 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-at10-genius-12k-2024.jpg",
-    "url": "https://padelzoom.es/nox-at10-genius-12k-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-at10-genius-12k-2024.jpg"
   },
   {
     "id": "star-vie-kenta-pro-2025",
@@ -1784,9 +1648,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Star Vie Kenta Pro 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Star-Vie/star-vie-kenta-pro-2025.jpg",
-    "url": "https://padelzoom.es/star-vie-kenta-pro-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/star-vie-kenta-pro-2025.jpg"
   },
   {
     "id": "head-extreme-motion-2026",
@@ -1810,9 +1672,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Extreme Motion 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-extreme-motion-2026.jpg",
-    "url": "https://padelzoom.es/head-extreme-motion-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-extreme-motion-2026.jpg"
   },
   {
     "id": "nox-at10-genius-18k-2024",
@@ -1836,9 +1696,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox AT10 Genius 18K 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-at10-genius-18k-2024.jpg",
-    "url": "https://padelzoom.es/nox-at10-genius-18k-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-at10-genius-18k-2024.jpg"
   },
   {
     "id": "head-speed-pro-x-2025",
@@ -1862,9 +1720,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Speed Pro X 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-speed-pro-x-2025.jpg",
-    "url": "https://padelzoom.es/head-speed-pro-x-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-speed-pro-x-2025.jpg"
   },
   {
     "id": "bullpadel-vertex-04-2025-juan-tello",
@@ -1888,9 +1744,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Vertex 04 2025 Juan Tello. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-vertex-04-2025.jpg",
-    "url": "https://padelzoom.es/bullpadel-vertex-04-2025-juan-tello/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-vertex-04-2025-juan-tello.jpg"
   },
   {
     "id": "bullpadel-vertex-03-2023",
@@ -1914,9 +1768,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Vertex 03 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-vertex-03-2023.jpg",
-    "url": "https://padelzoom.es/bullpadel-vertex-03-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-vertex-03-2023.jpg"
   },
   {
     "id": "star-vie-drax-2026-plus",
@@ -1940,9 +1792,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Star Vie Drax 2026 Plus. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Star-Vie/star-vie-drax-2026-plus.jpg",
-    "url": "https://padelzoom.es/star-vie-drax-2026-plus/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/star-vie-drax-2026-plus.jpg"
   },
   {
     "id": "wilson-bela-pro-v2-5-2024",
@@ -1966,9 +1816,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Wilson Bela Pro V2.5 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Wilson/wilson-bela-pro-v2-5-2024.jpg",
-    "url": "https://padelzoom.es/wilson-bela-pro-v2-5-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/wilson-bela-pro-v2-5-2024.jpg"
   },
   {
     "id": "star-vie-triton-power-2026-plus",
@@ -1992,9 +1840,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Star Vie Triton Power 2026 Plus. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Star-Vie/star-vie-triton-power-2026-plus.jpg",
-    "url": "https://padelzoom.es/star-vie-triton-power-2026-plus/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/star-vie-triton-power-2026-plus.jpg"
   },
   {
     "id": "bullpadel-xplo-comfort-2026",
@@ -2018,9 +1864,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Xplo Comfort 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-xplo-comfort-2026.jpg",
-    "url": "https://padelzoom.es/bullpadel-xplo-comfort-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-xplo-comfort-2026.jpg"
   },
   {
     "id": "nox-at10-genius-18k-alum-2025-agusti-n-tapia",
@@ -2044,9 +1888,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox AT10 Genius 18K Alum 2025 Agusti­n Tapia. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-at10-genius-18k-alum-2025-agustin-tapia.jpg",
-    "url": "https://padelzoom.es/nox-at10-genius-18k-alum-2025-agustin-tapia/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-at10-genius-18k-alum-2025-agusti-n-tapia.jpg"
   },
   {
     "id": "nox-at10-luxury-genius-18k-2023",
@@ -2070,9 +1912,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox AT10 Luxury Genius 18K 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-at10-luxury-genius-18k-2023.jpg",
-    "url": "https://padelzoom.es/nox-at10-luxury-genius-18k-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-at10-luxury-genius-18k-2023.jpg"
   },
   {
     "id": "head-coello-team-2026",
@@ -2096,9 +1936,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Coello Team 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-coello-team-2026.jpg",
-    "url": "https://padelzoom.es/head-coello-team-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-coello-team-2026.jpg"
   },
   {
     "id": "alkemia-vento-2024",
@@ -2122,9 +1960,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Alkemia Vento 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Alkemia/alkemia-vento-2024.jpg",
-    "url": "https://padelzoom.es/alkemia-vento-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/alkemia-vento-2024.jpg"
   },
   {
     "id": "alkemia-ignis-2024",
@@ -2148,9 +1984,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Alkemia Ignis 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Alkemia/alkemia-ignis-2024.jpg",
-    "url": "https://padelzoom.es/alkemia-ignis-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/alkemia-ignis-2024.jpg"
   },
   {
     "id": "alkemia-ignis-2025",
@@ -2174,9 +2008,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Alkemia Ignis 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Alkemia/alkemia-ignis-2025.jpg",
-    "url": "https://padelzoom.es/alkemia-ignis-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/alkemia-ignis-2025.jpg"
   },
   {
     "id": "alkemia-vento-2025",
@@ -2200,9 +2032,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Alkemia Vento 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Alkemia/alkemia-vento-2025.jpg",
-    "url": "https://padelzoom.es/alkemia-vento-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/alkemia-vento-2025.jpg"
   },
   {
     "id": "star-vie-astrum-2026-plus",
@@ -2226,9 +2056,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Star Vie Astrum 2026 Plus. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Star-Vie/star-vie-astrum-2026-plus.jpg",
-    "url": "https://padelzoom.es/star-vie-astrum-2026-plus/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/star-vie-astrum-2026-plus.jpg"
   },
   {
     "id": "head-coello-pro-2025",
@@ -2252,9 +2080,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Coello Pro 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-coello-pro-2025.jpg",
-    "url": "https://padelzoom.es/head-coello-pro-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-coello-pro-2025.jpg"
   },
   {
     "id": "adidas-adipower-multiweight-ctrl-3-4-2025-alex-ruiz",
@@ -2278,9 +2104,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Adipower Multiweight CTRL 3.4 2025 - Alex Ruiz. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-adipower-multiweight-ctrl-3-4-2025-alex-ruiz.jpg",
-    "url": "https://padelzoom.es/adidas-adipower-multiweight-ctrl-3-4-2025-alex-ruiz/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-adipower-multiweight-ctrl-3-4-2025-alex-ruiz.jpg"
   },
   {
     "id": "adidas-adipower-multiweight-ctrl-2023",
@@ -2304,9 +2128,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Adipower Multiweight CTRL 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-adipower-multiweight-ctrl-2023.jpg",
-    "url": "https://padelzoom.es/adidas-adipower-multiweight-ctrl-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-adipower-multiweight-ctrl-2023.jpg"
   },
   {
     "id": "wilson-endure-ls-v1-2026",
@@ -2330,9 +2152,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Wilson Endure LS V1 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Wilson/wilson-endure-ls-v1-2026.jpg",
-    "url": "https://padelzoom.es/wilson-endure-ls-v1-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/wilson-endure-ls-v1-2026.jpg"
   },
   {
     "id": "head-speed-pro-x-2023",
@@ -2356,9 +2176,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Speed Pro X 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-speed-pro-x-2023.jpg",
-    "url": "https://padelzoom.es/head-speed-pro-x-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-speed-pro-x-2023.jpg"
   },
   {
     "id": "adidas-metalbone-carbon-ctrl-2026",
@@ -2382,9 +2200,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Metalbone Carbon CTRL 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-metalbone-carbon-ctrl-2026.jpg",
-    "url": "https://padelzoom.es/adidas-metalbone-carbon-ctrl-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-metalbone-carbon-ctrl-2026.jpg"
   },
   {
     "id": "lok-maxx-flow-gen-2-2026",
@@ -2408,9 +2224,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Lok Maxx Flow Gen 2 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Lok/lok-maxx-flow-gen-2-2026.jpg",
-    "url": "https://padelzoom.es/lok-maxx-flow-gen-2-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/lok-maxx-flow-gen-2-2026.jpg"
   },
   {
     "id": "bullpadel-elite-woman-2026-gemma-triay",
@@ -2434,9 +2248,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Elite Woman 2026 Gemma Triay. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-elite-woman-2026-gemma-triay.jpg",
-    "url": "https://padelzoom.es/bullpadel-elite-woman-2026-gemma-triay/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-elite-woman-2026-gemma-triay.jpg"
   },
   {
     "id": "black-crown-special-max-2026",
@@ -2460,9 +2272,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Black Crown Special Max 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Black-Crown/black-crown-special-max-2026.jpg",
-    "url": "https://padelzoom.es/black-crown-special-max-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/black-crown-special-max-2026.jpg"
   },
   {
     "id": "bullpadel-icon-2026-juan-martin-diaz",
@@ -2486,9 +2296,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Icon 2026 Juan Martin Diaz. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-icon-2026-juan-martin-diaz.jpg",
-    "url": "https://padelzoom.es/bullpadel-icon-2026-juan-martin-diaz/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-icon-2026-juan-martin-diaz.jpg"
   },
   {
     "id": "siux-valkiria-elite-2-2026",
@@ -2512,9 +2320,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Valkiria Elite 2 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-valkiria-elite-2-2026.jpg",
-    "url": "https://padelzoom.es/siux-valkiria-elite-2-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-valkiria-elite-2-2026.jpg"
   },
   {
     "id": "nox-ea10-ventus-hybrid-12k-xtrem-2026-edu-alonso",
@@ -2538,9 +2344,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox EA10 Ventus Hybrid 12K Xtrem 2026 Edu Alonso. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-ea10-ventus-hybrid-12k-xtrem-2026-edu-alonso.jpg",
-    "url": "https://padelzoom.es/nox-ea10-ventus-hybrid-12k-xtrem-2026-edu-alonso/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-ea10-ventus-hybrid-12k-xtrem-2026-edu-alonso.jpg"
   },
   {
     "id": "nox-vk10-ventus-control-12k-2026-aranzazu-osoro",
@@ -2564,9 +2368,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox VK10 Ventus Control 12K 2026 Aranzazu Osoro. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-vk10-ventus-control-12k-2026-aranzazu-osoro.jpg",
-    "url": "https://padelzoom.es/nox-vk10-ventus-control-12k-2026-aranzazu-osoro/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-vk10-ventus-control-12k-2026-aranzazu-osoro.jpg"
   },
   {
     "id": "nox-ventus-hybrid-12k-lite-2026",
@@ -2590,9 +2392,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox Ventus Hybrid 12K Lite 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-ventus-hybrid-12k-lite-2026.jpg",
-    "url": "https://padelzoom.es/nox-ventus-hybrid-12k-lite-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-ventus-hybrid-12k-lite-2026.jpg"
   },
   {
     "id": "bullpadel-hack-03-master-final-2023",
@@ -2616,9 +2416,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Hack 03 Master Final 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-hack-03-master-final-2023.jpg",
-    "url": "https://padelzoom.es/bullpadel-hack-03-master-final-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-hack-03-master-final-2023.jpg"
   },
   {
     "id": "babolat-viper-soft-3-0-2026-juan-lebron",
@@ -2642,9 +2440,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Babolat Viper Soft 3.0 2026 Juan Lebron. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Babolat/babolat-viper-soft-3-0-2026-juan-lebron.jpg",
-    "url": "https://padelzoom.es/babolat-viper-soft-3-0-2026-juan-lebron/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/babolat-viper-soft-3-0-2026-juan-lebron.jpg"
   },
   {
     "id": "babolat-technical-viper-2025",
@@ -2668,9 +2464,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Babolat Technical Viper 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Babolat/babolat-technical-viper-2025.jpg",
-    "url": "https://padelzoom.es/babolat-technical-viper-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/babolat-technical-viper-2025.jpg"
   },
   {
     "id": "babolat-technical-viper-2023",
@@ -2694,9 +2488,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Babolat Technical Viper 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Babolat/babolat-technical-viper-2023.jpg\r\n",
-    "url": "https://padelzoom.es/babolat-technical-viper-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/babolat-technical-viper-2023.jpg"
   },
   {
     "id": "bullpadel-hack-04-hybrid-2026",
@@ -2720,9 +2512,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Hack 04 Hybrid 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-hack-04-hybrid-2026.jpg",
-    "url": "https://padelzoom.es/bullpadel-hack-04-hybrid-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-hack-04-hybrid-2026.jpg"
   },
   {
     "id": "nox-ml10-ventus-control-3k-2026-miguel-lamperti",
@@ -2746,9 +2536,7 @@ window.PRODUCTOS = [
     "descripcion": "Jugadores intermedios y avanzados que valoran la precisión, la regularidad y el control por encima de la potencia bruta. Perfecta para quienes construyen el punto, defienden bien y dominan la red desde el golpe firme y colocado.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-ml10-ventus-control-3k-2026-miguel-lamperti.jpg",
-    "url": "https://padelzoom.es/nox-ml10-ventus-control-3k-2026-miguel-lamperti/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-ml10-ventus-control-3k-2026-miguel-lamperti.jpg"
   },
   {
     "id": "adidas-adipower-ctrl-3-2-2023",
@@ -2772,9 +2560,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Adipower CTRL 3.2 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-adipower-ctrl-3-2-2023.jpg",
-    "url": "https://padelzoom.es/adidas-adipower-ctrl-3-2-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-adipower-ctrl-3-2-2023.jpg"
   },
   {
     "id": "siux-electra-st4-pro-stupa-2025",
@@ -2798,9 +2584,7 @@ window.PRODUCTOS = [
     "descripcion": "Jugadores de nivel intermedio-alto y avanzado que quieran una pala firme, estable, ofensiva y capaz de dominar tanto en transición como en la red. Perfecta para quienes buscan potencia controlada y un tacto serio y profesional.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-electra-st4-pro-stupa-2025.jpg",
-    "url": "https://padelzoom.es/siux-electra-st4-pro-stupa-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-electra-st4-pro-stupa-2025.jpg"
   },
   {
     "id": "bullpadel-neuron-02-edge-2026",
@@ -2824,9 +2608,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Neuron 02 Edge 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-neuron-02-edge-2026.jpg",
-    "url": "https://padelzoom.es/bullpadel-neuron-02-edge-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-neuron-02-edge-2026.jpg"
   },
   {
     "id": "wilson-endure-v1-2026",
@@ -2850,9 +2632,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Wilson Endure V1 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Wilson/wilson-endure-v1-2026.jpg",
-    "url": "https://padelzoom.es/wilson-endure-v1-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/wilson-endure-v1-2026.jpg"
   },
   {
     "id": "oxdog-ultimate-tour-x-2026",
@@ -2875,9 +2655,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Oxdog Ultimate Tour X 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Oxdog/oxdog-ultimate-tour-x-2026.jpg",
-    "url": "https://padelzoom.es/oxdog-ultimate-tour-x-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/oxdog-ultimate-tour-x-2026.jpg"
   },
   {
     "id": "siux-fenix-pro-glow-purple-2026-leo-ausburger",
@@ -2901,9 +2679,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Fenix Pro Glow Purple 2026 Leo Ausburger. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-fenix-pro-glow-purple-2026-leo-ausburger.jpg",
-    "url": "https://padelzoom.es/siux-fenix-pro-glow-purple-2026-leo-ausburger/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-fenix-pro-glow-purple-2026-leo-ausburger.jpg"
   },
   {
     "id": "wilson-bela-pro-v2",
@@ -2927,9 +2703,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Wilson Bela Pro V2. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Wilson/wilson-bela-pro-v2.jpg",
-    "url": "https://padelzoom.es/wilson-bela-pro-v2/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/wilson-bela-pro-v2.jpg"
   },
   {
     "id": "nox-at10-genius-ltd-2025",
@@ -2953,9 +2727,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox AT10 Genius LTD 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-at10-genius-ltd-2025.jpg",
-    "url": "https://padelzoom.es/nox-at10-genius-ltd-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-at10-genius-ltd-2025.jpg"
   },
   {
     "id": "drop-shot-cyber-attack-2026",
@@ -2979,9 +2751,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Drop Shot Cyber Attack 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Drop-Shot/drop-shot-cyber-attack-2026.jpg",
-    "url": "https://padelzoom.es/drop-shot-cyber-attack-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/drop-shot-cyber-attack-2026.jpg"
   },
   {
     "id": "nox-at10-genius-attack-12k-alum-xtrem-2026",
@@ -3005,9 +2775,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox AT10 Genius Attack 12K Alum Xtrem 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-at10-genius-attack-12k-alum-xtrem-2026.jpg",
-    "url": "https://padelzoom.es/nox-at10-genius-attack-12k-alum-xtrem-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-at10-genius-attack-12k-alum-xtrem-2026.jpg"
   },
   {
     "id": "royal-padel-m27-poly-2026",
@@ -3031,9 +2799,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Royal Padel M27 Poly 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Royal-Padel/royal-padel-m27-poly-2026.jpg",
-    "url": "https://padelzoom.es/royal-padel-m27-poly-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/royal-padel-m27-poly-2026.jpg"
   },
   {
     "id": "royal-padel-m27-light-2026",
@@ -3057,9 +2823,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Royal Padel M27 Light 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Royal-Padel/royal-padel-m27-light-2026.jpg",
-    "url": "https://padelzoom.es/royal-padel-m27-light-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/royal-padel-m27-light-2026.jpg"
   },
   {
     "id": "siux-fenix-pro-black-2026-leo-ausburger",
@@ -3083,9 +2847,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Fenix Pro Black 2026 Leo Ausburger. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-fenix-pro-black-2026-leo-ausburger.jpg",
-    "url": "https://padelzoom.es/siux-fenix-pro-black-2026-leo-ausburger/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-fenix-pro-black-2026-leo-ausburger.jpg"
   },
   {
     "id": "vibora-yarara-pro-white-2-0-2026",
@@ -3109,9 +2871,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Vibora Yarara Pro White 2.0 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Vibora/vibora-yarara-pro-white-2-0-2026.jpg",
-    "url": "https://padelzoom.es/vibora-yarara-pro-white-2-0-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/vibora-yarara-pro-white-2-0-2026.jpg"
   },
   {
     "id": "vibora-yarara-radical-12k-3-0-2026",
@@ -3135,9 +2895,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Vibora Yarara Radical 12K 3.0 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Vibora/vibora-yarara-radical-12k-3-0-2026.jpg",
-    "url": "https://padelzoom.es/vibora-yarara-radical-12k-3-0-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/vibora-yarara-radical-12k-3-0-2026.jpg"
   },
   {
     "id": "head-coello-motion-2026",
@@ -3161,9 +2919,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Coello Motion 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-coello-motion-2026.jpg",
-    "url": "https://padelzoom.es/head-coello-motion-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-coello-motion-2026.jpg"
   },
   {
     "id": "adidas-cross-it-light-2026-martita-ortega",
@@ -3187,9 +2943,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Cross IT Light 2026 - Martita Ortega. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-cross-it-light-2026-martita-ortega.jpg",
-    "url": "https://padelzoom.es/adidas-cross-it-light-2026-martita-ortega/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-cross-it-light-2026-martita-ortega.jpg"
   },
   {
     "id": "drop-shot-canyon-pro-attack-2-0-2026",
@@ -3213,9 +2967,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Drop Shot Canyon Pro Attack 2.0 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Drop-Shot/drop-shot-canyon-pro-attack-2-0-2026.jpg",
-    "url": "https://padelzoom.es/drop-shot-canyon-pro-attack-2-0-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/drop-shot-canyon-pro-attack-2-0-2026.jpg"
   },
   {
     "id": "drop-shot-explorer-pro-attack-2-0-2026-lucas-campagnolo",
@@ -3239,9 +2991,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Drop Shot Explorer Pro Attack 2.0 2026 Lucas Campagnolo. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Drop-Shot/drop-shot-explorer-pro-attack-2-0-2026-lucas-campagnolo.jpg",
-    "url": "https://padelzoom.es/drop-shot-explorer-pro-attack-2-0-2026-lucas-campagnolo/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/drop-shot-explorer-pro-attack-2-0-2026-lucas-campagnolo.jpg"
   },
   {
     "id": "oxdog-ultimate-pro-light-2026",
@@ -3264,9 +3014,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Oxdog Ultimate Pro Light 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Oxdog/oxdog-ultimate-pro-light-2026.jpg",
-    "url": "https://padelzoom.es/oxdog-ultimate-pro-light-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/oxdog-ultimate-pro-light-2026.jpg"
   },
   {
     "id": "drop-shot-axion-attack-2-0-2026-jon-sanz",
@@ -3290,9 +3038,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Drop Shot Axion Attack 2.0 2026 Jon Sanz. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Drop-Shot/drop-shot-axion-attack-2-0-2026-jon-sanz.jpg",
-    "url": "https://padelzoom.es/drop-shot-axion-attack-2-0-2026-jon-sanz/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/drop-shot-axion-attack-2-0-2026-jon-sanz.jpg"
   },
   {
     "id": "babolat-technical-viper-juan-lebron-2024",
@@ -3316,9 +3062,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Babolat Technical Viper Juan Lebron 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Babolat/babolat-technical-viper-juan-lebron-2024.jpg",
-    "url": "https://padelzoom.es/babolat-technical-viper-juan-lebron-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/babolat-technical-viper-juan-lebron-2024.jpg"
   },
   {
     "id": "babolat-technical-viper-juan-lebron-2025",
@@ -3342,9 +3086,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Babolat Technical Viper Juan Lebron 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Babolat/babolat-technical-viper-juan-lebron-2025.jpg",
-    "url": "https://padelzoom.es/babolat-technical-viper-juan-lebron-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/babolat-technical-viper-juan-lebron-2025.jpg"
   },
   {
     "id": "babolat-technical-viper-juan-lebron-2023",
@@ -3368,9 +3110,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Babolat Technical Viper Juan Lebron 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Babolat/babolat-technical-viper-juan-lebron-2023.jpg",
-    "url": "https://padelzoom.es/babolat-technical-viper-juan-lebron-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/babolat-technical-viper-juan-lebron-2023.jpg"
   },
   {
     "id": "adidas-metalbone-3-4-hrd-2025",
@@ -3394,9 +3134,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Metalbone 3.4 HRD+ 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-metalbone-3-4-hrd-2025.jpg",
-    "url": "https://padelzoom.es/adidas-metalbone-3-4-hrd-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-metalbone-3-4-hrd-2025.jpg"
   },
   {
     "id": "adidas-metalbone-hrd-3-2-2023",
@@ -3420,9 +3158,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Metalbone HRD 3.2 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-metalbone-hrd-3-2-2023.jpg",
-    "url": "https://padelzoom.es/adidas-metalbone-hrd-3-2-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-metalbone-hrd-3-2-2023.jpg"
   },
   {
     "id": "adidas-metalbone-hrd-2024",
@@ -3446,9 +3182,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Metalbone HRD+ 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 87,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-metalbone-hrd-2024.jpg",
-    "url": "https://padelzoom.es/adidas-metalbone-hrd-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-metalbone-hrd-2024.jpg"
   },
   {
     "id": "adidas-arrow-hit-2026",
@@ -3472,9 +3206,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Arrow Hit 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-arrow-hit-2026.jpg",
-    "url": "https://padelzoom.es/adidas-arrow-hit-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-arrow-hit-2026.jpg"
   },
   {
     "id": "vibora-titan-black-light-2026",
@@ -3498,9 +3230,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Vibora Titan Black Light 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Vibora/vibora-titan-black-light-2026.jpg",
-    "url": "https://padelzoom.es/vibora-titan-black-light-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/vibora-titan-black-light-2026.jpg"
   },
   {
     "id": "nox-ml10-pro-cup-2025",
@@ -3524,9 +3254,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox ML10 Pro Cup 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-ml10-pro-cup-2025.jpg",
-    "url": "https://padelzoom.es/nox-ml10-pro-cup-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-ml10-pro-cup-2025.jpg"
   },
   {
     "id": "nox-ml10-pro-cup-2023",
@@ -3550,9 +3278,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox ML10 Pro Cup 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-ml10-pro-cup-2023.jpg",
-    "url": "https://padelzoom.es/nox-ml10-pro-cup-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-ml10-pro-cup-2023.jpg"
   },
   {
     "id": "nox-ml10-pro-cup-rough-surface-2023",
@@ -3576,9 +3302,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox ML10 Pro Cup Rough Surface 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-ml10-pro-cup-rough-surface-2023.jpg",
-    "url": "https://padelzoom.es/nox-ml10-pro-cup-rough-surface-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-ml10-pro-cup-rough-surface-2023.jpg"
   },
   {
     "id": "nox-ml10-pro-cup-rough-surface-edition-2025",
@@ -3602,9 +3326,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox ML10 Pro Cup Rough Surface Edition 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-ml10-pro-cup-rough-surface-edition-2025.jpg",
-    "url": "https://padelzoom.es/nox-ml10-pro-cup-rough-surface-edition-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-ml10-pro-cup-rough-surface-edition-2025.jpg"
   },
   {
     "id": "nox-ml10-pro-cup-silver-2025",
@@ -3628,9 +3350,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox ML10 Pro Cup Silver 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-ml10-pro-cup-silver-2025.jpg",
-    "url": "https://padelzoom.es/nox-ml10-pro-cup-silver-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-ml10-pro-cup-silver-2025.jpg"
   },
   {
     "id": "star-vie-metheora-2024",
@@ -3654,9 +3374,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Star Vie Metheora 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Star-Vie/star-vie-metheora-2024.jpg",
-    "url": "https://padelzoom.es/star-vie-metheora-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/star-vie-metheora-2024.jpg"
   },
   {
     "id": "drop-shot-explorer-pro-attack-2024",
@@ -3680,9 +3398,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Drop Shot Explorer Pro Attack 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Drop-Shot/drop-shot-explorer-pro-attack-2024.jpg",
-    "url": "https://padelzoom.es/drop-shot-explorer-pro-attack-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/drop-shot-explorer-pro-attack-2024.jpg"
   },
   {
     "id": "head-speed-pro-2023",
@@ -3706,9 +3422,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Speed Pro 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-speed-pro-2023.jpg",
-    "url": "https://padelzoom.es/head-speed-pro-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-speed-pro-2023.jpg"
   },
   {
     "id": "adidas-adipower-3-2-2023",
@@ -3732,9 +3446,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Adipower 3.2 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-adipower-3-2-2023.jpg",
-    "url": "https://padelzoom.es/adidas-adipower-3-2-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-adipower-3-2-2023.jpg"
   },
   {
     "id": "drop-shot-conqueror-10-soft",
@@ -3758,9 +3470,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Drop Shot Conqueror 10 Soft. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Drop-Shot/drop-shot-conqueror-10-soft.jpg",
-    "url": "https://padelzoom.es/drop-shot-conqueror-10-soft/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/drop-shot-conqueror-10-soft.jpg"
   },
   {
     "id": "puma-nova-elite-momo-2024",
@@ -3783,9 +3493,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Puma Nova Elite Momo 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Puma/puma-nova-elite-momo-2024.jpg",
-    "url": "https://padelzoom.es/puma-nova-elite-momo-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/puma-nova-elite-momo-2024.jpg"
   },
   {
     "id": "siux-pegasus-revolution-cube",
@@ -3809,9 +3517,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Pegasus Revolution Cube. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-pegasus-revolution-cube.jpg",
-    "url": "https://padelzoom.es/siux-pegasus-revolution-cube/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-pegasus-revolution-cube.jpg"
   },
   {
     "id": "star-vie-astrum-2024",
@@ -3835,9 +3541,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Star Vie Astrum 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Star-Vie/star-vie-astrum-2024.jpg",
-    "url": "https://padelzoom.es/star-vie-astrum-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/star-vie-astrum-2024.jpg"
   },
   {
     "id": "vibora-mamba-pro-black-2025",
@@ -3861,9 +3565,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Vibora Mamba Pro Black 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Vibora/vibora-mamba-pro-black-2025.jpg",
-    "url": "https://padelzoom.es/vibora-mamba-pro-black-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/vibora-mamba-pro-black-2025.jpg"
   },
   {
     "id": "head-radical-pro-2024",
@@ -3887,9 +3589,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Radical Pro 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-radical-pro-2024.jpg",
-    "url": "https://padelzoom.es/head-radical-pro-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-radical-pro-2024.jpg"
   },
   {
     "id": "bullpadel-hack-03-control-2023",
@@ -3913,9 +3613,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Hack 03 Control 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-hack-03-control-2023.jpg",
-    "url": "https://padelzoom.es/bullpadel-hack-03-control-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-hack-03-control-2023.jpg"
   },
   {
     "id": "star-vie-astrum-pro-2025",
@@ -3939,9 +3637,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Star Vie Astrum Pro 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Star-Vie/star-vie-astrum-pro-2025.jpg",
-    "url": "https://padelzoom.es/star-vie-astrum-pro-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/star-vie-astrum-pro-2025.jpg"
   },
   {
     "id": "nox-ml10-pro-cup-luxury-2024",
@@ -3965,9 +3661,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox ML10 Pro Cup Luxury 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-ml10-pro-cup-luxury-2024.jpg",
-    "url": "https://padelzoom.es/nox-ml10-pro-cup-luxury-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-ml10-pro-cup-luxury-2024.jpg"
   },
   {
     "id": "star-vie-kenta-colours-pro-ltd-2024",
@@ -3991,9 +3685,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Star Vie Kenta Colours Pro LTD 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Star-Vie/star-vie-kenta-colours-pro-ltd-2024.jpg",
-    "url": "https://padelzoom.es/star-vie-kenta-colours-pro-ltd-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/star-vie-kenta-colours-pro-ltd-2024.jpg"
   },
   {
     "id": "bullpadel-vertex-04-hybrid-2025",
@@ -4017,9 +3709,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Vertex 04 Hybrid 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-vertex-04-hybrid-2025.jpg",
-    "url": "https://padelzoom.es/bullpadel-vertex-04-hybrid-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-vertex-04-hybrid-2025.jpg"
   },
   {
     "id": "wilson-bela-lt-v2-5-2024",
@@ -4043,9 +3733,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Wilson Bela LT V2.5 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Wilson/wilson-bela-lt-v2-5-2024.jpg",
-    "url": "https://padelzoom.es/wilson-bela-lt-v2-5-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/wilson-bela-lt-v2-5-2024.jpg"
   },
   {
     "id": "nox-at10-luxury-attack-18k-2024",
@@ -4069,9 +3757,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox AT10 Luxury Attack 18K 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-at10-luxury-attack-18k-2024.jpg",
-    "url": "https://padelzoom.es/nox-at-luxury-attack-18k-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-at10-luxury-attack-18k-2024.jpg"
   },
   {
     "id": "head-speed-one-2025",
@@ -4095,9 +3781,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Speed One 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-speed-one-2025.jpg",
-    "url": "https://padelzoom.es/head-speed-one-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-speed-one-2025.jpg"
   },
   {
     "id": "siux-diablo-revolution-sanyo-pro-3",
@@ -4121,9 +3805,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Diablo Revolution Sanyo Pro 3. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-diablo-revolution-sanyo-pro-3.jpg",
-    "url": "https://padelzoom.es/siux-diablo-revolution-sanyo-pro-3/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-diablo-revolution-sanyo-pro-3.jpg"
   },
   {
     "id": "siux-pegasus-revolution-2-2024",
@@ -4147,9 +3829,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Pegasus Revolution 2 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-pegasus-revolution-2-2024.jpg",
-    "url": "https://padelzoom.es/siux-pegasus-revolution-2-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-pegasus-revolution-2-2024.jpg"
   },
   {
     "id": "adidas-adipower-multiweight-2023",
@@ -4173,9 +3853,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Adipower Multiweight 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-adipower-multiweight-2023.jpg",
-    "url": "https://padelzoom.es/adidas-adipower-multiweight-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-adipower-multiweight-2023.jpg"
   },
   {
     "id": "adidas-adipower-multiweight-3-3-2024",
@@ -4199,9 +3877,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Adipower Multiweight 3.3 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-adipower-multiweight-3-3-2024.jpg",
-    "url": "https://padelzoom.es/adidas-adipower-multiweight-3-3-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-adipower-multiweight-3-3-2024.jpg"
   },
   {
     "id": "puma-solar-attack-2023-momo-gonzalez",
@@ -4224,9 +3900,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Puma Solar Attack 2023 Momo Gonzalez. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Puma/puma-solar-attack-2023-momo-gonzalez.jpg",
-    "url": "https://padelzoom.es/puma-solar-attack-2023-momo-gonzalez/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/puma-solar-attack-2023-momo-gonzalez.jpg"
   },
   {
     "id": "star-vie-kenta-soft-2025",
@@ -4250,9 +3924,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Star Vie Kenta Soft 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Star-Vie/star-vie-kenta-soft-2025.jpg",
-    "url": "https://padelzoom.es/star-vie-kenta-soft-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/star-vie-kenta-soft-2025.jpg"
   },
   {
     "id": "nox-ml10-pro-cup-ltd-limited-edition-2023",
@@ -4276,9 +3948,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox ML10 Pro Cup LTD Limited Edition 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-ml10-pro-cup-ltd-limited-edition-2023.jpg",
-    "url": "https://padelzoom.es/nox-ml10-pro-cup-ltd-limited-edition-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-ml10-pro-cup-ltd-limited-edition-2023.jpg"
   },
   {
     "id": "star-vie-kenta-pro-2024",
@@ -4302,9 +3972,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Star Vie Kenta Pro 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Star-Vie/star-vie-kenta-pro-2024.jpg",
-    "url": "https://padelzoom.es/star-vie-kenta-pro-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/star-vie-kenta-pro-2024.jpg"
   },
   {
     "id": "babolat-technical-veron-3-0-2026",
@@ -4328,9 +3996,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Babolat Technical Veron 3.0 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Babolat/babolat-technical-veron-3-0-2026.jpg",
-    "url": "https://padelzoom.es/babolat-technical-veron-3-0-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/babolat-technical-veron-3-0-2026.jpg"
   },
   {
     "id": "bullpadel-neuron-2025-fede-chingotto",
@@ -4354,9 +4020,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Neuron 2025 Fede Chingotto. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-neuron-2025.jpg",
-    "url": "https://padelzoom.es/bullpadel-neuron-2025-fede-chingotto/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-neuron-2025-fede-chingotto.jpg"
   },
   {
     "id": "head-extreme-one-2026",
@@ -4380,9 +4044,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Extreme One 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-extreme-one-2026.jpg",
-    "url": "https://padelzoom.es/head-extreme-one-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-extreme-one-2026.jpg"
   },
   {
     "id": "vibora-yarara-pro-white-2025",
@@ -4406,9 +4068,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Vibora Yarara Pro White 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Vibora/vibora-yarara-pro-white-2025.jpg",
-    "url": "https://padelzoom.es/vibora-yarara-pro-white-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/vibora-yarara-pro-white-2025.jpg"
   },
   {
     "id": "wilson-blade-pro-v3",
@@ -4432,9 +4092,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Wilson Blade Pro V3. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Wilson/wilson-blade-pro-v3.jpg",
-    "url": "https://padelzoom.es/wilson-blade-pro-v3/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/wilson-blade-pro-v3.jpg"
   },
   {
     "id": "nox-at10-genius-attack-18k-alum-2025",
@@ -4458,9 +4116,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox AT10 Genius Attack 18K Alum 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-at10-genius-attack-18k-alum-2025.jpg",
-    "url": "https://padelzoom.es/nox-at10-genius-attack-18k-alum-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-at10-genius-attack-18k-alum-2025.jpg"
   },
   {
     "id": "star-vie-basalto-osiris-2-0-pro-2023",
@@ -4484,9 +4140,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Star Vie Basalto Osiris 2.0 Pro 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Star-Vie/star-vie-basalto-osiris-2-0-pro-2023.jpg",
-    "url": "https://padelzoom.es/star-vie-basalto-osiris-2-0-pro-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/star-vie-basalto-osiris-2-0-pro-2023.jpg"
   },
   {
     "id": "star-vie-basalto-pro-2024",
@@ -4510,9 +4164,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Star Vie Basalto Pro 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Star-Vie/star-vie-basalto-pro-2024.jpg",
-    "url": "https://padelzoom.es/star-vie-basalto-pro-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/star-vie-basalto-pro-2024.jpg"
   },
   {
     "id": "star-vie-basalto-pro-2025",
@@ -4536,9 +4188,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Star Vie Basalto Pro 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Star-Vie/star-vie-basalto-pro-2025.jpg",
-    "url": "https://padelzoom.es/star-vie-basalto-pro-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/star-vie-basalto-pro-2025.jpg"
   },
   {
     "id": "head-speed-pro-2025",
@@ -4562,9 +4212,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Speed Pro 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-speed-pro-2025.jpg",
-    "url": "https://padelzoom.es/head-speed-pro-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-speed-pro-2025.jpg"
   },
   {
     "id": "babolat-veron-3-0-2026-juan-lebron",
@@ -4588,9 +4236,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Babolat Veron 3.0 2026 Juan Lebron. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Babolat/babolat-veron-3-0-2026-juan-lebron.jpg",
-    "url": "https://padelzoom.es/babolat-veron-3-0-2026-juan-lebron/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/babolat-veron-3-0-2026-juan-lebron.jpg"
   },
   {
     "id": "babolat-counter-viper-2024",
@@ -4614,9 +4260,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Babolat Counter Viper 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Babolat/babolat-counter-viper-2024.jpg",
-    "url": "https://padelzoom.es/babolat-counter-viper-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/babolat-counter-viper-2024.jpg"
   },
   {
     "id": "babolat-air-viper-2024",
@@ -4640,9 +4284,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Babolat Air Viper 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Babolat/babolat-air-viper-2024.jpg",
-    "url": "https://padelzoom.es/babolat-air-viper-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/babolat-air-viper-2024.jpg"
   },
   {
     "id": "alkemia-terra-2024",
@@ -4665,9 +4307,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Alkemia Terra 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Alkemia/alkemia-terra-2024.jpg",
-    "url": "https://padelzoom.es/alkemia-terra-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/alkemia-terra-2024.jpg"
   },
   {
     "id": "star-vie-triton-balance-2026-plus",
@@ -4691,9 +4331,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Star Vie Triton Balance 2026 Plus. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Star-Vie/star-vie-triton-balance-2026-plus.jpg",
-    "url": "https://padelzoom.es/star-vie-triton-balance-2026-plus/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/star-vie-triton-balance-2026-plus.jpg"
   },
   {
     "id": "siux-diablo-elite-6-2026",
@@ -4717,9 +4355,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Diablo Elite 6 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-diablo-elite-6-2026.jpg",
-    "url": "https://padelzoom.es/siux-diablo-elite-6-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-diablo-elite-6-2026.jpg"
   },
   {
     "id": "drop-shot-explorer-pro-attack-1-5-2025-lucas-campagnolo",
@@ -4743,9 +4379,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Drop Shot Explorer Pro Attack 1.5 2025 Lucas Campagnolo. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Drop-Shot/drop-shot-explorer-pro-attack-1-5-2025-lucas-campagnolo.jpg",
-    "url": "https://padelzoom.es/drop-shot-explorer-pro-attack-1-5-2025-lucas-campagnolo/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/drop-shot-explorer-pro-attack-1-5-2025-lucas-campagnolo.jpg"
   },
   {
     "id": "siux-fenix-elite-6-2026",
@@ -4769,9 +4403,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Fenix Elite 6 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-fenix-elite-6-2026.jpg",
-    "url": "https://padelzoom.es/siux-fenix-elite-6-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-fenix-elite-6-2026.jpg"
   },
   {
     "id": "adidas-metalbone-ctrl-3-3-2024",
@@ -4795,9 +4427,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Metalbone CTRL 3.3 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-metalbone-ctrl-3-3-2024.jpg",
-    "url": "https://padelzoom.es/adidas-metalbone-ctrl-3-3-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-metalbone-ctrl-3-3-2024.jpg"
   },
   {
     "id": "siux-electra-elite-6-2026",
@@ -4821,9 +4451,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Electra Elite 6 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-electra-elite-6-2026.jpg",
-    "url": "https://padelzoom.es/siux-electra-elite-6-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-electra-elite-6-2026.jpg"
   },
   {
     "id": "drop-shot-conqueror-attack-1-5-2025",
@@ -4847,9 +4475,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Drop Shot Conqueror Attack 1.5 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Drop-Shot/drop-shot-conqueror-attack-1-5-2025.jpg",
-    "url": "https://padelzoom.es/drop-shot-conqueror-attack-1-5-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/drop-shot-conqueror-attack-1-5-2025.jpg"
   },
   {
     "id": "lok-carbon-flow-gen-2-2026",
@@ -4873,9 +4499,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Lok Carbon Flow Gen 2 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Lok/lok-carbon-flow-gen-2-2026.jpg",
-    "url": "https://padelzoom.es/lok-carbon-flow-gen-2-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/lok-carbon-flow-gen-2-2026.jpg"
   },
   {
     "id": "alkemia-terra-2025",
@@ -4899,9 +4523,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Alkemia Terra 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Alkemia/alkemia-terra-2025.jpg",
-    "url": "https://padelzoom.es/alkemia-terra-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/alkemia-terra-2025.jpg"
   },
   {
     "id": "alkemia-tenebris-2024",
@@ -4925,9 +4547,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Alkemia Tenebris 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Alkemia/alkemia-tenebris-2024.jpg",
-    "url": "https://padelzoom.es/alkemia-tenebris-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/alkemia-tenebris-2024.jpg"
   },
   {
     "id": "alkemia-tenebris-2025",
@@ -4951,9 +4571,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Alkemia Tenebris 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Alkemia/alkemia-tenebris-2025.jpg",
-    "url": "https://padelzoom.es/alkemia-tenebris-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/alkemia-tenebris-2025.jpg"
   },
   {
     "id": "alkemia-thunder-2025",
@@ -4976,9 +4594,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Alkemia Thunder 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Alkemia/alkemia-thunder-2025.jpg",
-    "url": "https://padelzoom.es/alkemia-thunder-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/alkemia-thunder-2025.jpg"
   },
   {
     "id": "siux-diablo-revolution-ii-sanyo-pro",
@@ -5002,9 +4618,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Diablo Revolution II Sanyo Pro. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-diablo-revolution-ii-sanyo-pro.jpg",
-    "url": "https://padelzoom.es/siux-diablo-revolution-ii-sanyo-pro/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-diablo-revolution-ii-sanyo-pro.jpg"
   },
   {
     "id": "siux-diablo-pro-4-2025",
@@ -5028,9 +4642,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Diablo Pro 4 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-diablo-pro-4-2025.jpg",
-    "url": "https://padelzoom.es/siux-diablo-pro-4-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-diablo-pro-4-2025.jpg"
   },
   {
     "id": "siux-pegasus-elite-4-2026",
@@ -5054,9 +4666,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Pegasus Elite 4 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-pegasus-elite-4-2026.jpg",
-    "url": "https://padelzoom.es/siux-pegasus-elite-4-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-pegasus-elite-4-2026.jpg"
   },
   {
     "id": "adidas-cross-it-2024",
@@ -5080,9 +4690,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Cross It 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-cross-it-2024.jpg",
-    "url": "https://padelzoom.es/adidas-cross-it-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-cross-it-2024.jpg"
   },
   {
     "id": "adidas-cross-it-ctrl-3-4-2025",
@@ -5106,9 +4714,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Cross It CTRL 3.4 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-cross-it-ctrl-3-4-2025.jpg",
-    "url": "https://padelzoom.es/adidas-cross-it-ctrl-3-4-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-cross-it-ctrl-3-4-2025.jpg"
   },
   {
     "id": "adidas-cross-it-3-4-2025",
@@ -5132,9 +4738,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Cross It 3.4 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-cross-it-3-4-2025.jpg",
-    "url": "https://padelzoom.es/adidas-cross-it-3-4-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-cross-it-3-4-2025.jpg"
   },
   {
     "id": "adidas-metalbone-3-4-2025-ale-galan",
@@ -5158,9 +4762,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Metalbone 3.4 2025 - Ale Galan. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-metalbone-3-4-2025-ale-galan.jpg",
-    "url": "https://padelzoom.es/adidas-metalbone-3-4-2025-ale-galan/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-metalbone-3-4-2025-ale-galan.jpg"
   },
   {
     "id": "wilson-bela-elite-v2-5-2024",
@@ -5183,9 +4785,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Wilson Bela Elite V2.5 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Wilson/wilson-bela-elite-v2-5-2024.jpg",
-    "url": "https://padelzoom.es/wilson-bela-elite-v2-5-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/wilson-bela-elite-v2-5-2024.jpg"
   },
   {
     "id": "bullpadel-vertex-03-control-2023",
@@ -5209,9 +4809,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Vertex 03 Control 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-vertex-03-control-2023.jpg",
-    "url": "https://padelzoom.es/bullpadel-vertex-03-control-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-vertex-03-control-2023.jpg"
   },
   {
     "id": "bullpadel-hack-04-comfort-2026",
@@ -5235,9 +4833,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Hack 04 Comfort 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-hack-04-comfort-2026.jpg",
-    "url": "https://padelzoom.es/bullpadel-hack-04-comfort-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-hack-04-comfort-2026.jpg"
   },
   {
     "id": "adidas-metalbone-3-2-2023",
@@ -5261,9 +4857,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Metalbone 3.2 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-metalbone-3-2-2023.jpg",
-    "url": "https://padelzoom.es/adidas-metalbone-3-2-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-metalbone-3-2-2023.jpg"
   },
   {
     "id": "drop-shot-explorer-pro-attack-1-0-2025-lucas-campagnolo",
@@ -5287,9 +4881,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Drop Shot Explorer Pro Attack 1.0 2025 Lucas Campagnolo. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Drop-Shot/drop-shot-explorer-pro-attack-1-0-2025-lucas-campagnolo.jpg",
-    "url": "https://padelzoom.es/drop-shot-explorer-pro-attack-1-0-2025-lucas-campagnolo/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/drop-shot-explorer-pro-attack-1-0-2025-lucas-campagnolo.jpg"
   },
   {
     "id": "adidas-metalbone-3-3-2024",
@@ -5313,9 +4905,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Metalbone 3.3 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-metalbone-3-3-2024.jpg",
-    "url": "https://padelzoom.es/adidas-metalbone-3-3-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-metalbone-3-3-2024.jpg"
   },
   {
     "id": "adidas-metalbone-carbon-2026",
@@ -5339,9 +4929,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Metalbone Carbon 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-metalbone-carbon-2026.jpg",
-    "url": "https://padelzoom.es/adidas-metalbone-carbon-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-metalbone-carbon-2026.jpg"
   },
   {
     "id": "enebe-genius-red-2026",
@@ -5365,9 +4953,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Enebe Genius Red 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Enebe/enebe-genius-red-2026.jpg",
-    "url": "https://padelzoom.es/enebe-genius-red-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/enebe-genius-red-2026.jpg"
   },
   {
     "id": "enebe-genius-blue-2026",
@@ -5391,9 +4977,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Enebe Genius Blue 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Enebe/enebe-genius-blue-2026.jpg",
-    "url": "https://padelzoom.es/enebe-genius-blue-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/enebe-genius-blue-2026.jpg"
   },
   {
     "id": "varlion-bourne-summum-airflow-my-w-2023",
@@ -5417,9 +5001,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Varlion Bourne Summum Airflow MY W 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Varlion/varlion-bourne-summum-airflow-my-w-2023.jpg",
-    "url": "https://padelzoom.es/varlion-bourne-summum-airflow-my-w-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/varlion-bourne-summum-airflow-my-w-2023.jpg"
   },
   {
     "id": "babolat-air-viper-2025",
@@ -5443,9 +5025,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Babolat Air Viper 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Babolat/babolat-air-viper-2025.jpg",
-    "url": "https://padelzoom.es/babolat-air-viper-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/babolat-air-viper-2025.jpg"
   },
   {
     "id": "babolat-air-viper-2023",
@@ -5469,9 +5049,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Babolat Air Viper 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Babolat/babolat-air-viper-2023.jpg",
-    "url": "https://padelzoom.es/babolat-air-viper-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/babolat-air-viper-2023.jpg"
   },
   {
     "id": "varlion-lw-summum-prisma-airflow-w-2023",
@@ -5494,9 +5072,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Varlion LW Summum Prisma Airflow W 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Varlion/varlion-lw-summum-prisma-airflow-w-2023.jpg",
-    "url": "https://padelzoom.es/varlion-lw-summum-prisma-airflow-w-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/varlion-lw-summum-prisma-airflow-w-2023.jpg"
   },
   {
     "id": "varlion-lw-summum-prisma-airflow-s-2023",
@@ -5519,9 +5095,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Varlion LW Summum Prisma Airflow S 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Varlion/varlion-lw-summum-prisma-airflow-s-2023.jpg",
-    "url": "https://padelzoom.es/varlion-lw-summum-prisma-airflow-s-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/varlion-lw-summum-prisma-airflow-s-2023.jpg"
   },
   {
     "id": "siux-electra-st2-stupa-pro",
@@ -5545,9 +5119,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Electra ST2 Stupa Pro. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-electra-st2-stupa-pro.jpg",
-    "url": "https://padelzoom.es/siux-electra-st2-stupa-pro/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-electra-st2-stupa-pro.jpg"
   },
   {
     "id": "siux-electra-pro-st3",
@@ -5571,9 +5143,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Electra PRO ST3. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-electra-pro-st3.jpg",
-    "url": "https://padelzoom.es/siux-electra-pro-st3/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-electra-pro-st3.jpg"
   },
   {
     "id": "bullpadel-vertex-hybrid-04-2024",
@@ -5597,9 +5167,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Vertex Hybrid 04 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-vertex-hybrid-04-2024.jpg",
-    "url": "https://padelzoom.es/bullpadel-vertex-hybrid-04-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-vertex-hybrid-04-2024.jpg"
   },
   {
     "id": "varlion-bourne-summum-prisma-airflow-w-2023",
@@ -5622,9 +5190,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Varlion Bourne Summum Prisma Airflow W 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Varlion/varlion-bourne-summum-prisma-airflow-w-2023.jpg",
-    "url": "https://padelzoom.es/varlion-bourne-summum-prisma-airflow-w-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/varlion-bourne-summum-prisma-airflow-w-2023.jpg"
   },
   {
     "id": "varlion-maxima-summum-prisma-airflow-s-2023",
@@ -5647,9 +5213,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Varlion Maxima Summum Prisma Airflow S 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Varlion/varlion-maxima-summum-prisma-airflow-s-2023.jpg",
-    "url": "https://padelzoom.es/varlion-maxima-summum-prisma-airflow-s-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/varlion-maxima-summum-prisma-airflow-s-2023.jpg"
   },
   {
     "id": "oxdog-hyper-tour-x-2-0-2026",
@@ -5672,9 +5236,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Oxdog Hyper Tour X 2.0 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Oxdog/oxdog-hyper-tour-x-2-0-2026.jpg",
-    "url": "https://padelzoom.es/oxdog-hyper-tour-x-2-0-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/oxdog-hyper-tour-x-2-0-2026.jpg"
   },
   {
     "id": "oxdog-pure-tour-x-2026",
@@ -5697,9 +5259,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Oxdog Pure Tour X 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Oxdog/oxdog-pure-tour-x-2026.jpg",
-    "url": "https://padelzoom.es/oxdog-pure-tour-x-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/oxdog-pure-tour-x-2026.jpg"
   },
   {
     "id": "wilson-defy-pro-v1-2025-javi-garrido",
@@ -5723,9 +5283,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Wilson Defy Pro V1 2025 Javi Garrido. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Wilson/wilson-defy-pro-v1-2025-javi-garrido.jpg",
-    "url": "https://padelzoom.es/wilson-defy-pro-v1-2025-javi-garrido/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/wilson-defy-pro-v1-2025-javi-garrido.jpg"
   },
   {
     "id": "oxdog-ultimate-pro-smash-2025",
@@ -5749,9 +5307,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Oxdog Ultimate Pro Smash 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Oxdog/oxdog-ultimate-pro-smash-2025.jpg",
-    "url": "https://padelzoom.es/oxdog-ultimate-pro-smash-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/oxdog-ultimate-pro-smash-2025.jpg"
   },
   {
     "id": "oxdog-pure-pro-plus-2025",
@@ -5774,9 +5330,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Oxdog Pure Pro Plus 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Oxdog/oxdog-pure-pro-plus-2025.jpg",
-    "url": "https://padelzoom.es/oxdog-pure-pro-plus-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/oxdog-pure-pro-plus-2025.jpg"
   },
   {
     "id": "babolat-counter-viper-2025",
@@ -5800,9 +5354,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Babolat Counter Viper 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Babolat/babolat-counter-viper-2025.jpg",
-    "url": "https://padelzoom.es/babolat-counter-viper-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/babolat-counter-viper-2025.jpg"
   },
   {
     "id": "babolat-counter-viper-2023",
@@ -5826,9 +5378,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Babolat Counter Viper 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Babolat/babolat-counter-viper-2023.jpg",
-    "url": "https://padelzoom.es/babolat-counter-viper-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/babolat-counter-viper-2023.jpg"
   },
   {
     "id": "oxdog-sense-pro-classic-series-2025",
@@ -5851,9 +5401,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Oxdog Sense Pro Classic Series 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Oxdog/oxdog-sense-pro-classic-series-2025.jpg",
-    "url": "https://padelzoom.es/oxdog-sense-pro-classic-series-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/oxdog-sense-pro-classic-series-2025.jpg"
   },
   {
     "id": "adidas-cross-it-ctrl-2024",
@@ -5877,9 +5425,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Cross It CTRL 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-cross-it-ctrl-2024.jpg",
-    "url": "https://padelzoom.es/adidas-cross-it-ctrl-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-cross-it-ctrl-2024.jpg"
   },
   {
     "id": "oxdog-ultimate-pro-plus-2025",
@@ -5902,9 +5448,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Oxdog Ultimate Pro Plus 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Oxdog/oxdog-ultimate-pro-plus-2025.jpg",
-    "url": "https://padelzoom.es/oxdog-ultimate-pro-plus-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/oxdog-ultimate-pro-plus-2025.jpg"
   },
   {
     "id": "oxdog-ultimate-pro-plus-classics-series",
@@ -5927,9 +5471,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Oxdog Ultimate Pro Plus Classics Series. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Oxdog/oxdog-ultimate-pro-plus-classics-series.jpg",
-    "url": "https://padelzoom.es/oxdog-ultimate-pro-plus-classics-series/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/oxdog-ultimate-pro-plus-classics-series.jpg"
   },
   {
     "id": "adidas-metalbone-ctrl-3-4-2025",
@@ -5953,9 +5495,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Metalbone CTRL 3.4 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 86,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-metalbone-ctrl-3-4-2025.jpg",
-    "url": "https://padelzoom.es/adidas-metalbone-ctrl-3-4-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-metalbone-ctrl-3-4-2025.jpg"
   },
   {
     "id": "head-radical-elite-2024",
@@ -5979,9 +5519,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Radical Elite 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-radical-elite-2024.jpg",
-    "url": "https://padelzoom.es/head-radical-elite-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-radical-elite-2024.jpg"
   },
   {
     "id": "black-crown-piton-white-soft-2026",
@@ -6005,9 +5543,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Black Crown Piton White Soft 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Black-Crown/black-crown-piton-white-soft-2026.jpg",
-    "url": "https://padelzoom.es/black-crown-piton-white-soft-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/black-crown-piton-white-soft-2026.jpg"
   },
   {
     "id": "varlion-lw-prisma-carbon-9-2023",
@@ -6031,9 +5567,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Varlion LW Prisma Carbon 9 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Varlion/varlion-lw-prisma-carbon-9-2023.jpg",
-    "url": "https://padelzoom.es/varlion-lw-prisma-carbon-9-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/varlion-lw-prisma-carbon-9-2023.jpg"
   },
   {
     "id": "head-speed-motion-2023",
@@ -6057,9 +5591,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Speed Motion 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-speed-motion-2023.jpg",
-    "url": "https://padelzoom.es/head-speed-motion-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-speed-motion-2023.jpg"
   },
   {
     "id": "nox-ml10-pro-cup-silver-2023",
@@ -6083,9 +5615,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox ML10 Pro Cup Silver 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-ml10-pro-cup-silver-2023.jpg",
-    "url": "https://padelzoom.es/nox-ml10-pro-cup-silver-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-ml10-pro-cup-silver-2023.jpg"
   },
   {
     "id": "joma-gold-pro-2025",
@@ -6108,9 +5638,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Joma Gold Pro 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Joma/joma-gold-pro-2025.jpg",
-    "url": "https://padelzoom.es/joma-gold-pro-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/joma-gold-pro-2025.jpg"
   },
   {
     "id": "siux-pegasus-revolution-3k",
@@ -6134,9 +5662,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Pegasus Revolution 3K. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-pegasus-revolution-3k.jpg",
-    "url": "https://padelzoom.es/siux-pegasus-revolution-3k/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-pegasus-revolution-3k.jpg"
   },
   {
     "id": "lok-maxx-flow-2024",
@@ -6160,9 +5686,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Lok Maxx Flow 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Lok/lok-maxx-flow-2024.jpg",
-    "url": "https://padelzoom.es/lok-maxx-flow-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/lok-maxx-flow-2024.jpg"
   },
   {
     "id": "siux-trilogy-ii-control-24k-patty-llaguno",
@@ -6185,9 +5709,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Trilogy II Control 24K Patty Llaguno. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-trilogy-ii-control-24k-patty-llaguno.jpg",
-    "url": "https://padelzoom.es/siux-trilogy-ii-control-24k-patty-llaguno/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-trilogy-ii-control-24k-patty-llaguno.jpg"
   },
   {
     "id": "head-radical-motion-2024",
@@ -6211,9 +5733,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Radical Motion 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-radical-motion-2024.jpg",
-    "url": "https://padelzoom.es/head-radical-motion-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-radical-motion-2024.jpg"
   },
   {
     "id": "joma-pro-tournament-2-0-azul-rojo-2025",
@@ -6236,9 +5756,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Joma Pro Tournament 2.0 Azul-Rojo 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Joma/joma-pro-tournament-2-0-azul-rojo-2025.jpg",
-    "url": "https://padelzoom.es/joma-pro-tournament-2-0-azul-rojo-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/joma-pro-tournament-2-0-azul-rojo-2025.jpg"
   },
   {
     "id": "black-crown-piton-white-2026",
@@ -6262,9 +5780,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Black Crown Piton White 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Black-Crown/black-crown-piton-white-2026.jpg",
-    "url": "https://padelzoom.es/black-crown-piton-white-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/black-crown-piton-white-2026.jpg"
   },
   {
     "id": "siux-spyder-lite-ctrl-3",
@@ -6288,9 +5804,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Spyder Lite CTRL 3. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-spyder-lite-ctrl-3.jpg",
-    "url": "https://padelzoom.es/siux-spyder-lite-ctrl-3/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-spyder-lite-ctrl-3.jpg"
   },
   {
     "id": "head-extreme-elite-2024",
@@ -6314,9 +5828,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Extreme Elite 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-extreme-elite-2024.jpg",
-    "url": "https://padelzoom.es/head-extreme-elite-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-extreme-elite-2024.jpg"
   },
   {
     "id": "bullpadel-xplo-comfort-2025",
@@ -6340,9 +5852,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel XPLO Comfort 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-xplo-comfort-2025.jpg",
-    "url": "https://padelzoom.es/bullpadel-xplo-comfort-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-xplo-comfort-2025.jpg"
   },
   {
     "id": "siux-ultra-pro-2024",
@@ -6366,9 +5876,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Ultra Pro 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-ultra-pro-2024.jpg",
-    "url": "https://padelzoom.es/siux-ultra-pro-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-ultra-pro-2024.jpg"
   },
   {
     "id": "varlion-lw-prisma-carbon-9-pansy-2023",
@@ -6392,9 +5900,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Varlion LW Prisma Carbon 9 Pansy 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Varlion/varlion-lw-prisma-carbon-9-pansy-2023.jpg",
-    "url": "https://padelzoom.es/varlion-lw-prisma-carbon-9-pansy-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/varlion-lw-prisma-carbon-9-pansy-2023.jpg"
   },
   {
     "id": "siux-trilogy-4-pro",
@@ -6418,9 +5924,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Trilogy 4 Pro. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-trilogy-4-pro.jpg",
-    "url": "https://padelzoom.es/siux-trilogy-4-pro/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-trilogy-4-pro.jpg"
   },
   {
     "id": "head-coello-team-2025",
@@ -6444,9 +5948,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Coello Team 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-coello-team-2025.jpg",
-    "url": "https://padelzoom.es/head-coello-team-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-coello-team-2025.jpg"
   },
   {
     "id": "puma-solar-attack-ii-ctr-2023",
@@ -6469,9 +5971,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Puma Solar Attack II CTR 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Puma/puma-solar-attack-ii-ctr-2023.jpg",
-    "url": "https://padelzoom.es/puma-solar-attack-ii-ctr-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/puma-solar-attack-ii-ctr-2023.jpg"
   },
   {
     "id": "vibora-yarara-elite-24k-2-0-2025",
@@ -6495,9 +5995,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Vibora Yarara Elite 24K 2.0 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Vibora/vibora-yarara-elite-24k-2-0-2025.jpg",
-    "url": "https://padelzoom.es/vibora-yarara-elite-24k-2-0-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/vibora-yarara-elite-24k-2-0-2025.jpg"
   },
   {
     "id": "nox-ml10-luxury-bahia-12k-2024",
@@ -6520,9 +6018,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox ML10 Luxury Bahia 12K 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-ml10-luxury-bahia-12k-2024.jpg",
-    "url": "https://padelzoom.es/nox-ml10-luxury-bahia-12k-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-ml10-luxury-bahia-12k-2024.jpg"
   },
   {
     "id": "vibora-black-mamba-radical-12k-2-0-2025",
@@ -6546,9 +6042,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Vibora Black Mamba Radical 12K 2.0 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Vibora/vibora-black-mamba-radical-12k-2-0-2025.jpg",
-    "url": "https://padelzoom.es/vibora-black-mamba-radical-12k-2-0-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/vibora-black-mamba-radical-12k-2-0-2025.jpg"
   },
   {
     "id": "vibora-yarara-radical-12k-2-0-2025",
@@ -6572,9 +6066,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Vibora Yarara Radical 12K 2.0 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Vibora/vibora-yarara-radical-12k-2-0-2025.jpg",
-    "url": "https://padelzoom.es/vibora-yarara-radical-12k-2-0-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/vibora-yarara-radical-12k-2-0-2025.jpg"
   },
   {
     "id": "black-crown-hurricane-pro-2-0-2023",
@@ -6598,9 +6090,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Black Crown Hurricane Pro 2.0 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Black-Crown/black-crown-hurricane-pro-2-0-2023.jpg",
-    "url": "https://padelzoom.es/black-crown-hurricane-pro-2-0-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/black-crown-hurricane-pro-2-0-2023.jpg"
   },
   {
     "id": "babolat-counter-veron-2024",
@@ -6624,9 +6114,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Babolat Counter Veron 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Babolat/babolat-counter-veron-2024.jpg",
-    "url": "https://padelzoom.es/babolat-counter-veron-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/babolat-counter-veron-2024.jpg"
   },
   {
     "id": "star-vie-raptor-pro-touch-2025",
@@ -6650,9 +6138,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Star Vie Raptor Pro Touch 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Star-Vie/star-vie-raptor-pro-touch-2025.jpg",
-    "url": "https://padelzoom.es/star-vie-raptor-pro-touch-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/star-vie-raptor-pro-touch-2025.jpg"
   },
   {
     "id": "drop-shot-conqueror-10",
@@ -6676,9 +6162,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Drop Shot Conqueror 10. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Drop-Shot/drop-shot-conqueror-10.jpg",
-    "url": "https://padelzoom.es/drop-shot-conqueror-10/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/drop-shot-conqueror-10.jpg"
   },
   {
     "id": "star-vie-astrum-soft-2025",
@@ -6702,9 +6186,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Star Vie Astrum Soft 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Star-Vie/star-vie-astrum-soft-2025.jpg",
-    "url": "https://padelzoom.es/star-vie-astrum-soft-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/star-vie-astrum-soft-2025.jpg"
   },
   {
     "id": "star-vie-kenta-colours-soft-ltd-2024",
@@ -6728,9 +6210,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Star Vie Kenta Colours Soft LTD 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Star-Vie/star-vie-kenta-colours-soft-ltd-2024.jpg",
-    "url": "https://padelzoom.es/star-vie-kenta-colours-soft-ltd-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/star-vie-kenta-colours-soft-ltd-2024.jpg"
   },
   {
     "id": "nox-tl10-quantum-12k-2025-tino-libaak",
@@ -6754,9 +6234,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox TL10 Quantum 12K 2025 Tino Libaak. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-tl10-quantum-12k--2025-tino-libaak.jpg",
-    "url": "https://padelzoom.es/nox-tl10-quantum-12k-2025-tino-libaak/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-tl10-quantum-12k-2025-tino-libaak.jpg"
   },
   {
     "id": "nox-ml10-pro-cup-luxury-2023",
@@ -6780,9 +6258,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox ML10 Pro Cup Luxury 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-ml10-pro-cup-luxury-2023.jpg",
-    "url": "https://padelzoom.es/nox-ml10-pro-cup-luxury-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-ml10-pro-cup-luxury-2023.jpg"
   },
   {
     "id": "nox-ml10-quantum-3k-2025-miguel-lamperti",
@@ -6806,9 +6282,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox ML10 Quantum 3K 2025 Miguel Lamperti. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-ml10-quantum-3k-2025-miguel-lamperti.jpg",
-    "url": "https://padelzoom.es/nox-ml10-quantum-3k-2025-miguel-lamperti/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-ml10-quantum-3k-2025-miguel-lamperti.jpg"
   },
   {
     "id": "nox-at10-genius-attack-12k-alum-2025",
@@ -6832,9 +6306,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox AT10 Genius Attack 12K Alum 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-at10-genius-attack-12k-alum-2025.jpg",
-    "url": "https://padelzoom.es/nox-at10-genius-attack-12k-alum-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-at10-genius-attack-12k-alum-2025.jpg"
   },
   {
     "id": "babolat-counter-vertuo-2026",
@@ -6858,9 +6330,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Babolat Counter Vertuo 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Babolat/babolat-counter-vertuo-2026.jpg",
-    "url": "https://padelzoom.es/babolat-counter-vertuo-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/babolat-counter-vertuo-2026.jpg"
   },
   {
     "id": "star-vie-metheora-pro-touch-2025",
@@ -6884,9 +6354,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Star Vie Metheora Pro Touch 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Star-Vie/star-vie-metheora-pro-touch-2025.jpg",
-    "url": "https://padelzoom.es/star-vie-metheora-pro-touch-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/star-vie-metheora-pro-touch-2025.jpg"
   },
   {
     "id": "vibora-king-cobra-elite-24k-2-0-2025",
@@ -6910,9 +6378,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Vibora King Cobra Elite 24K 2.0 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Vibora/vibora-king-cobra-elite-24k-2-0-2025.jpg",
-    "url": "https://padelzoom.es/vibora-king-cobra-elite-24k-2-0-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/vibora-king-cobra-elite-24k-2-0-2025.jpg"
   },
   {
     "id": "head-speed-motion-2025",
@@ -6936,9 +6402,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Speed Motion 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-speed-motion-2025.jpg",
-    "url": "https://padelzoom.es/head-speed-motion-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-speed-motion-2025.jpg"
   },
   {
     "id": "head-extreme-motion-2024",
@@ -6962,9 +6426,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Extreme Motion 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-extreme-motion-2024.jpg",
-    "url": "https://padelzoom.es/head-extreme-motion-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-extreme-motion-2024.jpg"
   },
   {
     "id": "black-crown-piton-premium-2024",
@@ -6988,9 +6450,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Black Crown Piton Premium 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Black-Crown/black-crown-piton-premium-2024.jpg",
-    "url": "https://padelzoom.es/black-crown-piton-premium-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/black-crown-piton-premium-2024.jpg"
   },
   {
     "id": "nox-vk10-quantum-3k-2025-aranzazu-osoro",
@@ -7014,9 +6474,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox VK10 Quantum 3K 2025 Aranzazu Osoro. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-vk10-quantum-3k-2025-aranzazu-osoro.jpg",
-    "url": "https://padelzoom.es/nox-vk10-quantum-3k-2025-aranzazu-osoro/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-vk10-quantum-3k-2025-aranzazu-osoro.jpg"
   },
   {
     "id": "star-vie-drax-soft-2025",
@@ -7040,9 +6498,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Star Vie Drax Soft 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Star-Vie/star-vie-drax-soft-2025.jpg",
-    "url": "https://padelzoom.es/star-vie-drax-soft-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/star-vie-drax-soft-2025.jpg"
   },
   {
     "id": "star-vie-basalto-osiris-soft-2-0-2023",
@@ -7066,9 +6522,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Star Vie Basalto Osiris Soft 2.0 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Star-Vie/star-vie-basalto-osiris-soft-2-0-2023.jpg",
-    "url": "https://padelzoom.es/star-vie-basalto-osiris-soft-2-0-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/star-vie-basalto-osiris-soft-2-0-2023.jpg"
   },
   {
     "id": "bullpadel-hack-04-hybrid-2025",
@@ -7092,9 +6546,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Hack 04 Hybrid 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-hack-04-hybrid-2025.jpg",
-    "url": "https://padelzoom.es/bullpadel-hack-04-hybrid-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-hack-04-hybrid-2025.jpg"
   },
   {
     "id": "babolat-counter-veron-2023",
@@ -7117,10 +6569,7 @@ window.PRODUCTOS = [
     },
     "descripcion": "Conoce todo sobre Babolat Counter Veron 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
-    "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Babolat/babolat-air-counter-veron-2023.jpg",
-    "url": "https://padelzoom.es/babolat-counter-veron-2023/",
-    "tienda": "Padelzoom"
+    "popularidad": 85
   },
   {
     "id": "babolat-counter-veron-2025",
@@ -7144,9 +6593,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Babolat Counter Veron 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Babolat/babolat-counter-veron-2025.jpg",
-    "url": "https://padelzoom.es/babolat-counter-veron-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/babolat-counter-veron-2025.jpg"
   },
   {
     "id": "black-crown-hurricane-pro-3-0-2025",
@@ -7170,9 +6617,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Black Crown Hurricane Pro 3.0 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Black-Crown/black-crown-hurricane-pro-3-0-2025.jpg",
-    "url": "https://padelzoom.es/black-crown-hurricane-pro-3-0-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/black-crown-hurricane-pro-3-0-2025.jpg"
   },
   {
     "id": "black-crown-piton-14-2026",
@@ -7196,9 +6641,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Black Crown Piton 14 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Black-Crown/black-crown-piton-14-2026.jpg",
-    "url": "https://padelzoom.es/black-crown-piton-14-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/black-crown-piton-14-2026.jpg"
   },
   {
     "id": "nox-mm2-pro-by-manu-martin",
@@ -7222,9 +6665,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox MM2 Pro by Manu Martin. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-mm2-pro-by-manu-martin.jpg",
-    "url": "https://padelzoom.es/nox-mm2-pro-by-manu-martin/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-mm2-pro-by-manu-martin.jpg"
   },
   {
     "id": "drop-shot-canyon-pro-attack-1-5-pablo-lima-2025",
@@ -7248,9 +6689,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Drop Shot Canyon Pro Attack 1.5 Pablo Lima 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Drop-Shot/drop-shot-canyon-pro-attack-1-5-pablo-lima-2025.jpg",
-    "url": "https://padelzoom.es/drop-shot-canyon-pro-attack-1-5-pablo-lima-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/drop-shot-canyon-pro-attack-1-5-pablo-lima-2025.jpg"
   },
   {
     "id": "bullpadel-elite-woman-2025-gemma-triay",
@@ -7274,9 +6713,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Elite Woman 2025 Gemma Triay. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-elite-woman-2025.jpg",
-    "url": "https://padelzoom.es/bullpadel-elite-woman-2025-gemma-triay/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-elite-woman-2025-gemma-triay.jpg"
   },
   {
     "id": "head-speed-one-x-2025",
@@ -7300,9 +6737,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Speed One X 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-speed-one-x-2025.jpg",
-    "url": "https://padelzoom.es/head-speed-one-x-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-speed-one-x-2025.jpg"
   },
   {
     "id": "head-extreme-motion-ltd-2024",
@@ -7326,9 +6761,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Extreme Motion LTD 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-extreme-motion-ltd-2024.jpg",
-    "url": "https://padelzoom.es/head-extreme-motion-ltd-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-extreme-motion-ltd-2024.jpg"
   },
   {
     "id": "adidas-metalbone-carbon-ctrl-2024",
@@ -7351,9 +6784,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Metalbone Carbon CTRL 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-metalbone-carbon-ctrl-2024.jpg",
-    "url": "https://padelzoom.es/adidas-metalbone-carbon-ctrl-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-metalbone-carbon-ctrl-2024.jpg"
   },
   {
     "id": "drop-shot-canyon-pro-attack-1-0-2025",
@@ -7377,9 +6808,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Drop Shot Canyon Pro Attack 1.0 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Drop-Shot/drop-shot-canyon-pro-attack-1-0-2025.jpg",
-    "url": "https://padelzoom.es/drop-shot-canyon-pro-attack-1-0-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/drop-shot-canyon-pro-attack-1-0-2025.jpg"
   },
   {
     "id": "drop-shot-axion-attack-1-5-jon-sanz-2025",
@@ -7403,9 +6832,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Drop Shot Axion Attack 1.5 Jon Sanz 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Drop-Shot/drop-shot-axion-attack-1-5-jon-sanz-2025.jpg",
-    "url": "https://padelzoom.es/drop-shot-axion-attack-1-5-jon-sanz-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/drop-shot-axion-attack-1-5-jon-sanz-2025.jpg"
   },
   {
     "id": "head-speed-motion-ltd-2024",
@@ -7429,9 +6856,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Speed Motion LTD 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-speed-motion-ltd-2024.jpg",
-    "url": "https://padelzoom.es/head-speed-motion-ltd-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-speed-motion-ltd-2024.jpg"
   },
   {
     "id": "head-extreme-one-x-2026",
@@ -7455,9 +6880,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Extreme One X 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-extreme-one-x-2026.jpg",
-    "url": "https://padelzoom.es/head-extreme-one-x-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-extreme-one-x-2026.jpg"
   },
   {
     "id": "star-vie-drax-pro-touch-2025",
@@ -7481,9 +6904,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Star Vie Drax Pro Touch 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Star-Vie/star-vie-drax-pro-touch-2025.jpg",
-    "url": "https://padelzoom.es/star-vie-drax-pro-touch-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/star-vie-drax-pro-touch-2025.jpg"
   },
   {
     "id": "head-coello-motion-2025",
@@ -7507,9 +6928,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Coello Motion 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-coello-motion-2025.jpg",
-    "url": "https://padelzoom.es/head-coello-motion-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-coello-motion-2025.jpg"
   },
   {
     "id": "black-crown-special-elite-2026",
@@ -7533,9 +6952,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Black Crown Special Elite 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Black-Crown/black-crown-special-elite-2026.jpg",
-    "url": "https://padelzoom.es/black-crown-special-elite-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/black-crown-special-elite-2026.jpg"
   },
   {
     "id": "bullpadel-flow-legend-2026-alejandra-salazar",
@@ -7559,9 +6976,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Flow Legend 2026 Alejandra Salazar. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-flow-legend-2026-alejandra-salazar.jpg",
-    "url": "https://padelzoom.es/bullpadel-flow-legend-2026-alejandra-salazar/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-flow-legend-2026-alejandra-salazar.jpg"
   },
   {
     "id": "drop-shot-axion-attack-1-ltd-jon-sanz",
@@ -7584,9 +6999,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Drop Shot Axion Attack 1 LTD Jon Sanz. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Drop-Shot/drop-shot-axion-attack-1-ltd-jon-sanz.jpg",
-    "url": "https://padelzoom.es/drop-shot-axion-attack-1-ltd-jon-sanz/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/drop-shot-axion-attack-1-ltd-jon-sanz.jpg"
   },
   {
     "id": "wilson-defy-ls-v1-2025",
@@ -7610,9 +7023,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Wilson Defy LS V1 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Wilson/wilson-defy-ls-v1-2025.jpg",
-    "url": "https://padelzoom.es/wilson-defy-ls-v1-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/wilson-defy-ls-v1-2025.jpg"
   },
   {
     "id": "lok-carbon-hype-gen-2-2026",
@@ -7636,9 +7047,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Lok Carbon Hype Gen 2 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Lok/lok-carbon-hype-gen-2-2026.jpg",
-    "url": "https://padelzoom.es/lok-carbon-hype-gen-2-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/lok-carbon-hype-gen-2-2026.jpg"
   },
   {
     "id": "drop-shot-canyon-pro-comfort-2-0-2026",
@@ -7662,9 +7071,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Drop Shot Canyon Pro Comfort 2.0 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Drop-Shot/drop-shot-canyon-pro-comfort-2-0-2026.jpg",
-    "url": "https://padelzoom.es/drop-shot-canyon-pro-comfort-2-0-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/drop-shot-canyon-pro-comfort-2-0-2026.jpg"
   },
   {
     "id": "drop-shot-axion-attack-1-0-2025-jon-sanz",
@@ -7688,9 +7095,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Drop Shot Axion Attack 1.0 2025 Jon Sanz. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Drop-Shot/drop-shot-axion-attack-1-0-2025-jon-sanz.jpg",
-    "url": "https://padelzoom.es/drop-shot-axion-attack-1-0-2025-jon-sanz/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/drop-shot-axion-attack-1-0-2025-jon-sanz.jpg"
   },
   {
     "id": "bullpadel-elite-woman-2024",
@@ -7714,9 +7119,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Elite Woman 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-elite-woman-2024.jpg",
-    "url": "https://padelzoom.es/bullpadel-elite-woman-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-elite-woman-2024.jpg"
   },
   {
     "id": "adidas-arrow-hit-carbon-ctrl-2026",
@@ -7740,9 +7143,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Arrow Hit Carbon CTRL 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-arrow-hit-carbon-ctrl-2026.jpg",
-    "url": "https://padelzoom.es/adidas-arrow-hit-carbon-ctrl-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-arrow-hit-carbon-ctrl-2026.jpg"
   },
   {
     "id": "adidas-metalbone-carbon-ctrl-3-4-2025",
@@ -7766,9 +7167,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Metalbone Carbon CTRL 3.4 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-metalbone-carbon-ctrl-3-4-2025.jpg",
-    "url": "https://padelzoom.es/adidas-metalbone-carbon-ctrl-3-4-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-metalbone-carbon-ctrl-3-4-2025.jpg"
   },
   {
     "id": "enebe-mustang-silver-3k-2026",
@@ -7792,9 +7191,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Enebe Mustang Silver 3K 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Enebe/enebe-mustang-silver-3k-2026.jpg",
-    "url": "https://padelzoom.es/enebe-mustang-silver-3k-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/enebe-mustang-silver-3k-2026.jpg"
   },
   {
     "id": "lok-maxx-hype-gen-2-2026-mike-yanguas",
@@ -7818,9 +7215,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Lok Maxx Hype Gen 2 2026 Mike Yanguas. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Lok/lok-maxx-hype-gen-2-2026-mike-yanguas.jpg",
-    "url": "https://padelzoom.es/lok-maxx-hype-gen-2-2026-mike-yanguas/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/lok-maxx-hype-gen-2-2026-mike-yanguas.jpg"
   },
   {
     "id": "nox-ea10-ventus-attack-12k-xtrem-2026",
@@ -7844,9 +7239,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox EA10 Ventus Attack 12K Xtrem 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-ea10-ventus-attack-12k-xtrem-2026.jpg",
-    "url": "https://padelzoom.es/nox-ea10-ventus-attack-12k-xtrem-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-ea10-ventus-attack-12k-xtrem-2026.jpg"
   },
   {
     "id": "lok-maxx-hype-gen-2-2026-yanguas-world",
@@ -7870,9 +7263,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Lok Maxx Hype Gen 2 2026 Yanguas World. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Lok/lok-maxx-hype-gen-2-2026-yanguas-world.jpg",
-    "url": "https://padelzoom.es/lok-maxx-hype-gen-2-2026-yanguas-world/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/lok-maxx-hype-gen-2-2026-yanguas-world.jpg"
   },
   {
     "id": "adidas-adipower-control-multiweight-pro-edt-2024-alex-ruiz",
@@ -7896,9 +7287,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Adipower Control Multiweight Pro EDT 2024 Alex Ruiz. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-adipower-control-multiweight-pro-edt-2024.jpg",
-    "url": "https://padelzoom.es/adidas-adipower-control-multiweight-pro-edt-2024-alex-ruiz/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-adipower-control-multiweight-pro-edt-2024-alex-ruiz.jpg"
   },
   {
     "id": "adidas-cross-it-carbon-2026",
@@ -7922,9 +7311,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Cross IT Carbon 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-cross-it-carbon-2026.jpg",
-    "url": "https://padelzoom.es/adidas-cross-it-carbon-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-cross-it-carbon-2026.jpg"
   },
   {
     "id": "bullpadel-wonder-2026-claudia-fernandez",
@@ -7948,9 +7335,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Wonder 2026 Claudia Fernandez. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-wonder-2026-claudia-fernandez.jpg",
-    "url": "https://padelzoom.es/bullpadel-wonder-2026-claudia-fernandez/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-wonder-2026-claudia-fernandez.jpg"
   },
   {
     "id": "siux-trilogy-elite-6-2026",
@@ -7974,9 +7359,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Trilogy Elite 6 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-trilogy-elite-6-2026.jpg",
-    "url": "https://padelzoom.es/siux-trilogy-elite-6-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-trilogy-elite-6-2026.jpg"
   },
   {
     "id": "royal-padel-36-aniversario-light-2026",
@@ -8000,9 +7383,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Royal Padel 36 Aniversario Light 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Royal-Padel/royal-padel-36-aniversario-light-2026.jpg",
-    "url": "https://padelzoom.es/royal-padel-36-aniversario-light-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/royal-padel-36-aniversario-light-2026.jpg"
   },
   {
     "id": "bullpadel-vertex-05-woman-2026-delfi-brea",
@@ -8026,9 +7407,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Vertex 05 Woman 2026 Delfi Brea. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-vertex-05-woman-2026-delfi-brea.jpg",
-    "url": "https://padelzoom.es/bullpadel-vertex-05-woman-2026-delfi-brea/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-vertex-05-woman-2026-delfi-brea.jpg"
   },
   {
     "id": "bullpadel-pearl-bea-gonzalez-2026",
@@ -8052,9 +7431,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Pearl Bea Gonzalez 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-pearl-bea-gonzalez-2026.jpg",
-    "url": "https://padelzoom.es/bullpadel-pearl-bea-gonzalez-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-pearl-bea-gonzalez-2026.jpg"
   },
   {
     "id": "wilson-defy-v1-2025",
@@ -8078,9 +7455,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Wilson Defy V1 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Wilson/wilson-defy-v1-2025.jpg",
-    "url": "https://padelzoom.es/wilson-defy-v1-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/wilson-defy-v1-2025.jpg"
   },
   {
     "id": "bullpadel-hack-03-hybrid-2024",
@@ -8104,9 +7479,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Hack 03 Hybrid 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-hack-03-hybrid-2024.jpg",
-    "url": "https://padelzoom.es/bullpadel-hack-03-hybrid-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-hack-03-hybrid-2024.jpg"
   },
   {
     "id": "adidas-cross-it-carbon-ctrl-2026",
@@ -8130,9 +7503,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Cross IT Carbon CTRL 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-cross-it-carbon-ctrl-2026.jpg",
-    "url": "https://padelzoom.es/adidas-cross-it-carbon-ctrl-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-cross-it-carbon-ctrl-2026.jpg"
   },
   {
     "id": "varlion-maxima-summum-prisma-airflow-w-2023",
@@ -8155,9 +7526,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Varlion Maxima Summum Prisma Airflow W 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Varlion/varlion-maxima-summum-prisma-airflow-w-2023.jpg",
-    "url": "https://padelzoom.es/varlion-maxima-summum-prisma-airflow-w-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/varlion-maxima-summum-prisma-airflow-w-2023.jpg"
   },
   {
     "id": "drop-shot-quantum-soft-women-2026",
@@ -8180,9 +7549,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Drop Shot Quantum Soft Women 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Drop-Shot/drop-shot-quantum-soft-women-2026.jpg",
-    "url": "https://padelzoom.es/drop-shot-quantum-soft-women-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/drop-shot-quantum-soft-women-2026.jpg"
   },
   {
     "id": "bullpadel-neuron-2024",
@@ -8206,9 +7573,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Neuron 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-neuron-2024.jpg",
-    "url": "https://padelzoom.es/bullpadel-neuron-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-neuron-2024.jpg"
   },
   {
     "id": "varlion-bourne-summum-prisma-airflow-s-2023",
@@ -8231,9 +7596,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Varlion Bourne Summum Prisma Airflow S 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Varlion/varlion-bourne-summum-prisma-airflow-s-2023.jpg",
-    "url": "https://padelzoom.es/varlion-bourne-summum-prisma-airflow-s-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/varlion-bourne-summum-prisma-airflow-s-2023.jpg"
   },
   {
     "id": "lok-carbon-hype-fdb-gen-2-2026",
@@ -8256,9 +7619,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Lok Carbon Hype Fdb Gen 2 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Lok/lok-carbon-hype-fdb-gen-2-2026.jpg",
-    "url": "https://padelzoom.es/lok-carbon-hype-fdb-gen-2-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/lok-carbon-hype-fdb-gen-2-2026.jpg"
   },
   {
     "id": "drop-shot-axion-attack-soft-2026",
@@ -8282,9 +7643,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Drop Shot Axion Attack Soft 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Drop-Shot/drop-shot-axion-attack-soft-2026.jpg",
-    "url": "https://padelzoom.es/drop-shot-axion-attack-soft-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/drop-shot-axion-attack-soft-2026.jpg"
   },
   {
     "id": "oxdog-ultimate-pro-2025",
@@ -8307,9 +7666,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Oxdog Ultimate Pro 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Oxdog/oxdog-ultimate-pro-2025.jpg",
-    "url": "https://padelzoom.es/oxdog-ultimate-pro-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/oxdog-ultimate-pro-2025.jpg"
   },
   {
     "id": "varlion-bourne-summum-airflow-my-s-2023",
@@ -8332,9 +7689,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Varlion Bourne Summum Airflow MY S 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Varlion/varlion-bourne-summum-airflow-my-s-2023.jpg",
-    "url": "https://padelzoom.es/varlion-bourne-summum-airflow-my-s-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/varlion-bourne-summum-airflow-my-s-2023.jpg"
   },
   {
     "id": "varlion-bourne-summum-prisma-radio-w-2023",
@@ -8357,9 +7712,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Varlion Bourne Summum Prisma Radio W 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Varlion/varlion-bourne-summum-prisma-radio-w-2023.jpg",
-    "url": "https://padelzoom.es/varlion-bourne-summum-prisma-radio-w-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/varlion-bourne-summum-prisma-radio-w-2023.jpg"
   },
   {
     "id": "adidas-cross-it-light-3-4-2025-martita-ortega",
@@ -8383,9 +7736,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Cross It Light 3.4 2025 - Martita Ortega. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-cross-it-light-3-4-2025-martita-ortega.jpg",
-    "url": "https://padelzoom.es/adidas-cross-it-light-3-4-2025-martita-ortega/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-cross-it-light-3-4-2025-martita-ortega.jpg"
   },
   {
     "id": "adidas-cross-it-light-2024",
@@ -8409,9 +7760,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Cross It Light 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-cross-it-light-2024.jpg",
-    "url": "https://padelzoom.es/adidas-cross-it-light-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-cross-it-light-2024.jpg"
   },
   {
     "id": "oxdog-ultimate-pro-light-2025",
@@ -8434,9 +7783,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Oxdog Ultimate Pro Light 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.3,
     "popularidad": 85,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Oxdog/oxdog-ultimate-pro-light-2025.jpg",
-    "url": "https://padelzoom.es/oxdog-ultimate-pro-light-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/oxdog-ultimate-pro-light-2025.jpg"
   },
   {
     "id": "lok-carb-on-flow-2024",
@@ -8460,9 +7807,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Lok Carb-on Flow 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Lok/lok-carb-on-flow-2024.jpg",
-    "url": "https://padelzoom.es/lok-carb-on-flow-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/lok-carb-on-flow-2024.jpg"
   },
   {
     "id": "star-vie-aquila-pro-2024",
@@ -8486,9 +7831,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Star Vie Aquila Pro 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Star-Vie/star-vie-aquila-pro-2024.jpg",
-    "url": "https://padelzoom.es/star-vie-aquila-pro-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/star-vie-aquila-pro-2024.jpg"
   },
   {
     "id": "dunlop-galactica-lite-2023",
@@ -8512,9 +7855,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Dunlop Galactica Lite 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Dunlop/dunlop-galactica-lite-2023.jpg",
-    "url": "https://padelzoom.es/dunlop-galactica-lite-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/dunlop-galactica-lite-2023.jpg"
   },
   {
     "id": "enebe-combat-7-1-v2-2025",
@@ -8538,9 +7879,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Enebe Combat 7.1 V2 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Enebe/enebe-combat-7-1-v2-2025.jpg",
-    "url": "https://padelzoom.es/enebe-combat-7-1-v2-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/enebe-combat-7-1-v2-2025.jpg"
   },
   {
     "id": "black-crown-piton-11-2023",
@@ -8564,9 +7903,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Black Crown Piton 11 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Black-Crown/black-crown-piton-11-2023.jpg",
-    "url": "https://padelzoom.es/black-crown-piton-11-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/black-crown-piton-11-2023.jpg"
   },
   {
     "id": "babolat-technical-veron-2024",
@@ -8590,9 +7927,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Babolat Technical Veron 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Babolat/babolat-technical-veron-2024.jpg",
-    "url": "https://padelzoom.es/babolat-technical-veron-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/babolat-technical-veron-2024.jpg"
   },
   {
     "id": "siux-trilogy-4-lite-air",
@@ -8616,9 +7951,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Trilogy 4 Lite Air. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-trilogy-4-lite-air.jpg",
-    "url": "https://padelzoom.es/siux-trilogy-4-lite-air/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-trilogy-4-lite-air.jpg"
   },
   {
     "id": "head-gravity-pro-2022",
@@ -8642,9 +7975,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Gravity Pro 2022. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-gravity-pro-2022.jpg",
-    "url": "https://padelzoom.es/head-gravity-pro-2022/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-gravity-pro-2022.jpg"
   },
   {
     "id": "star-vie-aquila-pro-2025",
@@ -8668,9 +7999,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Star Vie Aquila Pro 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Star-Vie/star-vie-aquila-pro-2025.jpg",
-    "url": "https://padelzoom.es/star-vie-aquila-pro-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/star-vie-aquila-pro-2025.jpg"
   },
   {
     "id": "siux-electra-lite-st3",
@@ -8694,9 +8023,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Electra Lite ST3. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-electra-lite-st3.jpg",
-    "url": "https://padelzoom.es/siux-electra-lite-st3/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-electra-lite-st3.jpg"
   },
   {
     "id": "dunlop-galactica-pro-2023",
@@ -8720,9 +8047,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Dunlop Galactica Pro 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Dunlop/dunlop-galactica-pro-2023.jpg",
-    "url": "https://padelzoom.es/dunlop-galactica-pro-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/dunlop-galactica-pro-2023.jpg"
   },
   {
     "id": "star-vie-kenta-speed-2024",
@@ -8746,9 +8071,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Star Vie Kenta Speed 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Star-Vie/star-vie-kenta-speed-2024.jpg",
-    "url": "https://padelzoom.es/star-vie-kenta-speed-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/star-vie-kenta-speed-2024.jpg"
   },
   {
     "id": "lok-easy-flow-gen-2-2026",
@@ -8772,9 +8095,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Lok Easy Flow Gen 2 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Lok/lok-easy-flow-gen-2-2026.jpg",
-    "url": "https://padelzoom.es/lok-easy-flow-gen-2-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/lok-easy-flow-gen-2-2026.jpg"
   },
   {
     "id": "black-crown-piton-attack-16k-2023",
@@ -8798,9 +8119,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Black Crown Piton Attack 16K 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Black-Crown/black-crown-piton-attack-16k-2023.jpg",
-    "url": "https://padelzoom.es/black-crown-piton-attack-16k-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/black-crown-piton-attack-16k-2023.jpg"
   },
   {
     "id": "drop-shot-canyon-pro-control-2025",
@@ -8824,9 +8143,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Drop Shot Canyon Pro Control 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Drop-Shot/drop-shot-canyon-pro-control-2025.jpg",
-    "url": "https://padelzoom.es/drop-shot-canyon-pro-control-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/drop-shot-canyon-pro-control-2025.jpg"
   },
   {
     "id": "star-vie-brava-soft-2025",
@@ -8850,9 +8167,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Star Vie Brava Soft 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Star-Vie/star-vie-brava-soft-2025.jpg",
-    "url": "https://padelzoom.es/star-vie-brava-soft-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/star-vie-brava-soft-2025.jpg"
   },
   {
     "id": "star-vie-brava-pro-2025",
@@ -8876,9 +8191,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Star Vie Brava Pro 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Star-Vie/star-vie-brava-pro-2025.jpg",
-    "url": "https://padelzoom.es/star-vie-brava-pro-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/star-vie-brava-pro-2025.jpg"
   },
   {
     "id": "star-vie-raptor-soft-2025",
@@ -8902,9 +8215,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Star Vie Raptor Soft 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Star-Vie/star-vie-raptor-soft-2025.jpg",
-    "url": "https://padelzoom.es/star-vie-raptor-soft-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/star-vie-raptor-soft-2025.jpg"
   },
   {
     "id": "babolat-technical-veron-2025",
@@ -8928,9 +8239,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Babolat Technical Veron 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Babolat/babolat-technical-veron-2025.jpg",
-    "url": "https://padelzoom.es/babolat-technical-veron-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/babolat-technical-veron-2025.jpg"
   },
   {
     "id": "babolat-technical-veron-2023",
@@ -8953,10 +8262,7 @@ window.PRODUCTOS = [
     },
     "descripcion": "Conoce todo sobre Babolat Technical Veron 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
-    "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Babolat/babolat-air-techinal-veron-2023.jpg",
-    "url": "https://padelzoom.es/babolat-technical-veron-2023/",
-    "tienda": "Padelzoom"
+    "popularidad": 84
   },
   {
     "id": "nox-quantum-12k-carbon-2025",
@@ -8980,9 +8286,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox Quantum 12K Carbon 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-quantum-12k-carbon-2025.jpg",
-    "url": "https://padelzoom.es/nox-quantum-12k-carbon-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-quantum-12k-carbon-2025.jpg"
   },
   {
     "id": "adidas-metalbone-carbon-3-3-2024",
@@ -9006,9 +8310,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Metalbone Carbon 3.3 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-metalbone-carbon-3-3-2024.jpg",
-    "url": "https://padelzoom.es/adidas-metalbone-carbon-3-3-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-metalbone-carbon-3-3-2024.jpg"
   },
   {
     "id": "dunlop-aero-star-pro-2023",
@@ -9031,9 +8333,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Dunlop Aero Star Pro 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Dunlop/dunlop-aero-star-pro-2023.jpg",
-    "url": "https://padelzoom.es/dunlop-aero-star-pro-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/dunlop-aero-star-pro-2023.jpg"
   },
   {
     "id": "nox-future-control-12k-alum-2025",
@@ -9057,9 +8357,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox Future Control 12K Alum 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-future-control-12k-alum-2025.jpg",
-    "url": "https://padelzoom.es/nox-future-control-12k-alum-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-future-control-12k-alum-2025.jpg"
   },
   {
     "id": "joma-pro-slam-2-0-gris-negro-2025",
@@ -9082,9 +8380,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Joma Pro Slam 2.0 Gris-Negro 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Joma/joma-pro-slam-2-0-gris-negro-2025.jpg",
-    "url": "https://padelzoom.es/joma-pro-slam-2-0-gris-negro-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/joma-pro-slam-2-0-gris-negro-2025.jpg"
   },
   {
     "id": "head-gravity-pro-2024",
@@ -9108,9 +8404,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Gravity Pro 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-gravity-pro-2024.jpg",
-    "url": "https://padelzoom.es/head-gravity-pro-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-gravity-pro-2024.jpg"
   },
   {
     "id": "black-crown-piton-attack-15k-power-2024",
@@ -9134,9 +8428,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Black Crown Piton Attack 15K Power 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Black-Crown/black-crown-piton-attack-15k-power-2024.jpg",
-    "url": "https://padelzoom.es/black-crown-piton-attack-15k-power-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/black-crown-piton-attack-15k-power-2024.jpg"
   },
   {
     "id": "adidas-adipower-ctrl-3-3-2024",
@@ -9160,9 +8452,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Adipower CTRL 3.3 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-adipower-ctrl-3-3-2024.jpg",
-    "url": "https://padelzoom.es/adidas-adipower-ctrl-3-3-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-adipower-ctrl-3-3-2024.jpg"
   },
   {
     "id": "adidas-adipower-light-3-3-2024",
@@ -9186,9 +8476,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Adipower Light 3.3 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-adipower-light-3-3-2024.jpg",
-    "url": "https://padelzoom.es/adidas-adipower-light-3-3-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-adipower-light-3-3-2024.jpg"
   },
   {
     "id": "adidas-metalbone-team-light-2026",
@@ -9212,9 +8500,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Metalbone Team Light 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-metalbone-team-light-2026.jpg",
-    "url": "https://padelzoom.es/adidas-metalbone-team-light-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-metalbone-team-light-2026.jpg"
   },
   {
     "id": "adidas-adipower-carbon-ctrl-3-4-2025",
@@ -9238,9 +8524,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Adipower Carbon CTRL 3.4 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-adipower-carbon-ctrl-3-4-2025.jpg",
-    "url": "https://padelzoom.es/adidas-adipower-carbon-ctrl-3-4-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-adipower-carbon-ctrl-3-4-2025.jpg"
   },
   {
     "id": "joma-pro-slam-2-0-negro-turquesa-2025",
@@ -9263,9 +8547,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Joma Pro Slam 2.0 Negro-Turquesa 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Joma/joma-pro-slam-2-0-negro-turquesa-2025.jpg",
-    "url": "https://padelzoom.es/joma-pro-slam-2-0-negro-turquesa-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/joma-pro-slam-2-0-negro-turquesa-2025.jpg"
   },
   {
     "id": "star-vie-kenta-2026-plus",
@@ -9289,9 +8571,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Star Vie Kenta 2026 Plus. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Star-Vie/star-vie-kenta-2026-plus.jpg",
-    "url": "https://padelzoom.es/star-vie-kenta-2026-plus/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/star-vie-kenta-2026-plus.jpg"
   },
   {
     "id": "adidas-adipower-carbon-light-3-4-2025",
@@ -9315,9 +8595,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Adipower Carbon Light 3.4 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-adipower-carbon-light-3-4-2025.jpg",
-    "url": "https://padelzoom.es/adidas-adipower-carbon-light-3-4-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-adipower-carbon-light-3-4-2025.jpg"
   },
   {
     "id": "star-vie-triton-pro-touch-2025",
@@ -9341,9 +8619,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Star Vie Triton Pro Touch 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Star-Vie/star-vie-triton-pro-touch-2025.jpg",
-    "url": "https://padelzoom.es/star-vie-triton-pro-touch-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/star-vie-triton-pro-touch-2025.jpg"
   },
   {
     "id": "star-vie-triton-pro-2025",
@@ -9367,9 +8643,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Star Vie Triton Pro 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Star-Vie/star-vie-triton-pro-2025.jpg",
-    "url": "https://padelzoom.es/star-vie-triton-pro-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/star-vie-triton-pro-2025.jpg"
   },
   {
     "id": "head-extreme-one-2024",
@@ -9393,9 +8667,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Extreme One 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-extreme-one-2024.jpg",
-    "url": "https://padelzoom.es/head-extreme-one-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-extreme-one-2024.jpg"
   },
   {
     "id": "babolat-air-veron-2026",
@@ -9419,9 +8691,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Babolat Air Veron 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Babolat/babolat-air-veron-2026.jpg",
-    "url": "https://padelzoom.es/babolat-air-veron-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/babolat-air-veron-2026.jpg"
   },
   {
     "id": "babolat-technical-veron-juan-lebron-2024",
@@ -9445,9 +8715,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Babolat Technical Veron Juan Lebron 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Babolat/babolat-technical-veron-juan-lebron-2024.jpg",
-    "url": "https://padelzoom.es/babolat-technical-veron-juan-lebron-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/babolat-technical-veron-juan-lebron-2024.jpg"
   },
   {
     "id": "babolat-technical-veron-juan-lebron-2025",
@@ -9471,9 +8739,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Babolat Technical Veron Juan Lebron 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Babolat/babolat-technical-veron-juan-lebron-2025.jpg",
-    "url": "https://padelzoom.es/babolat-technical-veron-juan-lebron-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/babolat-technical-veron-juan-lebron-2025.jpg"
   },
   {
     "id": "oxdog-pure-tour-2025",
@@ -9496,9 +8762,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Oxdog Pure Tour 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Oxdog/oxdog-pure-tour-2025.jpg",
-    "url": "https://padelzoom.es/oxdog-pure-tour-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/oxdog-pure-tour-2025.jpg"
   },
   {
     "id": "siux-diablo-elite-4-2025",
@@ -9522,9 +8786,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Diablo Elite 4 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-diablo-elite-4-2025.jpg",
-    "url": "https://padelzoom.es/siux-diablo-elite-4-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-diablo-elite-4-2025.jpg"
   },
   {
     "id": "siux-electra-elite-4-2025",
@@ -9548,9 +8810,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Electra Elite 4 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-electra-elite-4-2025.jpg",
-    "url": "https://padelzoom.es/siux-electra-elite-4-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-electra-elite-4-2025.jpg"
   },
   {
     "id": "enebe-response-3k-evo-2026",
@@ -9574,9 +8834,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Enebe Response 3K EVO 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Enebe/enebe-response-3k-evo-2026.jpg",
-    "url": "https://padelzoom.es/enebe-response-3k-evo-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/enebe-response-3k-evo-2026.jpg"
   },
   {
     "id": "siux-fenix-pro-5-2025",
@@ -9600,9 +8858,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Fenix Pro 5 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-fenix-pro-5-2025.jpg",
-    "url": "https://padelzoom.es/siux-fenix-pro-5-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-fenix-pro-5-2025.jpg"
   },
   {
     "id": "adidas-metalbone-carbon-3-4-2025",
@@ -9626,9 +8882,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Metalbone Carbon 3.4 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-metalbone-carbon-3-4-2025.jpg",
-    "url": "https://padelzoom.es/adidas-metalbone-carbon-3-4-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-metalbone-carbon-3-4-2025.jpg"
   },
   {
     "id": "adidas-metalbone-carbon-2023",
@@ -9652,9 +8906,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Metalbone Carbon 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-metalbone-carbon-2023.jpg",
-    "url": "https://padelzoom.es/adidas-metalbone-carbon-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-metalbone-carbon-2023.jpg"
   },
   {
     "id": "enebe-response-24k-violet-2026",
@@ -9678,9 +8930,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Enebe Response 24K Violet 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Enebe/enebe-response-24k-violet-2026.jpg",
-    "url": "https://padelzoom.es/enebe-response-24k-violet-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/enebe-response-24k-violet-2026.jpg"
   },
   {
     "id": "enebe-response-24k-silver-2026",
@@ -9704,9 +8954,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Enebe Response 24K Silver 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Enebe/enebe-response-24k-silver-2026.jpg",
-    "url": "https://padelzoom.es/enebe-response-24k-silver-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/enebe-response-24k-silver-2026.jpg"
   },
   {
     "id": "vibora-black-mamba-evo-pro-black-2026",
@@ -9730,9 +8978,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Vibora Black Mamba EVO Pro Black 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Vibora/vibora-black-mamba-evo-pro-black-2026.jpg",
-    "url": "https://padelzoom.es/vibora-black-mamba-evo-pro-black-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/vibora-black-mamba-evo-pro-black-2026.jpg"
   },
   {
     "id": "bullpadel-vertex-05-woman-cloud-2026",
@@ -9756,9 +9002,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Vertex 05 Woman Cloud 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-vertex-05-woman-cloud-2026.jpg",
-    "url": "https://padelzoom.es/bullpadel-vertex-05-woman-cloud-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-vertex-05-woman-cloud-2026.jpg"
   },
   {
     "id": "bullpadel-neuron-02-cloud-2026",
@@ -9782,9 +9026,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Neuron 02 Cloud 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-neuron-02-cloud-2026.jpg",
-    "url": "https://padelzoom.es/bullpadel-neuron-02-cloud-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-neuron-02-cloud-2026.jpg"
   },
   {
     "id": "bullpadel-hack-04-hybrid-cloud-2026",
@@ -9808,9 +9050,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Hack 04 Hybrid Cloud 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-hack-04-hybrid-cloud-2026.jpg",
-    "url": "https://padelzoom.es/bullpadel-hack-04-hybrid-cloud-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-hack-04-hybrid-cloud-2026.jpg"
   },
   {
     "id": "drop-shot-axion-comfort-1-0-2026",
@@ -9834,9 +9074,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Drop Shot Axion Comfort 1.0 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Drop-Shot/drop-shot-axion-comfort-1-0-2026.jpg",
-    "url": "https://padelzoom.es/drop-shot-axion-comfort-1-0-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/drop-shot-axion-comfort-1-0-2026.jpg"
   },
   {
     "id": "vibora-black-mamba-evo-pro-white-2026",
@@ -9860,9 +9098,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Vibora Black Mamba EVO Pro White 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Vibora/vibora-black-mamba-evo-pro-white-2026.jpg",
-    "url": "https://padelzoom.es/vibora-black-mamba-evo-pro-white-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/vibora-black-mamba-evo-pro-white-2026.jpg"
   },
   {
     "id": "lok-jungle-2026",
@@ -9886,9 +9122,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Lok Jungle 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Lok/lok-jungle-2026.jpg",
-    "url": "https://padelzoom.es/lok-jungle-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/lok-jungle-2026.jpg"
   },
   {
     "id": "drop-shot-canyon-pro-attack-soft-2026",
@@ -9912,9 +9146,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Drop Shot Canyon Pro Attack Soft 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Drop-Shot/drop-shot-canyon-pro-attack-soft-2026.jpg",
-    "url": "https://padelzoom.es/drop-shot-canyon-pro-attack-soft-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/drop-shot-canyon-pro-attack-soft-2026.jpg"
   },
   {
     "id": "drop-shot-explorer-pro-attack-soft-2026",
@@ -9938,9 +9170,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Drop Shot Explorer Pro Attack Soft 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Drop-Shot/drop-shot-explorer-pro-attack-soft-2026.jpg",
-    "url": "https://padelzoom.es/drop-shot-explorer-pro-attack-soft-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/drop-shot-explorer-pro-attack-soft-2026.jpg"
   },
   {
     "id": "drop-shot-furia-attack-2-0-2026",
@@ -9964,9 +9194,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Drop Shot Furia Attack 2.0 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Drop-Shot/drop-shot-furia-attack-2-0-2026.jpg",
-    "url": "https://padelzoom.es/drop-shot-furia-attack-2-0-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/drop-shot-furia-attack-2-0-2026.jpg"
   },
   {
     "id": "oxdog-hyper-pro-plus-2-0-2025",
@@ -9989,9 +9217,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Oxdog Hyper Pro Plus 2.0 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Oxdog/oxdog-hyper-pro-plus-2-0-2025.jpg",
-    "url": "https://padelzoom.es/oxdog-hyper-pro-plus-2-0-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/oxdog-hyper-pro-plus-2-0-2025.jpg"
   },
   {
     "id": "oxdog-hyper-pro-2-0-2024",
@@ -10014,9 +9240,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Oxdog Hyper Pro 2.0 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 84,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Oxdog/oxdog-hyper-pro-2-0-2024.jpg",
-    "url": "https://padelzoom.es/oxdog-hyper-pro-2-0-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/oxdog-hyper-pro-2-0-2024.jpg"
   },
   {
     "id": "joma-tournament-flex-negro-rojo-2025",
@@ -10039,9 +9263,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Joma Tournament Flex Negro-Rojo 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Joma/joma-tournament-flex-negro-rojo-2025.jpg",
-    "url": "https://padelzoom.es/joma-tournament-flex-negro-rojo-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/joma-tournament-flex-negro-rojo-2025.jpg"
   },
   {
     "id": "lok-carb-on-hype-2024",
@@ -10065,9 +9287,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Lok Carb-on Hype 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Lok/lok-carb-on-hype-2024.jpg",
-    "url": "https://padelzoom.es/lok-carb-on-hype-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/lok-carb-on-hype-2024.jpg"
   },
   {
     "id": "star-vie-titania-speed-2024",
@@ -10091,9 +9311,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Star Vie Titania Speed 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Star-Vie/star-vie-titania-speed-2024.jpg",
-    "url": "https://padelzoom.es/star-vie-titania-speed-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/star-vie-titania-speed-2024.jpg"
   },
   {
     "id": "star-vie-titania-pro-2024",
@@ -10117,9 +9335,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Star Vie Titania Pro 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Star-Vie/star-vie-titania-pro-2024.jpg",
-    "url": "https://padelzoom.es/star-vie-titania-pro-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/star-vie-titania-pro-2024.jpg"
   },
   {
     "id": "star-vie-titania-2024",
@@ -10143,9 +9359,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Star Vie Titania 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Star-Vie/star-vie-titania-2024.jpg",
-    "url": "https://padelzoom.es/star-vie-titania-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/star-vie-titania-2024.jpg"
   },
   {
     "id": "star-vie-aquila-2024",
@@ -10169,9 +9383,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Star Vie Aquila 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Star-Vie/star-vie-aquila-2024.jpg",
-    "url": "https://padelzoom.es/star-vie-aquila-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/star-vie-aquila-2024.jpg"
   },
   {
     "id": "star-vie-aquila-speed-2024",
@@ -10195,9 +9407,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Star Vie Aquila Speed 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Star-Vie/star-vie-aquila-speed-2024.jpg",
-    "url": "https://padelzoom.es/star-vie-aquila-speed-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/star-vie-aquila-speed-2024.jpg"
   },
   {
     "id": "black-crown-hurricane-2-0-2023",
@@ -10221,9 +9431,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Black Crown Hurricane 2.0 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Black-Crown/black-crown-hurricane-2-0-2023.jpg",
-    "url": "https://padelzoom.es/black-crown-hurricane-2-0-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/black-crown-hurricane-2-0-2023.jpg"
   },
   {
     "id": "dunlop-galactica-team-2023",
@@ -10247,9 +9455,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Dunlop Galactica Team 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Dunlop/dunlop-galactica-team-2023.jpg",
-    "url": "https://padelzoom.es/dunlop-galactica-team-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/dunlop-galactica-team-2023.jpg"
   },
   {
     "id": "head-radical-team-light-2026",
@@ -10273,9 +9479,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Radical Team Light 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-radical-team-light-2026.jpg",
-    "url": "https://padelzoom.es/head-radical-team-light-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-radical-team-light-2026.jpg"
   },
   {
     "id": "enebe-aerox-7-1-v2-2025",
@@ -10299,9 +9503,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Enebe Aerox 7.1 V2 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Enebe/enebe-aerox-7-1-v2-2025.jpg",
-    "url": "https://padelzoom.es/enebe-aerox-7-1-v2-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/enebe-aerox-7-1-v2-2025.jpg"
   },
   {
     "id": "varlion-maxima-summum-prisma-soft-2023",
@@ -10325,9 +9527,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Varlion Maxima Summum Prisma Soft 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Varlion/varlion-maxima-summum-prisma-soft-2023.jpg",
-    "url": "https://padelzoom.es/varlion-maxima-summum-prisma-soft-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/varlion-maxima-summum-prisma-soft-2023.jpg"
   },
   {
     "id": "black-crown-piton-12k-silver-2024",
@@ -10351,9 +9551,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Black Crown Piton 12K Silver 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Black-Crown/black-crown-piton-12k-silver-2024.jpg",
-    "url": "https://padelzoom.es/black-crown-piton-12k-silver-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/black-crown-piton-12k-silver-2024.jpg"
   },
   {
     "id": "varlion-bourne-summum-carbon-black-2023",
@@ -10376,10 +9574,7 @@ window.PRODUCTOS = [
     },
     "descripcion": "Conoce todo sobre Varlion Bourne Summum Carbon Black 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
-    "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Varlion/varlion-bourne-summum-carbon-black-2023.jpg",
-    "url": "https://padelzoom.es/varlion-bourne-summum-carbon-black-2023/",
-    "tienda": "Padelzoom"
+    "popularidad": 83
   },
   {
     "id": "puma-nova-elite-hybrid",
@@ -10402,9 +9597,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Puma Nova Elite Hybrid. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Puma/puma-nova-elite-hybrid.jpg",
-    "url": "https://padelzoom.es/puma-nova-elite-hybrid/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/puma-nova-elite-hybrid.jpg"
   },
   {
     "id": "star-vie-titania-lite-2025",
@@ -10428,9 +9621,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Star Vie Titania Lite 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Star-Vie/star-vie-titania-lite-2025.jpg",
-    "url": "https://padelzoom.es/star-vie-titania-lite-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/star-vie-titania-lite-2025.jpg"
   },
   {
     "id": "star-vie-titania-pro-2025",
@@ -10454,9 +9645,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Star Vie Titania Pro 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Star-Vie/star-vie-titania-pro-2025.jpg",
-    "url": "https://padelzoom.es/star-vie-titania-pro-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/star-vie-titania-pro-2025.jpg"
   },
   {
     "id": "puma-solar-attack-pwr-ii-2023",
@@ -10479,9 +9668,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Puma Solar Attack PWR II 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Puma/puma-solar-attack-pwr-ii-2023.jpg",
-    "url": "https://padelzoom.es/puma-solar-attack-pwr-ii-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/puma-solar-attack-pwr-ii-2023.jpg"
   },
   {
     "id": "bullpadel-ionic-light-2026",
@@ -10505,9 +9692,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Ionic Light 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-ionic-light-2026.jpg",
-    "url": "https://padelzoom.es/bullpadel-ionic-light-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-ionic-light-2026.jpg"
   },
   {
     "id": "dunlop-aero-star-2022",
@@ -10531,9 +9716,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Dunlop Aero Star 2022. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Dunlop/dunlop-aero-star-2022.jpg",
-    "url": "https://padelzoom.es/dunlop-aero-star-2022/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/dunlop-aero-star-2022.jpg"
   },
   {
     "id": "lok-maxx-hype-2024",
@@ -10557,9 +9740,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Lok Maxx Hype 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Lok/lok-maxx-hype-2024.jpg",
-    "url": "https://padelzoom.es/lok-maxx-hype-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/lok-maxx-hype-2024.jpg"
   },
   {
     "id": "star-vie-aquila-soft-2025",
@@ -10583,9 +9764,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Star Vie Aquila Soft 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Star-Vie/star-vie-aquila-soft-2025.jpg",
-    "url": "https://padelzoom.es/star-vie-aquila-soft-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/star-vie-aquila-soft-2025.jpg"
   },
   {
     "id": "head-gravity-motion-2024",
@@ -10609,9 +9788,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Gravity Motion 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-gravity-motion-2024.jpg",
-    "url": "https://padelzoom.es/head-gravity-motion-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-gravity-motion-2024.jpg"
   },
   {
     "id": "bullpadel-vertex-04-comfort-2024",
@@ -10635,9 +9812,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Vertex 04 Comfort 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-vertex-04-comfort-2024.jpg",
-    "url": "https://padelzoom.es/bullpadel-vertex-04-comfort-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-vertex-04-comfort-2024.jpg"
   },
   {
     "id": "black-crown-hurricane-3-0-2025",
@@ -10661,9 +9836,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Black Crown Hurricane 3.0 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Black-Crown/black-crown-hurricane-3-0-2025.jpg",
-    "url": "https://padelzoom.es/black-crown-hurricane-3-0-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/black-crown-hurricane-3-0-2025.jpg"
   },
   {
     "id": "enebe-spitfire-12k-2024",
@@ -10687,9 +9860,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Enebe Spitfire 12K 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Enebe/enebe-spitfire-12k-2024.jpg",
-    "url": "https://padelzoom.es/enebe-spitfire-12k-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/enebe-spitfire-12k-2024.jpg"
   },
   {
     "id": "black-crown-piton-air-12k-2024",
@@ -10713,9 +9884,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Black Crown Piton Air 12K 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Black-Crown/black-crown-piton-air-12k-2024.jpg",
-    "url": "https://padelzoom.es/black-crown-piton-air-12k-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/black-crown-piton-air-12k-2024.jpg"
   },
   {
     "id": "siux-valkiria-elite-2025",
@@ -10739,9 +9908,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Valkiria Elite 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-valkiria-elite-2025.jpg",
-    "url": "https://padelzoom.es/siux-valkiria-elite-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-valkiria-elite-2025.jpg"
   },
   {
     "id": "black-crown-special-soft-2023",
@@ -10765,9 +9932,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Black Crown Special Soft 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Black-Crown/black-crown-special-soft-2023.jpg",
-    "url": "https://padelzoom.es/black-crown-special-soft-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/black-crown-special-soft-2023.jpg"
   },
   {
     "id": "nox-future-hybrid-12k-alum-2025",
@@ -10791,9 +9956,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox Future Hybrid 12K Alum 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-future-hybrid-12k-alum-2025.jpg",
-    "url": "https://padelzoom.es/nox-future-hybrid-12k-alum-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-future-hybrid-12k-alum-2025.jpg"
   },
   {
     "id": "black-crown-piton-13-2025",
@@ -10817,9 +9980,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Black Crown Piton 13 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Black-Crown/black-crown-piton-13-2025.jpg",
-    "url": "https://padelzoom.es/black-crown-piton-13-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/black-crown-piton-13-2025.jpg"
   },
   {
     "id": "babolat-stima-energy-2023",
@@ -10843,9 +10004,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Babolat Stima Energy 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Babolat/babolat-stima-energy-2023.jpg",
-    "url": "https://padelzoom.es/babolat-stima-energy-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/babolat-stima-energy-2023.jpg"
   },
   {
     "id": "enebe-spitfire-2023",
@@ -10869,9 +10028,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Enebe Spitfire 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Enebe/enebe-spitfire-2023.jpg",
-    "url": "https://padelzoom.es/enebe-spitfire-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/enebe-spitfire-2023.jpg"
   },
   {
     "id": "bullpadel-ionic-control-2026",
@@ -10895,9 +10052,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Ionic Control 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-ionic-control-2026.jpg",
-    "url": "https://padelzoom.es/bullpadel-ionic-control-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-ionic-control-2026.jpg"
   },
   {
     "id": "drop-shot-conqueror-control-2025",
@@ -10921,9 +10076,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Drop Shot Conqueror Control 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Drop-Shot/drop-shot-conqueror-control-2025.jpg",
-    "url": "https://padelzoom.es/drop-shot-conqueror-control-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/drop-shot-conqueror-control-2025.jpg"
   },
   {
     "id": "siux-fenix-pro-4",
@@ -10947,9 +10100,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Fenix Pro 4. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-fenix-pro-4.jpg",
-    "url": "https://padelzoom.es/siux-fenix-pro-4/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-fenix-pro-4.jpg"
   },
   {
     "id": "bullpadel-flow-woman-2025-ale-salazar",
@@ -10973,9 +10124,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Flow Woman 2025 Ale Salazar. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-flow-woman-2025.jpg",
-    "url": "https://padelzoom.es/bullpadel-flow-woman-2025-ale-salazar/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-flow-woman-2025-ale-salazar.jpg"
   },
   {
     "id": "black-crown-piton-2022",
@@ -10999,9 +10148,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Black Crown Piton 2022. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Black-Crown/black-crown-piton-2021.jpg",
-    "url": "https://padelzoom.es/black-crown-piton-2022/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/black-crown-piton-2022.jpg"
   },
   {
     "id": "black-crown-piton-12-2024",
@@ -11025,9 +10172,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Black Crown Piton 12 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Black-Crown/black-crown-piton-12-2024.jpg",
-    "url": "https://padelzoom.es/black-crown-piton-12-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/black-crown-piton-12-2024.jpg"
   },
   {
     "id": "adidas-cross-it-carbon-ctrl-3-4-2025",
@@ -11051,9 +10196,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Cross It Carbon CTRL 3.4 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-cross-it-carbon-ctrl-3-4-2025.jpg",
-    "url": "https://padelzoom.es/adidas-cross-it-carbon-ctrl-3-4-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-cross-it-carbon-ctrl-3-4-2025.jpg"
   },
   {
     "id": "wilson-blade-v3",
@@ -11077,9 +10220,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Wilson Blade V3. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Wilson/wilson-blade-v3.jpg",
-    "url": "https://padelzoom.es/wilson-blade-v3/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/wilson-blade-v3.jpg"
   },
   {
     "id": "adidas-metalbone-team-2026",
@@ -11103,9 +10244,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Metalbone Team 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-metalbone-team-2026.jpg",
-    "url": "https://padelzoom.es/adidas-metalbone-team-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-metalbone-team-2026.jpg"
   },
   {
     "id": "star-vie-triton-soft-2025",
@@ -11129,9 +10268,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Star Vie Triton Soft 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Star-Vie/star-vie-triton-soft-2025.jpg",
-    "url": "https://padelzoom.es/star-vie-triton-soft-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/star-vie-triton-soft-2025.jpg"
   },
   {
     "id": "wilson-blade-ls-v3",
@@ -11155,9 +10292,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Wilson Blade LS V3. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Wilson/wilson-blade-ls-v3.jpg",
-    "url": "https://padelzoom.es/wilson-blade-ls-v3/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/wilson-blade-ls-v3.jpg"
   },
   {
     "id": "dunlop-aero-star-2023",
@@ -11180,9 +10315,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Dunlop Aero Star 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Dunlop/dunlop-aero-star-2023.jpg",
-    "url": "https://padelzoom.es/dunlop-aero-star-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/dunlop-aero-star-2023.jpg"
   },
   {
     "id": "varlion-bourne-prisma-carbon-3-2023",
@@ -11206,9 +10339,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Varlion Bourne Prisma Carbon 3 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Varlion/varlion-bourne-prisma-carbon-3-2023.jpg",
-    "url": "https://padelzoom.es/varlion-bourne-prisma-carbon-3-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/varlion-bourne-prisma-carbon-3-2023.jpg"
   },
   {
     "id": "drop-shot-quantum-2-0-2025",
@@ -11232,9 +10363,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Drop Shot Quantum 2.0 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Drop-Shot/drop-shot-quantum-2-0-2025.jpg",
-    "url": "https://padelzoom.es/drop-shot-quantum-2-0-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/drop-shot-quantum-2-0-2025.jpg"
   },
   {
     "id": "nox-la10-quantum-12k-2025-leo-augsburger",
@@ -11257,9 +10386,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox LA10 Quantum 12K 2025 Leo Augsburger. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-la10-quantum-12k-2025-leo-augsburger.jpg",
-    "url": "https://padelzoom.es/nox-la10-quantum-12k-2025-leo-augsburger/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-la10-quantum-12k-2025-leo-augsburger.jpg"
   },
   {
     "id": "bullpadel-vertex-04-woman-2025-delfi-brea",
@@ -11283,9 +10410,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Vertex 04 Woman 2025 Delfi Brea. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-vertex-04-woman-2025.jpg",
-    "url": "https://padelzoom.es/bullpadel-vertex-04-woman-2025-delfi-brea/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-vertex-04-woman-2025-delfi-brea.jpg"
   },
   {
     "id": "wilson-accent-lt",
@@ -11308,9 +10433,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Wilson Accent LT. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Wilson/wilson-accent-lt.jpg",
-    "url": "https://padelzoom.es/wilson-accent-lt/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/wilson-accent-lt.jpg"
   },
   {
     "id": "black-crown-special-magic-2025",
@@ -11334,9 +10457,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Black Crown Special Magic 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Black-Crown/black-crown-special-magic-2025.jpg",
-    "url": "https://padelzoom.es/black-crown-special-magic-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/black-crown-special-magic-2025.jpg"
   },
   {
     "id": "bullpadel-flow-woman-2024",
@@ -11360,9 +10481,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Flow Woman 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-flow-woman-2024.jpg",
-    "url": "https://padelzoom.es/bullpadel-flow-woman-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-flow-woman-2024.jpg"
   },
   {
     "id": "black-crown-special-16k-2023",
@@ -11386,9 +10505,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Black Crown Special 16K 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Black-Crown/black-crown-special-16k-2023.jpg",
-    "url": "https://padelzoom.es/black-crown-special-16k-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/black-crown-special-16k-2023.jpg"
   },
   {
     "id": "black-crown-piton-epic-2025",
@@ -11412,9 +10529,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Black Crown Piton Epic 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Black-Crown/black-crown-piton-epic-2025.jpg",
-    "url": "https://padelzoom.es/black-crown-piton-epic-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/black-crown-piton-epic-2025.jpg"
   },
   {
     "id": "bullpadel-hack-03-comfort-2024",
@@ -11438,9 +10553,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Hack 03 Comfort 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-hack-03-comfort-2024.jpg",
-    "url": "https://padelzoom.es/bullpadel-hack-03-comfort-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-hack-03-comfort-2024.jpg"
   },
   {
     "id": "oxdog-ultimate-tour-2025",
@@ -11463,9 +10576,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Oxdog Ultimate Tour 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Oxdog/oxdog-ultimate-tour-2025.jpg",
-    "url": "https://padelzoom.es/oxdog-ultimate-tour-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/oxdog-ultimate-tour-2025.jpg"
   },
   {
     "id": "adidas-arrow-hit-carbon-2026",
@@ -11489,9 +10600,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Arrow Hit Carbon 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-arrow-hit-carbon-2026.jpg",
-    "url": "https://padelzoom.es/adidas-arrow-hit-carbon-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-arrow-hit-carbon-2026.jpg"
   },
   {
     "id": "drop-shot-blitz-attack-2025",
@@ -11515,9 +10624,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Drop Shot Blitz Attack 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Drop-Shot/drop-shot-blitz-attack-2025.jpg",
-    "url": "https://padelzoom.es/drop-shot-blitz-attack-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/drop-shot-blitz-attack-2025.jpg"
   },
   {
     "id": "bullpadel-vertex-04-woman-2024",
@@ -11541,9 +10648,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Vertex 04 Woman 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.2,
     "popularidad": 83,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-vertex-04-woman-2024.jpg",
-    "url": "https://padelzoom.es/bullpadel-vertex-04-woman-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-vertex-04-woman-2024.jpg"
   },
   {
     "id": "black-crown-patron-kore-2026",
@@ -11567,9 +10672,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Black Crown Patron Kore 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Black-Crown/black-crown-patron-kore-2026.jpg",
-    "url": "https://padelzoom.es/black-crown-patron-kore-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/black-crown-patron-kore-2026.jpg"
   },
   {
     "id": "drop-shot-flame-soft-2026",
@@ -11593,9 +10696,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Drop Shot Flame Soft 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Drop-Shot/drop-shot-flame-soft-2026.jpg",
-    "url": "https://padelzoom.es/drop-shot-flame-soft-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/drop-shot-flame-soft-2026.jpg"
   },
   {
     "id": "joma-slam-flex-2-0-verde-blanco-2025",
@@ -11619,9 +10720,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Joma Slam Flex 2.0 Verde-Blanco 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Joma/joma-slam-flex-2-0-verde-blanco-2025.jpg",
-    "url": "https://padelzoom.es/joma-slam-flex-2-0-verde-blanco-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/joma-slam-flex-2-0-verde-blanco-2025.jpg"
   },
   {
     "id": "lok-easy-flow-2024",
@@ -11645,9 +10744,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Lok Easy Flow 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Lok/lok-easy-flow-2024.jpg",
-    "url": "https://padelzoom.es/lok-easy-flow-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/lok-easy-flow-2024.jpg"
   },
   {
     "id": "siux-trilogy-3-attack",
@@ -11670,9 +10767,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Trilogy 3 Attack. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-trilogy-3-attack.jpg",
-    "url": "https://padelzoom.es/siux-trilogy-3-attack/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-trilogy-3-attack.jpg"
   },
   {
     "id": "lok-easy-flow-2025",
@@ -11696,9 +10791,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Lok Easy Flow 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Lok/lok-easy-flow-2025.jpg",
-    "url": "https://padelzoom.es/lok-easy-flow-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/lok-easy-flow-2025.jpg"
   },
   {
     "id": "dunlop-inferno-carbon-elite-2023",
@@ -11722,9 +10815,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Dunlop Inferno Carbon Elite 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Dunlop/dunlop-inferno-carbon-elite-2023.jpg",
-    "url": "https://padelzoom.es/dunlop-inferno-carbon-elite-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/dunlop-inferno-carbon-elite-2023.jpg"
   },
   {
     "id": "dunlop-aero-star-lite-2022",
@@ -11748,9 +10839,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Dunlop Aero Star Lite 2022. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Dunlop/dunlop-aero-star-lite-2022.jpg",
-    "url": "https://padelzoom.es/dunlop-aero-star-lite-2022/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/dunlop-aero-star-lite-2022.jpg"
   },
   {
     "id": "kombat-sas-2024",
@@ -11774,9 +10863,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Kombat SAS 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Kombat/kombat-sas-2024.jpg",
-    "url": "https://padelzoom.es/kombat-sas-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/kombat-sas-2024.jpg"
   },
   {
     "id": "siux-diablo-go-3",
@@ -11800,9 +10887,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Diablo GO 3. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-diablo-go-3.jpg",
-    "url": "https://padelzoom.es/siux-diablo-go-3/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-diablo-go-3.jpg"
   },
   {
     "id": "adidas-metalbone-team-light-2024",
@@ -11826,9 +10911,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Metalbone Team Light 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-metalbone-team-light-2024.jpg",
-    "url": "https://padelzoom.es/adidas-metalbone-team-light-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-metalbone-team-light-2024.jpg"
   },
   {
     "id": "black-crown-piton-11-soft-2023",
@@ -11852,9 +10935,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Black Crown Piton 11 Soft 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Black-Crown/black-crown-piton-11-soft-2023.jpg",
-    "url": "https://padelzoom.es/black-crown-piton-11-soft-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/black-crown-piton-11-soft-2023.jpg"
   },
   {
     "id": "enebe-rsx-7-1-carbon-v2-2025",
@@ -11878,9 +10959,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Enebe RSX 7.1 Carbon V2 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Enebe/enebe-rsx-7-1-carbon-v2-2025.jpg",
-    "url": "https://padelzoom.es/enebe-rsx-7-1-carbon-v2-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/enebe-rsx-7-1-carbon-v2-2025.jpg"
   },
   {
     "id": "dunlop-aero-star-lite-2023",
@@ -11904,9 +10983,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Dunlop Aero Star Lite 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Dunlop/dunlop-aero-star-lite-2023.jpg",
-    "url": "https://padelzoom.es/dunlop-aero-star-lite-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/dunlop-aero-star-lite-2023.jpg"
   },
   {
     "id": "varlion-avant-carbon-black-2023",
@@ -11930,9 +11007,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Varlion Avant Carbon Black 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Varlion/varlion-avant-carbon-black-2023.jpg",
-    "url": "https://padelzoom.es/varlion-avant-carbon-black-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/varlion-avant-carbon-black-2023.jpg"
   },
   {
     "id": "head-speed-team-2025",
@@ -11956,9 +11031,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Speed Team 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-speed-team-2025.jpg",
-    "url": "https://padelzoom.es/head-speed-team-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-speed-team-2025.jpg"
   },
   {
     "id": "head-speed-elite-2023",
@@ -11982,9 +11055,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Speed Elite 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-speed-elite-2023.jpg",
-    "url": "https://padelzoom.es/head-speed-elite-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-speed-elite-2023.jpg"
   },
   {
     "id": "babolat-counter-vertuo-2025",
@@ -12008,9 +11079,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Babolat Counter Vertuo 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Babolat/babolat-counter-vertuo-2025.jpg",
-    "url": "https://padelzoom.es/babolat-counter-vertuo-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/babolat-counter-vertuo-2025.jpg"
   },
   {
     "id": "black-crown-piton-furia-2023",
@@ -12034,9 +11103,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Black Crown Piton Furia 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Black-Crown/black-crown-piton-furia-2023.jpg",
-    "url": "https://padelzoom.es/black-crown-piton-furia-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/black-crown-piton-furia-2023.jpg"
   },
   {
     "id": "wilson-carbon-force-lt",
@@ -12059,9 +11126,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Wilson Carbon Force LT. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Wilson/wilson-carbon-force-lt.jpg",
-    "url": "https://padelzoom.es/wilson-carbon-force-lt/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/wilson-carbon-force-lt.jpg"
   },
   {
     "id": "lok-easy-hype-gen-2-2026",
@@ -12085,9 +11150,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Lok Easy Hype Gen 2 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 80,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Lok/lok-easy-hype-gen-2-2026.jpg",
-    "url": "https://padelzoom.es/lok-easy-hype-gen-2-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/lok-easy-hype-gen-2-2026.jpg"
   },
   {
     "id": "babolat-counter-vertuo-2023",
@@ -12111,9 +11174,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Babolat Counter Vertuo 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Babolat/babolat-counter-vertuo-2023.jpg",
-    "url": "https://padelzoom.es/babolat-counter-vertuo-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/babolat-counter-vertuo-2023.jpg"
   },
   {
     "id": "babolat-air-veron-2024",
@@ -12137,9 +11198,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Babolat Air Veron 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Babolat/babolat-air-veron-2024.jpg",
-    "url": "https://padelzoom.es/babolat-air-veron-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/babolat-air-veron-2024.jpg"
   },
   {
     "id": "bullpadel-hack-03-comfort-2023",
@@ -12163,9 +11222,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Hack 03 Comfort 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-hack-03-comfort-2023.jpg",
-    "url": "https://padelzoom.es/bullpadel-hack-03-comfort-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-hack-03-comfort-2023.jpg"
   },
   {
     "id": "nox-at10-pro-cup-hard-2026",
@@ -12189,9 +11246,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox AT10 Pro Cup Hard 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 80,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-at10-pro-cup-hard-2026.jpg",
-    "url": "https://padelzoom.es/nox-at10-pro-cup-hard-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-at10-pro-cup-hard-2026.jpg"
   },
   {
     "id": "nox-at10-pro-cup-soft-2026",
@@ -12215,9 +11270,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox AT10 Pro Cup Soft 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 80,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-at10-pro-cup-soft-2026.jpg",
-    "url": "https://padelzoom.es/nox-at10-pro-cup-soft-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-at10-pro-cup-soft-2026.jpg"
   },
   {
     "id": "nox-future-attack-12k-alum-2025",
@@ -12241,9 +11294,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox Future Attack 12K Alum 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-future-attack-12k-alum-2025.jpg",
-    "url": "https://padelzoom.es/nox-future-attack-12k-alum-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-future-attack-12k-alum-2025.jpg"
   },
   {
     "id": "oxdog-pure-court-2026",
@@ -12266,9 +11317,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Oxdog Pure Court 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 80,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Oxdog/oxdog-pure-court-2026.jpg",
-    "url": "https://padelzoom.es/oxdog-pure-court-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/oxdog-pure-court-2026.jpg"
   },
   {
     "id": "babolat-air-veron-2025",
@@ -12292,9 +11341,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Babolat Air Veron 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Babolat/babolat-air-veron-2025.jpg",
-    "url": "https://padelzoom.es/babolat-air-veron-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/babolat-air-veron-2025.jpg"
   },
   {
     "id": "babolat-air-veron-2023",
@@ -12318,9 +11365,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Babolat Air Veron 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Babolat/babolat-air-veron-2023.jpg",
-    "url": "https://padelzoom.es/babolat-air-veron-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/babolat-air-veron-2023.jpg"
   },
   {
     "id": "varlion-lw-summum-carbon-black-2023",
@@ -12343,9 +11388,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Varlion LW Summum Carbon Black 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Varlion/varlion-lw-summum-carbon-black-2023.jpg",
-    "url": "https://padelzoom.es/varlion-lw-summum-carbon-black-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/varlion-lw-summum-carbon-black-2023.jpg"
   },
   {
     "id": "black-crown-gladius-force-2026",
@@ -12369,9 +11412,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Black Crown Gladius Force 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 80,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Black-Crown/black-crown-gladius-force-2026.jpg",
-    "url": "https://padelzoom.es/black-crown-gladius-force-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/black-crown-gladius-force-2026.jpg"
   },
   {
     "id": "black-crown-gladius-2026",
@@ -12395,9 +11436,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Black Crown Gladius 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 80,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Black-Crown/black-crown-gladius-2026.jpg",
-    "url": "https://padelzoom.es/black-crown-gladius-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/black-crown-gladius-2026.jpg"
   },
   {
     "id": "babolat-air-vertuo-2026",
@@ -12421,9 +11460,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Babolat Air Vertuo 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 80,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Babolat/babolat-air-vertuo-2026.jpg",
-    "url": "https://padelzoom.es/babolat-air-vertuo-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/babolat-air-vertuo-2026.jpg"
   },
   {
     "id": "siux-black-carbon-revolution-3k",
@@ -12446,9 +11483,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Black Carbon Revolution 3K. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-black-carbon-revolution-3k.jpg",
-    "url": "https://padelzoom.es/siux-black-carbon-revolution-3k/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-black-carbon-revolution-3k.jpg"
   },
   {
     "id": "varlion-canon-carbon-black-2023",
@@ -12471,9 +11506,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Varlion Cañon Carbon Black 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Varlion/varlion-cañon-carbon-black-2023.jpg",
-    "url": "https://padelzoom.es/varlion-canon-carbon-black-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/varlion-canon-carbon-black-2023.jpg"
   },
   {
     "id": "adidas-metalbone-team-light-3-4-2025",
@@ -12497,9 +11530,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Metalbone Team Light 3.4 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-metalbone-team-light-3-4-2025.jpg",
-    "url": "https://padelzoom.es/adidas-metalbone-team-light-3-4-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-metalbone-team-light-3-4-2025.jpg"
   },
   {
     "id": "drop-shot-explorer-soft-women-2026",
@@ -12523,9 +11554,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Drop Shot Explorer Soft Women 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 80,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Drop-Shot/drop-shot-explorer-soft-women-2026.jpg",
-    "url": "https://padelzoom.es/drop-shot-explorer-soft-women-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/drop-shot-explorer-soft-women-2026.jpg"
   },
   {
     "id": "black-crown-epic-energy-2025",
@@ -12549,9 +11578,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Black Crown Epic Energy 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Black-Crown/black-crown-epic-energy-2025.jpg",
-    "url": "https://padelzoom.es/black-crown-epic-energy-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/black-crown-epic-energy-2025.jpg"
   },
   {
     "id": "drop-shot-explorer-pro-comfort-2-0-2026-lucas-campagnolo",
@@ -12575,9 +11602,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Drop Shot Explorer Pro Comfort 2.0 2026 Lucas Campagnolo. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 80,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Drop-Shot/drop-shot-explorer-pro-comfort-2-0-2026-lucas-campagnolo.jpg",
-    "url": "https://padelzoom.es/drop-shot-explorer-pro-comfort-2-0-2026-lucas-campagnolo/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/drop-shot-explorer-pro-comfort-2-0-2026-lucas-campagnolo.jpg"
   },
   {
     "id": "nox-d13-12k-2025",
@@ -12600,9 +11625,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox D13 12K 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-d13-12k-2025.jpg",
-    "url": "https://padelzoom.es/nox-d13-12k-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-d13-12k-2025.jpg"
   },
   {
     "id": "oxdog-ultimate-match-2025",
@@ -12625,9 +11648,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Oxdog Ultimate Match 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Oxdog/oxdog-ultimate-match-2025.jpg",
-    "url": "https://padelzoom.es/oxdog-ultimate-match-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/oxdog-ultimate-match-2025.jpg"
   },
   {
     "id": "puma-nova-elite-victoria-2024",
@@ -12650,9 +11671,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Puma Nova Elite Victoria 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4.1,
     "popularidad": 82,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Puma/puma-nova-elite-victoria-2024.jpg",
-    "url": "https://padelzoom.es/puma-nova-elite-victoria-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/puma-nova-elite-victoria-2024.jpg"
   },
   {
     "id": "siux-gea-2-2026",
@@ -12675,9 +11694,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Gea 2 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 80,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-gea-2-2026.jpg",
-    "url": "https://padelzoom.es/siux-gea-2-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-gea-2-2026.jpg"
   },
   {
     "id": "kombat-ia-63-pampa",
@@ -12700,9 +11717,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Kombat IA-63 Pampa. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Kombat/kombat-ia-63-pampa.jpg",
-    "url": "https://padelzoom.es/kombat-ia-63-pampa/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/kombat-ia-63-pampa.jpg"
   },
   {
     "id": "puma-nova-pro-hybrid",
@@ -12725,9 +11740,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Puma Nova Pro Hybrid. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Puma/puma-nova-pro-hybrid.jpg",
-    "url": "https://padelzoom.es/puma-nova-pro-hybrid/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/puma-nova-pro-hybrid.jpg"
   },
   {
     "id": "varlion-lw-carbon-ti-magnolia-2023",
@@ -12751,9 +11764,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Varlion LW Carbon TI Magnolia 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Varlion/varlion-lw-carbon-ti-magnolia-2023.jpg",
-    "url": "https://padelzoom.es/varlion-lw-carbon-ti-magnolia-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/varlion-lw-carbon-ti-magnolia-2023.jpg"
   },
   {
     "id": "kombat-green-beret-2024",
@@ -12777,9 +11788,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Kombat Green Beret 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Kombat/kombat-green-beret-2024.jpg",
-    "url": "https://padelzoom.es/kombat-green-beret-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/kombat-green-beret-2024.jpg"
   },
   {
     "id": "adidas-adipower-team-light-3-3-2024",
@@ -12803,9 +11812,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Adipower Team Light 3.3 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-adipower-team-light-3-3-2024.jpg",
-    "url": "https://padelzoom.es/adidas-adipower-team-light-3-3-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-adipower-team-light-3-3-2024.jpg"
   },
   {
     "id": "bullpadel-ionic-control-2023",
@@ -12829,9 +11836,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Ionic Control 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-ionic-control-2023.jpg",
-    "url": "https://padelzoom.es/bullpadel-ionic-control-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-ionic-control-2023.jpg"
   },
   {
     "id": "siux-trilogy-go-4",
@@ -12855,9 +11860,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Trilogy GO 4. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-trilogy-4-go.jpg",
-    "url": "https://padelzoom.es/siux-trilogy-go-4/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-trilogy-go-4.jpg"
   },
   {
     "id": "bullpadel-ionic-light-2024",
@@ -12881,9 +11884,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Ionic Light 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-ionic-light-2024.jpg",
-    "url": "https://padelzoom.es/bullpadel-ionic-light-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-ionic-light-2024.jpg"
   },
   {
     "id": "varlion-lw-carbon-ti-2023",
@@ -12907,9 +11908,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Varlion LW Carbon TI 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Varlion/varlion-lw-carbon-ti-2023.jpg",
-    "url": "https://padelzoom.es/varlion-lw-carbon-ti-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/varlion-lw-carbon-ti-2023.jpg"
   },
   {
     "id": "nox-equation-soft-advanced-2026",
@@ -12933,9 +11932,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox Equation Soft Advanced 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 79,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-equation-soft-advanced-2026.jpg",
-    "url": "https://padelzoom.es/nox-equation-soft-advanced-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-equation-soft-advanced-2026.jpg"
   },
   {
     "id": "adidas-adipower-ctrl-team-3-3-2024",
@@ -12959,9 +11956,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Adipower CTRL Team 3.3 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-adipower-ctrl-team-3-3-2024.jpg",
-    "url": "https://padelzoom.es/adidas-adipower-ctrl-team-3-3-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-adipower-ctrl-team-3-3-2024.jpg"
   },
   {
     "id": "head-zephyr-pro-2022",
@@ -12985,9 +11980,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Zephyr Pro 2022. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-zephyr-pro-2022.jpg",
-    "url": "https://padelzoom.es/head-zephyr-pro-2022/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-zephyr-pro-2022.jpg"
   },
   {
     "id": "nox-nextgen-pro-attack-3k-2025",
@@ -13011,9 +12004,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox Nextgen Pro Attack 3K 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-nextgen-pro-attack-3k-2025.jpg",
-    "url": "https://padelzoom.es/nox-nextgen-pro-attack-3k-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-nextgen-pro-attack-3k-2025.jpg"
   },
   {
     "id": "kombat-troya-ajax",
@@ -13036,9 +12027,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Kombat Troya Ajax. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Kombat/kombat-troya-ajax.jpg",
-    "url": "https://padelzoom.es/kombat-troya-ajax/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/kombat-troya-ajax.jpg"
   },
   {
     "id": "kombat-delta-force-mkiii-2024",
@@ -13062,9 +12051,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Kombat Delta Force MKIII 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Kombat/kombat-delta-force-mkiii-2024.jpg",
-    "url": "https://padelzoom.es/kombat-delta-force-mkiii-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/kombat-delta-force-mkiii-2024.jpg"
   },
   {
     "id": "kombat-hunter-3k",
@@ -13087,9 +12074,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Kombat Hunter 3K. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Kombat/kombat-hunter-3k.jpg",
-    "url": "https://padelzoom.es/kombat-hunter-3k/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/kombat-hunter-3k.jpg"
   },
   {
     "id": "kombat-swat-2024",
@@ -13113,9 +12098,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Kombat SWAT 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Kombat/kombat-swat-2024.jpg",
-    "url": "https://padelzoom.es/kombat-swat-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/kombat-swat-2024.jpg"
   },
   {
     "id": "kombat-delta-force-18k",
@@ -13138,9 +12121,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Kombat Delta Force 18K. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Kombat/kombat-delta-force-18k.jpg",
-    "url": "https://padelzoom.es/kombat-delta-force-18k/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/kombat-delta-force-18k.jpg"
   },
   {
     "id": "kombat-obus-2024",
@@ -13164,9 +12145,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Kombat Obus 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Kombat/kombat-obus-2024.jpg",
-    "url": "https://padelzoom.es/kombat-obus-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/kombat-obus-2024.jpg"
   },
   {
     "id": "siux-electra-go-st3",
@@ -13190,9 +12169,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Electra GO ST3. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-electra-go-st3.jpg",
-    "url": "https://padelzoom.es/siux-electra-go-st3/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-electra-go-st3.jpg"
   },
   {
     "id": "bullpadel-elite-woman-light-2023",
@@ -13216,9 +12193,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Elite Woman Light 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-elite-woman-light-2023.jpg",
-    "url": "https://padelzoom.es/bullpadel-elite-woman-light-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-elite-woman-light-2023.jpg"
   },
   {
     "id": "head-gravity-team-2024",
@@ -13242,9 +12217,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Gravity Team 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-gravity-team-2024.jpg",
-    "url": "https://padelzoom.es/head-gravity-team-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-gravity-team-2024.jpg"
   },
   {
     "id": "babolat-technical-vertuo-2025",
@@ -13268,9 +12241,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Babolat Technical Vertuo 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Babolat/babolat-technical-vertuo-2025.jpg",
-    "url": "https://padelzoom.es/babolat-technical-vertuo-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/babolat-technical-vertuo-2025.jpg"
   },
   {
     "id": "bullpadel-ionic-control-2024",
@@ -13294,9 +12265,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Ionic Control 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-ionic-control-2024.jpg",
-    "url": "https://padelzoom.es/bullpadel-ionic-control-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-ionic-control-2024.jpg"
   },
   {
     "id": "adidas-metalbone-team-2024",
@@ -13319,9 +12288,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Metalbone Team 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-metalbone-team-2024.jpg",
-    "url": "https://padelzoom.es/adidas-metalbone-team-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-metalbone-team-2024.jpg"
   },
   {
     "id": "dunlop-inferno-carbon-extreme-2025",
@@ -13344,9 +12311,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Dunlop Inferno Carbon Extreme 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Dunlop/dunlop-inferno-carbon-extreme-2025.jpg",
-    "url": "https://padelzoom.es/dunlop-inferno-carbon-extreme-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/dunlop-inferno-carbon-extreme-2025.jpg"
   },
   {
     "id": "bullpadel-ionic-light-2025",
@@ -13370,9 +12335,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Ionic Light 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-ionic-light-2025.jpg",
-    "url": "https://padelzoom.es/bullpadel-ionic-light-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-ionic-light-2025.jpg"
   },
   {
     "id": "siux-spyder-lite-3",
@@ -13396,9 +12359,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Spyder Lite 3. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-spyder-lite-3.jpg",
-    "url": "https://padelzoom.es/siux-spyder-lite-3/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-spyder-lite-3.jpg"
   },
   {
     "id": "drop-shot-yukon-pro-1-0",
@@ -13422,9 +12383,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Drop Shot Yukon Pro 1.0. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Drop-Shot/drop-shot-yukon-pro-10.jpg",
-    "url": "https://padelzoom.es/drop-shot-yukon-pro-1-0/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/drop-shot-yukon-pro-1-0.jpg"
   },
   {
     "id": "vibora-black-mamba-elite-3k-2-0-2025",
@@ -13448,9 +12407,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Vibora Black Mamba Elite 3K 2.0 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Vibora/vibora-black-mamba-elite-3k-2-0-2025.jpg",
-    "url": "https://padelzoom.es/vibora-black-mamba-elite-3k-2-0-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/vibora-black-mamba-elite-3k-2-0-2025.jpg"
   },
   {
     "id": "kombat-swat-oneil-2024",
@@ -13473,9 +12430,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Kombat SWAT Oneil 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Kombat/kombat-swat-oneil-2024.jpg",
-    "url": "https://padelzoom.es/kombat-swat-oneil-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/kombat-swat-oneil-2024.jpg"
   },
   {
     "id": "kombat-obus-oneil-2024",
@@ -13498,9 +12453,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Kombat Obus Oneil 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Kombat/kombat-obus-oneil-2024.jpg",
-    "url": "https://padelzoom.es/kombat-obus-oneil-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/kombat-obus-oneil-2024.jpg"
   },
   {
     "id": "babolat-technical-vertuo-2023",
@@ -13524,9 +12477,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Babolat Technical Vertuo 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Babolat/babolat-technical-vertuo-2023.jpg",
-    "url": "https://padelzoom.es/babolat-technical-vertuo-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/babolat-technical-vertuo-2023.jpg"
   },
   {
     "id": "head-gravity-team-light-2024",
@@ -13550,9 +12501,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Gravity Team Light 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-gravity-team-light-2024.jpg",
-    "url": "https://padelzoom.es/head-gravity-team-light-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-gravity-team-light-2024.jpg"
   },
   {
     "id": "drop-shot-axion-comfort-2025",
@@ -13576,9 +12525,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Drop Shot Axion Comfort 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Drop-Shot/drop-shot-axion-comfort-2025.jpg",
-    "url": "https://padelzoom.es/drop-shot-axion-comfort-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/drop-shot-axion-comfort-2025.jpg"
   },
   {
     "id": "drop-shot-axion-control-1-0-2025",
@@ -13602,9 +12549,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Drop Shot Axion Control 1.0 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Drop-Shot/drop-shot-axion-control-1-0-2025.jpg",
-    "url": "https://padelzoom.es/drop-shot-axion-control-1-0-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/drop-shot-axion-control-1-0-2025.jpg"
   },
   {
     "id": "lok-jungle-lite-2026",
@@ -13628,9 +12573,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Lok Jungle Lite 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 79,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Lok/lok-jungle-lite-2026.jpg",
-    "url": "https://padelzoom.es/lok-jungle-lite-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/lok-jungle-lite-2026.jpg"
   },
   {
     "id": "babolat-technical-vertuo-juan-lebron-2025",
@@ -13654,9 +12597,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Babolat Technical Vertuo Juan Lebron 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Babolat/babolat-technical-vertuo-juan-lebron-2025.jpg",
-    "url": "https://padelzoom.es/babolat-technical-vertuo-juan-lebron-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/babolat-technical-vertuo-juan-lebron-2025.jpg"
   },
   {
     "id": "babolat-technical-vertuo-juan-lebron-2024",
@@ -13680,9 +12621,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Babolat Technical Vertuo Juan Lebron 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Babolat/babolat-technical-vertuo-juan-lebron-2024.jpg",
-    "url": "https://padelzoom.es/babolat-technical-vertuo-juan-lebron-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/babolat-technical-vertuo-juan-lebron-2024.jpg"
   },
   {
     "id": "dunlop-galactica-pro-ls-2025",
@@ -13705,9 +12644,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Dunlop Galactica Pro LS 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Dunlop/dunlop-galactica-pro-ls-2025.jpg",
-    "url": "https://padelzoom.es/dunlop-galactica-pro-ls-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/dunlop-galactica-pro-ls-2025.jpg"
   },
   {
     "id": "bullpadel-ionic-control-2025",
@@ -13730,9 +12667,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Ionic Control 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-ionic-control-2025.jpg",
-    "url": "https://padelzoom.es/bullpadel-ionic-control-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-ionic-control-2025.jpg"
   },
   {
     "id": "drop-shot-explorer-pro-control-1-0-2025",
@@ -13756,9 +12691,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Drop Shot Explorer Pro Control 1.0 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Drop-Shot/drop-shot-explorer-pro-control-1-0-2025.jpg",
-    "url": "https://padelzoom.es/drop-shot-explorer-pro-control-1-0-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/drop-shot-explorer-pro-control-1-0-2025.jpg"
   },
   {
     "id": "adidas-adipower-w-team-2023",
@@ -13782,9 +12715,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Adipower W Team 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-adipower-w-team-2023.jpg",
-    "url": "https://padelzoom.es/adidas-adipower-w-team-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-adipower-w-team-2023.jpg"
   },
   {
     "id": "dunlop-galactica-pro-2025",
@@ -13808,9 +12739,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Dunlop Galactica Pro 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Dunlop/dunlop-galactica-pro-2025.jpg",
-    "url": "https://padelzoom.es/dunlop-galactica-pro-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/dunlop-galactica-pro-2025.jpg"
   },
   {
     "id": "wilson-accent",
@@ -13833,9 +12762,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Wilson Accent. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Wilson/wilson-accent.jpg",
-    "url": "https://padelzoom.es/wilson-accent/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/wilson-accent.jpg"
   },
   {
     "id": "drop-shot-furia-control-1-0-2025",
@@ -13859,9 +12786,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Drop Shot Furia Control 1.0 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Drop-Shot/drop-shot-furia-control-1-0-2025.jpg",
-    "url": "https://padelzoom.es/drop-shot-furia-control-1-0-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/drop-shot-furia-control-1-0-2025.jpg"
   },
   {
     "id": "adidas-adipower-ctrl-team-2023",
@@ -13885,9 +12810,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Adipower CTRL Team 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-adipower-ctrl-team-2023.jpg",
-    "url": "https://padelzoom.es/adidas-adipower-ctrl-team-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-adipower-ctrl-team-2023.jpg"
   },
   {
     "id": "drop-shot-furia-attack-1-0-2025",
@@ -13910,9 +12833,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Drop Shot Furia Attack 1.0 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Drop-Shot/drop-shot-furia-attack-1-0-2025.jpg",
-    "url": "https://padelzoom.es/drop-shot-furia-attack-1-0-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/drop-shot-furia-attack-1-0-2025.jpg"
   },
   {
     "id": "babolat-dyna-energy-2023",
@@ -13935,9 +12856,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Babolat Dyna Energy 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Babolat/babolat-dyna-energy-2023.jpg",
-    "url": "https://padelzoom.es/babolat-dyna-energy-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/babolat-dyna-energy-2023.jpg"
   },
   {
     "id": "siux-fenix-elite-5-2025",
@@ -13961,9 +12880,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Fenix Elite 5 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-fenix-elite-5-2025.jpg",
-    "url": "https://padelzoom.es/siux-fenix-elite-5-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-fenix-elite-5-2025.jpg"
   },
   {
     "id": "adidas-metalbone-team-2023",
@@ -13987,9 +12904,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Metalbone Team 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-metalbone-team-2023.jpg",
-    "url": "https://padelzoom.es/adidas-metalbone-team-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-metalbone-team-2023.jpg"
   },
   {
     "id": "adidas-metalbone-team-3-4-2025",
@@ -14013,9 +12928,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Metalbone Team 3.4 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 81,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-metalbone-team-3-4-2025.jpg",
-    "url": "https://padelzoom.es/adidas-metalbone-team-3-4-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-metalbone-team-3-4-2025.jpg"
   },
   {
     "id": "joma-slam-soft-gris-negro-2025",
@@ -14038,9 +12951,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Joma Slam Soft Gris-Negro 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 80,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Joma/joma-slam-soft-gris-negro-2025.jpg",
-    "url": "https://padelzoom.es/joma-slam-soft-gris-negro-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/joma-slam-soft-gris-negro-2025.jpg"
   },
   {
     "id": "kombat-geo",
@@ -14064,9 +12975,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Kombat GEO. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 80,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Kombat/kombat-geo.jpg",
-    "url": "https://padelzoom.es/kombat-geo/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/kombat-geo.jpg"
   },
   {
     "id": "lok-easy-hype-2024",
@@ -14090,9 +12999,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Lok Easy Hype 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 80,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Lok/lok-easy-hype-2024.jpg",
-    "url": "https://padelzoom.es/lok-easy-hype-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/lok-easy-hype-2024.jpg"
   },
   {
     "id": "head-zephyr-2022",
@@ -14116,9 +13023,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Zephyr 2022. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 80,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-zephyr-2022.jpg",
-    "url": "https://padelzoom.es/head-zephyr-2022/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-zephyr-2022.jpg"
   },
   {
     "id": "lok-easy-hype-2025",
@@ -14142,9 +13047,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Lok Easy Hype 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 80,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Lok/lok-easy-hype-2025.jpg",
-    "url": "https://padelzoom.es/lok-easy-hype-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/lok-easy-hype-2025.jpg"
   },
   {
     "id": "kombat-magnum",
@@ -14167,9 +13070,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Kombat Magnum. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 80,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Kombat/kombat-magnum.jpg",
-    "url": "https://padelzoom.es/kombat-magnum/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/kombat-magnum.jpg"
   },
   {
     "id": "head-gravity-elite-2022",
@@ -14193,9 +13094,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Gravity Elite 2022. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 80,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-gravity-elite-2022.jpg",
-    "url": "https://padelzoom.es/head-gravity-elite-2022/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-gravity-elite-2022.jpg"
   },
   {
     "id": "nox-equation-hard-advanced-2026",
@@ -14219,9 +13118,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox Equation Hard Advanced 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.9,
     "popularidad": 78,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-equation-hard-advanced-2026.jpg",
-    "url": "https://padelzoom.es/nox-equation-hard-advanced-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-equation-hard-advanced-2026.jpg"
   },
   {
     "id": "head-zephyr-2023",
@@ -14245,9 +13142,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Zephyr 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 80,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-zephyr-2023.jpg",
-    "url": "https://padelzoom.es/head-zephyr-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-zephyr-2023.jpg"
   },
   {
     "id": "nox-nextgen-pro-hybrid-3k-2025",
@@ -14271,9 +13166,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox Nextgen Pro Hybrid 3K 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 80,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-nextgen-pro-hybrid-3k-2025.jpg",
-    "url": "https://padelzoom.es/nox-nextgen-pro-hybrid-3k-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-nextgen-pro-hybrid-3k-2025.jpg"
   },
   {
     "id": "bullpadel-hack-advance-2026",
@@ -14297,9 +13190,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Hack Advance 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.9,
     "popularidad": 78,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-hack-advance-2026.jpg",
-    "url": "https://padelzoom.es/bullpadel-hack-advance-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-hack-advance-2026.jpg"
   },
   {
     "id": "kombat-black-18k",
@@ -14322,9 +13213,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Kombat Black 18K. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 80,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Kombat/kombat-black-18k.jpg",
-    "url": "https://padelzoom.es/kombat-black-18k/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/kombat-black-18k.jpg"
   },
   {
     "id": "kombat-troya-ulises",
@@ -14347,9 +13236,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Kombat Troya Ulises. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 80,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Kombat/kombat-troya-ulises.jpg",
-    "url": "https://padelzoom.es/kombat-troya-ulises/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/kombat-troya-ulises.jpg"
   },
   {
     "id": "kombat-sas-control-ii",
@@ -14372,9 +13259,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Kombat SAS Control II. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 80,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Kombat/kombat-sas-control-ii.jpg",
-    "url": "https://padelzoom.es/kombat-sas-control-ii/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/kombat-sas-control-ii.jpg"
   },
   {
     "id": "siux-fenix-go-4",
@@ -14398,9 +13283,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Fenix Go 4. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 80,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-fenix-go-4.jpg",
-    "url": "https://padelzoom.es/siux-fenix-go-4/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-fenix-go-4.jpg"
   },
   {
     "id": "wilson-carbon-force",
@@ -14423,9 +13306,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Wilson Carbon Force. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 80,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Wilson/wilson-carbon-force.jpg",
-    "url": "https://padelzoom.es/wilson-carbon-force/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/wilson-carbon-force.jpg"
   },
   {
     "id": "nox-at10-pro-cup-hard-2025",
@@ -14449,9 +13330,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox AT10 Pro Cup Hard 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 80,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-at10-pro-cup-hard-2025.jpg",
-    "url": "https://padelzoom.es/nox-at10-pro-cup-hard-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-at10-pro-cup-hard-2025.jpg"
   },
   {
     "id": "babolat-stima-spirit-2023",
@@ -14475,9 +13354,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Babolat Stima Spirit 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 80,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Babolat/babolat-stima-spirit-2023.jpg",
-    "url": "https://padelzoom.es/babolat-stima-spirit-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/babolat-stima-spirit-2023.jpg"
   },
   {
     "id": "kombat-swat-limited-edition",
@@ -14500,9 +13377,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Kombat SWAT Limited Edition. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 80,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Kombat/kombat-swat-limited-edition.jpg",
-    "url": "https://padelzoom.es/kombat-swat-limited-edition/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/kombat-swat-limited-edition.jpg"
   },
   {
     "id": "kombat-black-limited-edition",
@@ -14525,9 +13400,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Kombat Black Limited Edition. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 80,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Kombat/kombat-black-limited-edition.jpg",
-    "url": "https://padelzoom.es/kombat-black-limited-edition/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/kombat-black-limited-edition.jpg"
   },
   {
     "id": "kombat-hunter-mkiii-2024",
@@ -14550,9 +13423,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Kombat Hunter MKIII 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 80,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Kombat/kombat-hunter-mkiii-2024.jpg",
-    "url": "https://padelzoom.es/kombat-hunter-mkiii-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/kombat-hunter-mkiii-2024.jpg"
   },
   {
     "id": "babolat-dyna-spirit-2023",
@@ -14576,9 +13447,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Babolat Dyna Spirit 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 80,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Babolat/babolat-dyna-spirit-2023.jpg",
-    "url": "https://padelzoom.es/babolat-dyna-spirit-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/babolat-dyna-spirit-2023.jpg"
   },
   {
     "id": "adidas-metalbone-superlight-2026",
@@ -14602,9 +13471,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Metalbone Superlight 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.9,
     "popularidad": 78,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-metalbone-superlight-2026.jpg",
-    "url": "https://padelzoom.es/adidas-metalbone-superlight-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-metalbone-superlight-2026.jpg"
   },
   {
     "id": "nox-at10-pro-cup-comfort-2025",
@@ -14628,9 +13495,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox AT10 Pro Cup Comfort 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 80,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-at10-pro-cup-comfort-2025.jpg",
-    "url": "https://padelzoom.es/nox-at10-pro-cup-comfort-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-at10-pro-cup-comfort-2025.jpg"
   },
   {
     "id": "drop-shot-x-drive-2-0-2025",
@@ -14654,9 +13519,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Drop Shot X-Drive 2.0 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 80,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Drop-Shot/drop-shot-x-drive-2-0-2025.jpg",
-    "url": "https://padelzoom.es/drop-shot-x-drive-2-0-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/drop-shot-x-drive-2-0-2025.jpg"
   },
   {
     "id": "dunlop-galactica-pro-lite-2025",
@@ -14680,9 +13543,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Dunlop Galactica Pro Lite 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 80,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Dunlop/dunlop-galactica-pro-lite-2025.jpg",
-    "url": "https://padelzoom.es/dunlop-galactica-pro-lite-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/dunlop-galactica-pro-lite-2025.jpg"
   },
   {
     "id": "bullpadel-ionic-power-2026",
@@ -14706,9 +13567,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Ionic Power 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.9,
     "popularidad": 78,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-ionic-power-2026.jpg",
-    "url": "https://padelzoom.es/bullpadel-ionic-power-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-ionic-power-2026.jpg"
   },
   {
     "id": "adidas-adipower-team-2023",
@@ -14732,9 +13591,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Adipower Team 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 80,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-adipower-team-2023.jpg",
-    "url": "https://padelzoom.es/adidas-adipower-team-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-adipower-team-2023.jpg"
   },
   {
     "id": "black-crown-special-invictus-2025",
@@ -14758,9 +13615,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Black Crown Special Invictus 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 80,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Black-Crown/black-crown-special-invictus-2025.jpg",
-    "url": "https://padelzoom.es/black-crown-special-invictus-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/black-crown-special-invictus-2025.jpg"
   },
   {
     "id": "puma-nova-elite-ctr-2024",
@@ -14783,9 +13638,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Puma Nova Elite CTR 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 80,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Puma/puma-nova-elite-ctr-2024.jpg",
-    "url": "https://padelzoom.es/puma-nova-elite-ctr-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/puma-nova-elite-ctr-2024.jpg"
   },
   {
     "id": "royal-padel-r-control-2026",
@@ -14809,9 +13662,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Royal Padel R Control 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.9,
     "popularidad": 78,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Royal-Padel/royal-padel-r-control-2026.jpg",
-    "url": "https://padelzoom.es/royal-padel-r-control-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/royal-padel-r-control-2026.jpg"
   },
   {
     "id": "joma-tournament-soft-rojo-blanco-2025",
@@ -14834,9 +13685,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Joma Tournament Soft Rojo-Blanco 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 79,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Joma/joma-tournament-soft-rojo-blanco-2025.jpg",
-    "url": "https://padelzoom.es/joma-tournament-soft-rojo-blanco-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/joma-tournament-soft-rojo-blanco-2025.jpg"
   },
   {
     "id": "siux-diablo-go-4-2025",
@@ -14860,9 +13709,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Diablo Go 4 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 79,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-diablo-go-4-2025.jpg",
-    "url": "https://padelzoom.es/siux-diablo-go-4-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-diablo-go-4-2025.jpg"
   },
   {
     "id": "kombat-navy-seal-18k",
@@ -14885,9 +13732,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Kombat Navy Seal 18K. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 79,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Kombat/kombat-navy-seal-18k.jpg",
-    "url": "https://padelzoom.es/kombat-navy-seal-18k/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/kombat-navy-seal-18k.jpg"
   },
   {
     "id": "kombat-apache-ice-18k",
@@ -14910,9 +13755,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Kombat Apache Ice 18K. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 79,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Kombat/kombat-apache-ice-18k.jpg",
-    "url": "https://padelzoom.es/kombat-apache-ice-18k/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/kombat-apache-ice-18k.jpg"
   },
   {
     "id": "kombat-troya-aquiles",
@@ -14935,9 +13778,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Kombat Troya Aquiles. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 79,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Kombat/kombat-troya-aquiles.jpg",
-    "url": "https://padelzoom.es/kombat-troya-aquiles/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/kombat-troya-aquiles.jpg"
   },
   {
     "id": "kombat-swat-blue-carbon-18k",
@@ -14960,9 +13801,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Kombat SWAT Blue Carbon 18K. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 79,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Kombat/kombat-swat-blue-carbon-18k.jpg",
-    "url": "https://padelzoom.es/kombat-swat-blue-carbon-18k/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/kombat-swat-blue-carbon-18k.jpg"
   },
   {
     "id": "nox-equation-light-woman-2025",
@@ -14985,9 +13824,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox Equation Light Woman 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 79,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-equation-light-woman-2025.jpg",
-    "url": "https://padelzoom.es/nox-equation-light-woman-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-equation-light-woman-2025.jpg"
   },
   {
     "id": "kuikma-pr990-hybrid-hard",
@@ -15010,9 +13847,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Kuikma PR990 Hybrid Hard. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 79,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Kuikma/kuikma-pr990-hybrid-hard.jpg",
-    "url": "https://padelzoom.es/kuikma-pr990-hybrid-hard/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/kuikma-pr990-hybrid-hard.jpg"
   },
   {
     "id": "drop-shot-axion-attack-2024",
@@ -15036,9 +13871,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Drop Shot Axion Attack 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 79,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Drop-Shot/drop-shot-axion-attack-2024.jpg",
-    "url": "https://padelzoom.es/drop-shot-axion-attack-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/drop-shot-axion-attack-2024.jpg"
   },
   {
     "id": "vibora-black-mamba-xtreme-3k-2025",
@@ -15062,9 +13895,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Vibora Black Mamba Xtreme 3K 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 79,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Vibora/vibora-black-mamba-xtreme-3k-2025.jpg",
-    "url": "https://padelzoom.es/vibora-black-mamba-xtreme-3k-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/vibora-black-mamba-xtreme-3k-2025.jpg"
   },
   {
     "id": "vibora-yarara-xtreme-3k-2-0-2025",
@@ -15088,9 +13919,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Vibora Yarara Xtreme 3K 2.0 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 79,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Vibora/vibora-yarara-xtreme-3k-2-0-2025.jpg",
-    "url": "https://padelzoom.es/vibora-yarara-xtreme-3k-2-0-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/vibora-yarara-xtreme-3k-2-0-2025.jpg"
   },
   {
     "id": "drop-shot-canyon-pro-comfort-1-0-2025",
@@ -15114,9 +13943,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Drop Shot Canyon Pro Comfort 1.0 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 79,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Drop-Shot/drop-shot-canyon-pro-comfort-1-0-2025.jpg",
-    "url": "https://padelzoom.es/drop-shot-canyon-pro-comfort-1-0-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/drop-shot-canyon-pro-comfort-1-0-2025.jpg"
   },
   {
     "id": "babolat-air-vertuo-2025",
@@ -15140,9 +13967,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Babolat Air Vertuo 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 79,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Babolat/babolat-air-vertuo-2025.jpg",
-    "url": "https://padelzoom.es/babolat-air-vertuo-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/babolat-air-vertuo-2025.jpg"
   },
   {
     "id": "babolat-air-vertuo-2023",
@@ -15166,9 +13991,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Babolat Air Vertuo 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 79,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Babolat/babolat-air-vertuo-2023.jpg",
-    "url": "https://padelzoom.es/babolat-air-vertuo-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/babolat-air-vertuo-2023.jpg"
   },
   {
     "id": "black-crown-patron-xtrem-2025",
@@ -15192,9 +14015,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Black Crown Patron Xtrem 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 79,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Black-Crown/black-crown-patron-xtrem-2025.jpg",
-    "url": "https://padelzoom.es/black-crown-patron-xtrem-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/black-crown-patron-xtrem-2025.jpg"
   },
   {
     "id": "black-crown-patron-gold-2025",
@@ -15218,9 +14039,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Black Crown Patron Gold 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 79,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Black-Crown/black-crown-patron-gold-2025.jpg",
-    "url": "https://padelzoom.es/black-crown-patron-gold-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/black-crown-patron-gold-2025.jpg"
   },
   {
     "id": "adidas-cross-it-team-light-2026",
@@ -15244,9 +14063,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Cross IT Team Light 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.9,
     "popularidad": 77,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-cross-it-team-light-2026.jpg",
-    "url": "https://padelzoom.es/adidas-cross-it-team-light-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-cross-it-team-light-2026.jpg"
   },
   {
     "id": "kombat-etna-2025",
@@ -15269,9 +14086,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Kombat Etna 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 79,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Kombat/kombat-etna-2025.jpg",
-    "url": "https://padelzoom.es/kombat-etna-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/kombat-etna-2025.jpg"
   },
   {
     "id": "kombat-galeras-2025",
@@ -15294,9 +14109,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Kombat Galeras 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 4,
     "popularidad": 79,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Kombat/kombat-galeras-2025.jpg",
-    "url": "https://padelzoom.es/kombat-galeras-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/kombat-galeras-2025.jpg"
   },
   {
     "id": "drop-shot-explorer-9-0-2026",
@@ -15320,9 +14133,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Drop Shot Explorer 9.0 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.9,
     "popularidad": 77,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Drop-Shot/drop-shot-explorer-9-0-2026.jpg",
-    "url": "https://padelzoom.es/drop-shot-explorer-9-0-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/drop-shot-explorer-9-0-2026.jpg"
   },
   {
     "id": "head-zephyr-ultra-light-2022",
@@ -15346,9 +14157,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Zephyr Ultra Light 2022. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.9,
     "popularidad": 78,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-zephyr-ultra-light-2022.jpg",
-    "url": "https://padelzoom.es/head-zephyr-ultra-light-2022/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-zephyr-ultra-light-2022.jpg"
   },
   {
     "id": "siux-electra-go-2025",
@@ -15372,9 +14181,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Electra Go 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.9,
     "popularidad": 78,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-electra-go-2025.jpg",
-    "url": "https://padelzoom.es/siux-electra-go-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-electra-go-2025.jpg"
   },
   {
     "id": "siux-valkiria-go-2025",
@@ -15397,9 +14204,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Valkiria Go 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.9,
     "popularidad": 78,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-valkiria-go-2025.jpg",
-    "url": "https://padelzoom.es/siux-valkiria-go-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-valkiria-go-2025.jpg"
   },
   {
     "id": "nox-equation-advanced-2024",
@@ -15423,9 +14228,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox Equation Advanced 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.9,
     "popularidad": 78,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-equation-advanced-2024.jpg",
-    "url": "https://padelzoom.es/nox-equation-advanced-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-equation-advanced-2024.jpg"
   },
   {
     "id": "varlion-bourne-carbon-ti-2023",
@@ -15448,9 +14251,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Varlion Bourne Carbon TI 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.9,
     "popularidad": 78,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Varlion/varlion-bourne-carbon-ti-2023.jpg",
-    "url": "https://padelzoom.es/varlion-bourne-carbon-ti-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/varlion-bourne-carbon-ti-2023.jpg"
   },
   {
     "id": "nox-equation-advanced-2025",
@@ -15474,9 +14275,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox Equation Advanced 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.9,
     "popularidad": 78,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-equation-advanced-2025.jpg",
-    "url": "https://padelzoom.es/nox-equation-advanced-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-equation-advanced-2025.jpg"
   },
   {
     "id": "kombat-sas-attack-ii",
@@ -15499,9 +14298,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Kombat SAS Attack II. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.9,
     "popularidad": 78,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Kombat/kombat-sas-attack-ii.jpg",
-    "url": "https://padelzoom.es/kombat-sas-attack-ii/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/kombat-sas-attack-ii.jpg"
   },
   {
     "id": "head-zephyr-ultra-light-2023",
@@ -15525,9 +14322,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Zephyr Ultra Light 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.9,
     "popularidad": 78,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-zephyr-ultra-light-2023.jpg",
-    "url": "https://padelzoom.es/head-zephyr-ultra-light-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-zephyr-ultra-light-2023.jpg"
   },
   {
     "id": "kuikma-pr990-hybrid-soft",
@@ -15550,9 +14345,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Kuikma PR990 Hybrid Soft. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.9,
     "popularidad": 78,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Kuikma/kuikma-pr990-hybrid-soft.jpg",
-    "url": "https://padelzoom.es/kuikma-pr990-hybrid-soft/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/kuikma-pr990-hybrid-soft.jpg"
   },
   {
     "id": "bullpadel-axym-db-2023",
@@ -15576,9 +14369,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Axym DB 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.9,
     "popularidad": 78,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-axym-db-2023.jpg",
-    "url": "https://padelzoom.es/bullpadel-axym-db-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-axym-db-2023.jpg"
   },
   {
     "id": "bullpadel-vertex-advance-2026",
@@ -15602,9 +14393,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Vertex Advance 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.8,
     "popularidad": 76,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-vertex-advance-2026.jpg",
-    "url": "https://padelzoom.es/bullpadel-vertex-advance-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-vertex-advance-2026.jpg"
   },
   {
     "id": "bullpadel-ionic-power-2025",
@@ -15628,9 +14417,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Ionic Power 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.9,
     "popularidad": 78,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-ionic-power-2025.jpg",
-    "url": "https://padelzoom.es/bullpadel-ionic-power-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-ionic-power-2025.jpg"
   },
   {
     "id": "puma-solar-attack-2023",
@@ -15653,9 +14440,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Puma Solar Attack 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.9,
     "popularidad": 78,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Puma/puma-solar-attack-2023.jpg",
-    "url": "https://padelzoom.es/puma-solar-attack-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/puma-solar-attack-2023.jpg"
   },
   {
     "id": "oxdog-pure-court-light-2025",
@@ -15678,9 +14463,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Oxdog Pure Court Light 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.9,
     "popularidad": 78,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Oxdog/oxdog-pure-court-light-2025.jpg",
-    "url": "https://padelzoom.es/oxdog-pure-court-light-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/oxdog-pure-court-light-2025.jpg"
   },
   {
     "id": "adidas-cross-it-team-ctrl-2026",
@@ -15704,9 +14487,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Cross IT Team CTRL 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.8,
     "popularidad": 76,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-cross-it-team-ctrl-2026.jpg",
-    "url": "https://padelzoom.es/adidas-cross-it-team-ctrl-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-cross-it-team-ctrl-2026.jpg"
   },
   {
     "id": "kombat-teide-2025",
@@ -15729,9 +14510,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Kombat Teide 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.9,
     "popularidad": 78,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Kombat/kombat-teide-2025.jpg",
-    "url": "https://padelzoom.es/kombat-teide-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/kombat-teide-2025.jpg"
   },
   {
     "id": "kombat-osorno-2025",
@@ -15754,9 +14533,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Kombat Osorno 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.9,
     "popularidad": 78,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Kombat/kombat-osorno-2025.jpg",
-    "url": "https://padelzoom.es/kombat-osorno-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/kombat-osorno-2025.jpg"
   },
   {
     "id": "kombat-arenal-2025",
@@ -15779,9 +14556,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Kombat Arenal 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.9,
     "popularidad": 78,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Kombat/kombat-arenal-2025.jpg",
-    "url": "https://padelzoom.es/kombat-arenal-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/kombat-arenal-2025.jpg"
   },
   {
     "id": "puma-solar-attack-2023-victoria-iglesias",
@@ -15804,9 +14579,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Puma Solar Attack 2023 Victoria Iglesias. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.9,
     "popularidad": 78,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Puma/puma-solar-attack-2023-victoria-iglesias.jpg",
-    "url": "https://padelzoom.es/puma-solar-attack-2023-victoria-iglesias/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/puma-solar-attack-2023-victoria-iglesias.jpg"
   },
   {
     "id": "enebe-space-2-0-2026",
@@ -15830,9 +14603,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Enebe Space 2.0 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.8,
     "popularidad": 76,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Enebe/enebe-space-2-0-2026.jpg",
-    "url": "https://padelzoom.es/enebe-space-2-0-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/enebe-space-2-0-2026.jpg"
   },
   {
     "id": "bullpadel-hack-02-prf-2024",
@@ -15856,9 +14627,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Hack 02 PRF 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.9,
     "popularidad": 77,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-hack-02-prf-2024.jpg",
-    "url": "https://padelzoom.es/bullpadel-hack-02-prf-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-hack-02-prf-2024.jpg"
   },
   {
     "id": "dunlop-blitz-attack-2023",
@@ -15882,9 +14651,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Dunlop Blitz Attack 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.9,
     "popularidad": 77,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Dunlop/dunlop-blitz-attack-2023.jpg",
-    "url": "https://padelzoom.es/dunlop-blitz-attack-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/dunlop-blitz-attack-2023.jpg"
   },
   {
     "id": "star-vie-helion-2024",
@@ -15908,9 +14675,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Star Vie Helion 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.9,
     "popularidad": 77,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Star-Vie/star-vie-helion-2024.jpg",
-    "url": "https://padelzoom.es/star-vie-helion-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/star-vie-helion-2024.jpg"
   },
   {
     "id": "vibora-king-cobra-xtreme-3k-2025",
@@ -15934,9 +14699,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Vibora King Cobra Xtreme 3K 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.9,
     "popularidad": 77,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Vibora/vibora-king-cobra-xtreme-3k-2025.jpg",
-    "url": "https://padelzoom.es/vibora-king-cobra-xtreme-3k-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/vibora-king-cobra-xtreme-3k-2025.jpg"
   },
   {
     "id": "drop-shot-explorer-pro-comfort-1-0-2025",
@@ -15960,9 +14723,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Drop Shot Explorer Pro Comfort 1.0 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.9,
     "popularidad": 77,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Drop-Shot/drop-shot-explorer-pro-comfort-1-0-2025.jpg",
-    "url": "https://padelzoom.es/drop-shot-explorer-pro-comfort-1-0-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/drop-shot-explorer-pro-comfort-1-0-2025.jpg"
   },
   {
     "id": "puma-solar-attack-ctr-2023",
@@ -15985,9 +14746,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Puma Solar Attack CTR 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.9,
     "popularidad": 77,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Puma/puma-solar-attack-ctr-2023.jpg",
-    "url": "https://padelzoom.es/puma-solar-attack-ctr-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/puma-solar-attack-ctr-2023.jpg"
   },
   {
     "id": "kombat-black-mkiii-2024",
@@ -16010,9 +14769,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Kombat Black MKIII 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.9,
     "popularidad": 77,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Kombat/kombat-black-mkiii-2024.jpg",
-    "url": "https://padelzoom.es/kombat-black-mkiii-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/kombat-black-mkiii-2024.jpg"
   },
   {
     "id": "oxdog-ultimate-court-2026",
@@ -16035,9 +14792,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Oxdog Ultimate Court 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.8,
     "popularidad": 75,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Oxdog/oxdog-ultimate-court-2026.jpg",
-    "url": "https://padelzoom.es/oxdog-ultimate-court-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/oxdog-ultimate-court-2026.jpg"
   },
   {
     "id": "adidas-cross-it-team-light-3-4-2025",
@@ -16061,9 +14816,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Cross It Team Light 3.4 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.9,
     "popularidad": 77,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-cross-it-team-light-3-4-2025.jpg",
-    "url": "https://padelzoom.es/adidas-cross-it-team-light-3-4-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-cross-it-team-light-3-4-2025.jpg"
   },
   {
     "id": "puma-nova-elite-hybrid-2024",
@@ -16086,9 +14839,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Puma Nova Elite Hybrid 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.9,
     "popularidad": 77,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Puma/puma-nova-elite-hybrid-2024.jpg",
-    "url": "https://padelzoom.es/puma-nova-elite-hybrid-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/puma-nova-elite-hybrid-2024.jpg"
   },
   {
     "id": "kombat-fuji-2025",
@@ -16111,9 +14862,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Kombat Fuji 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.9,
     "popularidad": 77,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Kombat/kombat-fuji-2025.jpg",
-    "url": "https://padelzoom.es/kombat-fuji-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/kombat-fuji-2025.jpg"
   },
   {
     "id": "kombat-krakatoa-2025",
@@ -16136,9 +14885,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Kombat Krakatoa 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.9,
     "popularidad": 77,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Kombat/kombat-krakatoa-2025.jpg",
-    "url": "https://padelzoom.es/kombat-krakatoa-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/kombat-krakatoa-2025.jpg"
   },
   {
     "id": "varlion-lw-hexagon-8-8-2023",
@@ -16162,9 +14909,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Varlion LW Hexagon 8.8 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.8,
     "popularidad": 76,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Varlion/varlion-lw-hexagon-8-8-2023.jpg",
-    "url": "https://padelzoom.es/varlion-lw-hexagon-8-8-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/varlion-lw-hexagon-8-8-2023.jpg"
   },
   {
     "id": "star-vie-eclipta-2024",
@@ -16188,9 +14933,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Star Vie Eclipta 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.8,
     "popularidad": 76,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Star-Vie/star-vie-eclipta-2024.jpg",
-    "url": "https://padelzoom.es/star-vie-eclipta-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/star-vie-eclipta-2024.jpg"
   },
   {
     "id": "varlion-lw-hexagon-8-8-violet-2023",
@@ -16213,9 +14956,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Varlion LW Hexagon 8.8 Violet 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.8,
     "popularidad": 76,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Varlion/varlion-lw-hexagon-8-8-violet-2023.jpg",
-    "url": "https://padelzoom.es/varlion-lw-hexagon-8-8-violet-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/varlion-lw-hexagon-8-8-violet-2023.jpg"
   },
   {
     "id": "star-vie-radar-2024",
@@ -16239,9 +14980,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Star Vie Radar 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.8,
     "popularidad": 76,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Star-Vie/star-vie-radar-2024.jpg",
-    "url": "https://padelzoom.es/star-vie-radar-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/star-vie-radar-2024.jpg"
   },
   {
     "id": "puma-solar-attack-pwr-2023",
@@ -16264,9 +15003,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Puma Solar Attack PWR 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.8,
     "popularidad": 76,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Puma/puma-solar-attack-pwr-2023.jpg",
-    "url": "https://padelzoom.es/puma-solar-attack-pwr-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/puma-solar-attack-pwr-2023.jpg"
   },
   {
     "id": "drop-shot-explorer-8-0-2025",
@@ -16290,9 +15027,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Drop Shot Explorer 8.0 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.8,
     "popularidad": 76,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Drop-Shot/drop-shot-explorer-8-0-2025.jpg",
-    "url": "https://padelzoom.es/drop-shot-explorer-8-0-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/drop-shot-explorer-8-0-2025.jpg"
   },
   {
     "id": "puma-nova-pro-ctr-2024",
@@ -16315,9 +15050,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Puma Nova Pro CTR 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.8,
     "popularidad": 76,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Puma/puma-nova-pro-ctr-2024.jpg",
-    "url": "https://padelzoom.es/puma-nova-pro-ctr-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/puma-nova-pro-ctr-2024.jpg"
   },
   {
     "id": "drop-shot-conqueror-comfort-1-0-2025",
@@ -16341,9 +15074,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Drop Shot Conqueror Comfort 1.0 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.8,
     "popularidad": 76,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Drop-Shot/drop-shot-conqueror-comfort-1-0-2025.jpg",
-    "url": "https://padelzoom.es/drop-shot-conqueror-comfort-1-0-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/drop-shot-conqueror-comfort-1-0-2025.jpg"
   },
   {
     "id": "puma-nova-elite-pwr-2024",
@@ -16366,9 +15097,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Puma Nova Elite PWR 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.8,
     "popularidad": 76,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Puma/puma-nova-elite-pwr-2024.jpg",
-    "url": "https://padelzoom.es/puma-nova-elite-pwr-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/puma-nova-elite-pwr-2024.jpg"
   },
   {
     "id": "kombat-vesubio-2025",
@@ -16391,9 +15120,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Kombat Vesubio 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.8,
     "popularidad": 76,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Kombat/kombat-vesubio-2025.jpg",
-    "url": "https://padelzoom.es/kombat-vesubio-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/kombat-vesubio-2025.jpg"
   },
   {
     "id": "bullpadel-flow-light-2024",
@@ -16417,9 +15144,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Flow Light 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.8,
     "popularidad": 75,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-flow-light-2024.jpg",
-    "url": "https://padelzoom.es/bullpadel-flow-light-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-flow-light-2024.jpg"
   },
   {
     "id": "bullpadel-flow-light-2025",
@@ -16443,9 +15168,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Flow Light 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.8,
     "popularidad": 75,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-flow-light-2025.jpg",
-    "url": "https://padelzoom.es/bullpadel-flow-light-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-flow-light-2025.jpg"
   },
   {
     "id": "adidas-cross-it-team-3-4-2025",
@@ -16469,9 +15192,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Cross It Team 3.4 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.8,
     "popularidad": 75,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-cross-it-team-3-4-2025.jpg",
-    "url": "https://padelzoom.es/adidas-cross-it-team-3-4-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-cross-it-team-3-4-2025.jpg"
   },
   {
     "id": "oxdog-ultimate-court-2025",
@@ -16494,9 +15215,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Oxdog Ultimate Court 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.8,
     "popularidad": 75,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Oxdog/oxdog-ultimate-court-2025.jpg",
-    "url": "https://padelzoom.es/oxdog-ultimate-court-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/oxdog-ultimate-court-2025.jpg"
   },
   {
     "id": "enebe-suburban-red-12k-2026",
@@ -16520,9 +15239,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Enebe Suburban Red 12K 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.6,
     "popularidad": 73,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Enebe/enebe-suburban-red-12k-2026.jpg",
-    "url": "https://padelzoom.es/enebe-suburban-red-12k-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/enebe-suburban-red-12k-2026.jpg"
   },
   {
     "id": "enebe-suburban-green-12k-2026",
@@ -16546,9 +15263,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Enebe Suburban Green 12K 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.6,
     "popularidad": 73,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Enebe/enebe-suburban-green-12k-2026.jpg",
-    "url": "https://padelzoom.es/enebe-suburban-green-12k-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/enebe-suburban-green-12k-2026.jpg"
   },
   {
     "id": "varlion-lw-one-palm-2023",
@@ -16572,9 +15287,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Varlion LW One Palm 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.7,
     "popularidad": 74,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Varlion/varlion-lw-one-palm-2023.jpg",
-    "url": "https://padelzoom.es/varlion-lw-one-palm-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/varlion-lw-one-palm-2023.jpg"
   },
   {
     "id": "varlion-lw-one-2023",
@@ -16598,9 +15311,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Varlion LW One 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.7,
     "popularidad": 74,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Varlion/varlion-lw-one-2023.jpg",
-    "url": "https://padelzoom.es/varlion-lw-one-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/varlion-lw-one-2023.jpg"
   },
   {
     "id": "bullpadel-bp10-evo-2023",
@@ -16624,9 +15335,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel BP10 EVO 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.7,
     "popularidad": 74,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-bp10-evo-2023.jpg",
-    "url": "https://padelzoom.es/bullpadel-bp10-evo-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-bp10-evo-2023.jpg"
   },
   {
     "id": "bullpadel-bp10-evo-2024",
@@ -16650,9 +15359,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel BP10 EVO 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.7,
     "popularidad": 74,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-bp10-evo-2024.jpg",
-    "url": "https://padelzoom.es/bullpadel-bp10-evo-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-bp10-evo-2024.jpg"
   },
   {
     "id": "bullpadel-bp10-evo-2025",
@@ -16676,9 +15383,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel BP10 EVO 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.7,
     "popularidad": 74,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-bp10-evo-2025.jpg",
-    "url": "https://padelzoom.es/bullpadel-bp10-evo-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-bp10-evo-2025.jpg"
   },
   {
     "id": "enebe-suburban-silver-3k-2026",
@@ -16702,9 +15407,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Enebe Suburban Silver 3K 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.6,
     "popularidad": 72,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Enebe/enebe-suburban-silver-3k-2026.jpg",
-    "url": "https://padelzoom.es/enebe-suburban-silver-3k-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/enebe-suburban-silver-3k-2026.jpg"
   },
   {
     "id": "oxdog-ultimate-nxt-gen-2026",
@@ -16727,9 +15430,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Oxdog Ultimate NXT-GEN 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.6,
     "popularidad": 72,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Oxdog/oxdog-ultimate-nxt-gen-2026.jpg",
-    "url": "https://padelzoom.es/oxdog-ultimate-nxt-gen-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/oxdog-ultimate-nxt-gen-2026.jpg"
   },
   {
     "id": "dunlop-boost-lite-2022",
@@ -16753,9 +15454,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Dunlop Boost Lite 2022. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.6,
     "popularidad": 73,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Dunlop/dunlop-boost-lite-2022.jpg",
-    "url": "https://padelzoom.es/dunlop-boost-lite-2022/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/dunlop-boost-lite-2022.jpg"
   },
   {
     "id": "bullpadel-indiga-woman-2026",
@@ -16778,10 +15477,7 @@ window.PRODUCTOS = [
     },
     "descripcion": "Conoce todo sobre Bullpadel Indiga Woman 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.5,
-    "popularidad": 71,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-indiga-woman-2026.jpg",
-    "url": "https://padelzoom.es/bullpadel-indiga-woman-2026/",
-    "tienda": "Padelzoom"
+    "popularidad": 71
   },
   {
     "id": "bullpadel-indiga-ctr-2026",
@@ -16805,9 +15501,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Indiga CTR 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.5,
     "popularidad": 71,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-indiga-ctr-2026.jpg",
-    "url": "https://padelzoom.es/bullpadel-indiga-ctr-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-indiga-ctr-2026.jpg"
   },
   {
     "id": "dunlop-boost-attack-2023",
@@ -16831,9 +15525,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Dunlop Boost Attack 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.6,
     "popularidad": 73,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Dunlop/dunlop-boost-attack-2023.jpg",
-    "url": "https://padelzoom.es/dunlop-boost-attack-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/dunlop-boost-attack-2023.jpg"
   },
   {
     "id": "lok-be-flow-gen-2-pink-green-2026",
@@ -16857,9 +15549,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Lok Be Flow Gen 2 Pink-Green 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.5,
     "popularidad": 71,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Lok/lok-be-flow-gen-2-pink-green-2026.jpg",
-    "url": "https://padelzoom.es/lok-be-flow-gen-2-pink-green-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/lok-be-flow-gen-2-pink-green-2026.jpg"
   },
   {
     "id": "head-coello-vibe-2026",
@@ -16883,9 +15573,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Coello Vibe 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.5,
     "popularidad": 71,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-coello-vibe-2026.jpg",
-    "url": "https://padelzoom.es/head-coello-vibe-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-coello-vibe-2026.jpg"
   },
   {
     "id": "puma-solar-blink-pwr-2023",
@@ -16908,9 +15596,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Puma Solar Blink PWR 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.6,
     "popularidad": 73,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Puma/puma-solar-blink-pwr-2023.jpg",
-    "url": "https://padelzoom.es/puma-solar-blink-pwr-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/puma-solar-blink-pwr-2023.jpg"
   },
   {
     "id": "puma-solar-blink-ctr-2023",
@@ -16933,9 +15619,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Puma Solar Blink CTR 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.6,
     "popularidad": 73,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Puma/puma-solar-blink-ctr-2023.jpg",
-    "url": "https://padelzoom.es/puma-solar-blink-ctr-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/puma-solar-blink-ctr-2023.jpg"
   },
   {
     "id": "adidas-rx-series-2026",
@@ -16959,9 +15643,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas RX Series 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.5,
     "popularidad": 71,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-rx-series-2026.jpg",
-    "url": "https://padelzoom.es/adidas-rx-series-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-rx-series-2026.jpg"
   },
   {
     "id": "wilson-optix-v2-power-red-2026",
@@ -16985,9 +15667,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Wilson Optix V2 Power Red 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.5,
     "popularidad": 71,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Wilson/wilson-optix-v2-power-red-2026.jpg",
-    "url": "https://padelzoom.es/wilson-optix-v2-power-red-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/wilson-optix-v2-power-red-2026.jpg"
   },
   {
     "id": "wilson-optix-v2-power-blue-2026",
@@ -17011,9 +15691,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Wilson Optix V2 Power Blue 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.5,
     "popularidad": 71,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Wilson/wilson-optix-v2-power-blue-2026.jpg",
-    "url": "https://padelzoom.es/wilson-optix-v2-power-blue-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/wilson-optix-v2-power-blue-2026.jpg"
   },
   {
     "id": "adidas-rx-series-light-2026",
@@ -17037,9 +15715,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas RX Series Light 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.5,
     "popularidad": 71,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-rx-series-light-2026.jpg",
-    "url": "https://padelzoom.es/adidas-rx-series-light-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-rx-series-light-2026.jpg"
   },
   {
     "id": "lok-be-hype-gen-2-2026",
@@ -17063,9 +15739,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Lok Be Hype Gen 2 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.5,
     "popularidad": 70,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Lok/lok-be-hype-gen-2-2026.jpg",
-    "url": "https://padelzoom.es/lok-be-hype-gen-2-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/lok-be-hype-gen-2-2026.jpg"
   },
   {
     "id": "siux-astra-control-2026",
@@ -17089,9 +15763,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Astra Control 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.5,
     "popularidad": 70,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-astra-control-2026.jpg",
-    "url": "https://padelzoom.es/siux-astra-control-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-astra-control-2026.jpg"
   },
   {
     "id": "siux-astra-hybrid-2026",
@@ -17115,9 +15787,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Astra Hybrid 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.5,
     "popularidad": 70,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-astra-hybrid-2026.jpg",
-    "url": "https://padelzoom.es/siux-astra-hybrid-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-astra-hybrid-2026.jpg"
   },
   {
     "id": "puma-nova-pro-hybrid-2024",
@@ -17140,9 +15810,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Puma Nova Pro Hybrid 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.6,
     "popularidad": 72,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Puma/puma-nova-pro-hybrid-2024.jpg",
-    "url": "https://padelzoom.es/puma-nova-pro-hybrid-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/puma-nova-pro-hybrid-2024.jpg"
   },
   {
     "id": "lok-be-flow-2024",
@@ -17166,9 +15834,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Lok Be Flow 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.5,
     "popularidad": 71,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Lok/lok-be-flow-2024.jpg",
-    "url": "https://padelzoom.es/lok-be-flow-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/lok-be-flow-2024.jpg"
   },
   {
     "id": "varlion-bourne-one-2023",
@@ -17192,9 +15858,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Varlion Bourne One 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.5,
     "popularidad": 71,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Varlion/varlion-bourne-one-2023.jpg",
-    "url": "https://padelzoom.es/varlion-bourne-one-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/varlion-bourne-one-2023.jpg"
   },
   {
     "id": "bullpadel-k2-power-2024",
@@ -17218,9 +15882,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel K2 Power 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.5,
     "popularidad": 71,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-k2-power-2024.jpg",
-    "url": "https://padelzoom.es/bullpadel-k2-power-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-k2-power-2024.jpg"
   },
   {
     "id": "adidas-rx-series-red-2024",
@@ -17244,9 +15906,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas RX Series RED 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.5,
     "popularidad": 71,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-rx-series-red-2024.jpg",
-    "url": "https://padelzoom.es/adidas-rx-series-red-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-rx-series-red-2024.jpg"
   },
   {
     "id": "adidas-rx-series-lime-2024",
@@ -17270,9 +15930,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas RX Series Lime 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.5,
     "popularidad": 71,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-rx-series-lime-2024.jpg",
-    "url": "https://padelzoom.es/adidas-rx-series-lime-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-rx-series-lime-2024.jpg"
   },
   {
     "id": "adidas-rx-red-2025",
@@ -17296,9 +15954,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas RX Red 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.5,
     "popularidad": 71,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-rx-red-2025.jpg",
-    "url": "https://padelzoom.es/adidas-rx-red-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-rx-red-2025.jpg"
   },
   {
     "id": "lok-be-flow-2025",
@@ -17322,9 +15978,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Lok Be Flow 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.5,
     "popularidad": 71,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Lok/lok-be-flow-2025.jpg",
-    "url": "https://padelzoom.es/lok-be-flow-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/lok-be-flow-2025.jpg"
   },
   {
     "id": "bullpadel-indiga-control-2024",
@@ -17348,9 +16002,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Indiga Control 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.5,
     "popularidad": 71,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-indiga-control-2024.jpg",
-    "url": "https://padelzoom.es/bullpadel-indiga-control-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-indiga-control-2024.jpg"
   },
   {
     "id": "bullpadel-indiga-woman-2025",
@@ -17374,9 +16026,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Indiga Woman 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.5,
     "popularidad": 71,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-indiga-woman-2025.jpg",
-    "url": "https://padelzoom.es/bullpadel-indiga-woman-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-indiga-woman-2025.jpg"
   },
   {
     "id": "bullpadel-indiga-pwr-2026",
@@ -17400,9 +16050,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Indiga PWR 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.5,
     "popularidad": 69,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-indiga-pwr-2026.jpg",
-    "url": "https://padelzoom.es/bullpadel-indiga-pwr-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-indiga-pwr-2026.jpg"
   },
   {
     "id": "bullpadel-indiga-ctr-2025",
@@ -17426,9 +16074,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Indiga CTR 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.5,
     "popularidad": 71,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-indiga-ctr-2025.jpg",
-    "url": "https://padelzoom.es/bullpadel-indiga-ctr-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-indiga-ctr-2025.jpg"
   },
   {
     "id": "dunlop-speed-attack-2023",
@@ -17452,9 +16098,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Dunlop Speed Attack 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.5,
     "popularidad": 71,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Dunlop/dunlop-speed-attack-2023.jpg",
-    "url": "https://padelzoom.es/dunlop-speed-attack-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/dunlop-speed-attack-2023.jpg"
   },
   {
     "id": "head-coello-vibe-2025",
@@ -17478,9 +16122,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Coello Vibe 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.5,
     "popularidad": 71,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-coello-vibe-2025.jpg",
-    "url": "https://padelzoom.es/head-coello-vibe-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-coello-vibe-2025.jpg"
   },
   {
     "id": "dunlop-speed-ultra-2022",
@@ -17504,9 +16146,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Dunlop Speed Ultra 2022. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.5,
     "popularidad": 71,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Dunlop/dunlop-speed-ultra-2022.jpg",
-    "url": "https://padelzoom.es/dunlop-speed-ultra-2022/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/dunlop-speed-ultra-2022.jpg"
   },
   {
     "id": "siux-beat-control-3-2026",
@@ -17530,9 +16170,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Beat Control 3 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.5,
     "popularidad": 69,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-beat-control-3-2026.jpg",
-    "url": "https://padelzoom.es/siux-beat-control-3-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-beat-control-3-2026.jpg"
   },
   {
     "id": "black-crown-win-ultralight-2025",
@@ -17556,9 +16194,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Black Crown Win Ultralight 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.5,
     "popularidad": 71,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Black-Crown/black-crown-win-ultralight-2025.jpg",
-    "url": "https://padelzoom.es/black-crown-win-ultralight-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/black-crown-win-ultralight-2025.jpg"
   },
   {
     "id": "black-crown-win-carbon-2025",
@@ -17582,9 +16218,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Black Crown Win Carbon 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.5,
     "popularidad": 71,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Black-Crown/black-crown-win-carbon-2025.jpg",
-    "url": "https://padelzoom.es/black-crown-win-carbon-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/black-crown-win-carbon-2025.jpg"
   },
   {
     "id": "siux-astra-hybrid-air-2026",
@@ -17608,9 +16242,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Astra Hybrid Air 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.5,
     "popularidad": 69,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-astra-hybrid-air-2026.jpg",
-    "url": "https://padelzoom.es/siux-astra-hybrid-air-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-astra-hybrid-air-2026.jpg"
   },
   {
     "id": "adidas-rx-lime-2025",
@@ -17634,9 +16266,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas RX Lime 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.5,
     "popularidad": 71,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-rx-lime-2025.jpg",
-    "url": "https://padelzoom.es/adidas-rx-lime-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-rx-lime-2025.jpg"
   },
   {
     "id": "adidas-rx-light-2025",
@@ -17660,9 +16290,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas RX Light 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.5,
     "popularidad": 71,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-rx-light-2025.jpg",
-    "url": "https://padelzoom.es/adidas-rx-light-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-rx-light-2025.jpg"
   },
   {
     "id": "lok-be-hype-2024",
@@ -17686,9 +16314,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Lok Be Hype 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.5,
     "popularidad": 70,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Lok/lok-be-hype-2024.jpg",
-    "url": "https://padelzoom.es/lok-be-hype-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/lok-be-hype-2024.jpg"
   },
   {
     "id": "head-extreme-evo-2026",
@@ -17712,9 +16338,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Extreme EVO 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.4,
     "popularidad": 68,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-extreme-evo-2026.jpg",
-    "url": "https://padelzoom.es/head-extreme-evo-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-extreme-evo-2026.jpg"
   },
   {
     "id": "lok-be-hype-2025",
@@ -17738,9 +16362,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Lok Be Hype 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.5,
     "popularidad": 70,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Lok/lok-be-hype-2025.jpg",
-    "url": "https://padelzoom.es/lok-be-hype-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/lok-be-hype-2025.jpg"
   },
   {
     "id": "head-bolt-azul-2023",
@@ -17764,9 +16386,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Bolt Azul 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.5,
     "popularidad": 69,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-bolt-azul-2023.jpg",
-    "url": "https://padelzoom.es/head-bolt-azul-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-bolt-azul-2023.jpg"
   },
   {
     "id": "bullpadel-indiga-power-2024",
@@ -17790,9 +16410,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Indiga Power 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.5,
     "popularidad": 69,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-indiga-power-2024.jpg",
-    "url": "https://padelzoom.es/bullpadel-indiga-power-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-indiga-power-2024.jpg"
   },
   {
     "id": "bullpadel-indiga-power-2025",
@@ -17816,9 +16434,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Bullpadel Indiga Power 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.5,
     "popularidad": 69,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Bullpadel/bullpadel-indiga-power-2025.jpg",
-    "url": "https://padelzoom.es/bullpadel-indiga-power-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/bullpadel-indiga-power-2025.jpg"
   },
   {
     "id": "head-flash-verde-2023",
@@ -17842,9 +16458,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Flash Verde 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.5,
     "popularidad": 69,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-flash-verde-2023.jpg",
-    "url": "https://padelzoom.es/head-flash-verde-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-flash-verde-2023.jpg"
   },
   {
     "id": "head-flash-roja-2023",
@@ -17868,9 +16482,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Flash Roja 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.5,
     "popularidad": 69,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-flash-roja-2023.jpg",
-    "url": "https://padelzoom.es/head-flash-roja-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-flash-roja-2023.jpg"
   },
   {
     "id": "star-vie-nyra-2026",
@@ -17894,9 +16506,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Star Vie Nyra 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.4,
     "popularidad": 67,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Star-Vie/star-vie-nyra-2026.jpg",
-    "url": "https://padelzoom.es/star-vie-nyra-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/star-vie-nyra-2026.jpg"
   },
   {
     "id": "star-vie-arkos-2026",
@@ -17920,9 +16530,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Star Vie Arkos 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.4,
     "popularidad": 67,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Star-Vie/star-vie-arkos-2026.jpg",
-    "url": "https://padelzoom.es/star-vie-arkos-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/star-vie-arkos-2026.jpg"
   },
   {
     "id": "nox-x-one-evo-black-2023",
@@ -17945,9 +16553,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox X-One EVO Black 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.4,
     "popularidad": 68,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-x-one-evo-black-2023.jpg",
-    "url": "https://padelzoom.es/nox-x-one-evo-black-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-x-one-evo-black-2023.jpg"
   },
   {
     "id": "head-extreme-evo-2024",
@@ -17971,9 +16577,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Extreme EVO 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.4,
     "popularidad": 68,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-extreme-evo-2024.jpg",
-    "url": "https://padelzoom.es/head-extreme-evo-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-extreme-evo-2024.jpg"
   },
   {
     "id": "star-vie-arcadia-2-0-2024",
@@ -17997,9 +16601,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Star Vie Arcadia 2.0 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.4,
     "popularidad": 67,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Star-Vie/star-vie-arcadia-20-2024.jpg",
-    "url": "https://padelzoom.es/star-vie-arcadia-2-0-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/star-vie-arcadia-2-0-2024.jpg"
   },
   {
     "id": "siux-beat-hybrid-3-2026",
@@ -18023,9 +16625,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Beat Hybrid 3 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.3,
     "popularidad": 65,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-beat-hybrid-3-2026.jpg",
-    "url": "https://padelzoom.es/siux-beat-hybrid-3-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-beat-hybrid-3-2026.jpg"
   },
   {
     "id": "siux-beat-hybrid-3-air-2026",
@@ -18049,9 +16649,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Siux Beat Hybrid 3 Air 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.3,
     "popularidad": 65,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Siux/siux-beat-hybrid-3-air-2026.jpg",
-    "url": "https://padelzoom.es/siux-beat-hybrid-3-air-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/siux-beat-hybrid-3-air-2026.jpg"
   },
   {
     "id": "nox-x-zero-red-2026",
@@ -18075,9 +16673,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox X-Zero Red 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.2,
     "popularidad": 64,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-x-zero-red-2026.jpg",
-    "url": "https://padelzoom.es/nox-x-zero-red-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-x-zero-red-2026.jpg"
   },
   {
     "id": "nox-x-zero-blue-2026",
@@ -18101,9 +16697,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox X-Zero Blue 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.2,
     "popularidad": 64,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-x-zero-blue-2026.jpg",
-    "url": "https://padelzoom.es/nox-x-zero-blue-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-x-zero-blue-2026.jpg"
   },
   {
     "id": "nox-x-hero-white-2026",
@@ -18127,9 +16721,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox X-Hero White 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.2,
     "popularidad": 64,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-x-hero-white-2026.jpg",
-    "url": "https://padelzoom.es/nox-x-hero-white-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-x-hero-white-2026.jpg"
   },
   {
     "id": "nox-x-hero-red-2026",
@@ -18153,9 +16745,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox X-Hero Red 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.2,
     "popularidad": 64,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-x-hero-red-2026.jpg",
-    "url": "https://padelzoom.es/nox-x-hero-red-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-x-hero-red-2026.jpg"
   },
   {
     "id": "nox-x-hero-blue-2026",
@@ -18179,9 +16769,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox X-Hero Blue 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.2,
     "popularidad": 64,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-x-hero-blue-2026.jpg",
-    "url": "https://padelzoom.es/nox-x-hero-blue-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-x-hero-blue-2026.jpg"
   },
   {
     "id": "star-vie-polaris-2026",
@@ -18205,9 +16793,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Star Vie Polaris 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.2,
     "popularidad": 64,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Star-Vie/star-vie-polaris-2026.jpg",
-    "url": "https://padelzoom.es/star-vie-polaris-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/star-vie-polaris-2026.jpg"
   },
   {
     "id": "dunlop-rapid-control-3-0-2023",
@@ -18231,9 +16817,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Dunlop Rapid Control 3.0 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.3,
     "popularidad": 65,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Dunlop/dunlop-rapid-control-30-2023.jpg",
-    "url": "https://padelzoom.es/dunlop-rapid-control-3-0-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/dunlop-rapid-control-3-0-2023.jpg"
   },
   {
     "id": "head-speed-evo-2025",
@@ -18257,9 +16841,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Head Speed EVO 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.3,
     "popularidad": 65,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Head/head-speed-evo-2025.jpg",
-    "url": "https://padelzoom.es/head-speed-evo-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/head-speed-evo-2025.jpg"
   },
   {
     "id": "enebe-astra-2026",
@@ -18283,9 +16865,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Enebe Astra 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.1,
     "popularidad": 63,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Enebe/enebe-astra-2026.jpg",
-    "url": "https://padelzoom.es/enebe-astra-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/enebe-astra-2026.jpg"
   },
   {
     "id": "drop-shot-renegade-lite-attack-2025",
@@ -18309,9 +16889,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Drop Shot Renegade Lite Attack 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.3,
     "popularidad": 65,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Drop-Shot/drop-shot-renegade-lite-attack-2025.jpg",
-    "url": "https://padelzoom.es/drop-shot-renegade-lite-attack-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/drop-shot-renegade-lite-attack-2025.jpg"
   },
   {
     "id": "royal-padel-130-factor-2026",
@@ -18335,9 +16913,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Royal Padel 130 Factor 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.1,
     "popularidad": 63,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Royal-Padel/royal-padel-130-factor-2026.jpg",
-    "url": "https://padelzoom.es/royal-padel-130-factor-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/royal-padel-130-factor-2026.jpg"
   },
   {
     "id": "nox-x-one-2025",
@@ -18361,9 +16937,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox X-One 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.2,
     "popularidad": 64,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-x-one-2025.jpg",
-    "url": "https://padelzoom.es/nox-x-one-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-x-one-2025.jpg"
   },
   {
     "id": "kuikma-pr590",
@@ -18386,9 +16960,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Kuikma PR590. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.2,
     "popularidad": 64,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Kuikma/kuikma-pr590.jpg",
-    "url": "https://padelzoom.es/kuikma-pr590/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/kuikma-pr590.jpg"
   },
   {
     "id": "enebe-point-light-2026",
@@ -18412,9 +16984,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Enebe Point Light 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.1,
     "popularidad": 62,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Enebe/enebe-point-light-2026.jpg",
-    "url": "https://padelzoom.es/enebe-point-light-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/enebe-point-light-2026.jpg"
   },
   {
     "id": "dunlop-rocket-ultra-yellow-2023",
@@ -18438,9 +17008,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Dunlop Rocket Ultra Yellow 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.1,
     "popularidad": 63,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Dunlop/dunlop-rocket-ultra-yellow-2023.jpg",
-    "url": "https://padelzoom.es/dunlop-rocket-ultra-yellow-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/dunlop-rocket-ultra-yellow-2023.jpg"
   },
   {
     "id": "dunlop-rocket-ultra-orange-2023",
@@ -18464,9 +17032,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Dunlop Rocket Ultra Orange 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.1,
     "popularidad": 63,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Dunlop/dunlop-rocket-ultra-orange-2023.jpg",
-    "url": "https://padelzoom.es/dunlop-rocket-ultra-orange-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/dunlop-rocket-ultra-orange-2023.jpg"
   },
   {
     "id": "nox-x-one-silhouette-2025",
@@ -18490,9 +17056,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Nox X-One Silhouette 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.1,
     "popularidad": 63,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-x-one-silhouette-2025.jpg",
-    "url": "https://padelzoom.es/nox-x-one-silhouette-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-x-one-silhouette-2025.jpg"
   },
   {
     "id": "drop-shot-renegade-lite-control-2025",
@@ -18516,9 +17080,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Drop Shot Renegade Lite Control 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.1,
     "popularidad": 63,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Drop-Shot/drop-shot-renegade-lite-control-2025.jpg",
-    "url": "https://padelzoom.es/drop-shot-renegade-lite-control-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/drop-shot-renegade-lite-control-2025.jpg"
   },
   {
     "id": "adidas-match-light-2026",
@@ -18542,9 +17104,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Match Light 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3,
     "popularidad": 60,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-match-light-2026.jpg",
-    "url": "https://padelzoom.es/adidas-match-light-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-match-light-2026.jpg"
   },
   {
     "id": "adidas-match-black-lime-2026",
@@ -18568,9 +17128,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Match Black Lime 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3,
     "popularidad": 60,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-match-black-lime-2026.jpg",
-    "url": "https://padelzoom.es/adidas-match-black-lime-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-match-black-lime-2026.jpg"
   },
   {
     "id": "adidas-match-black-2026",
@@ -18594,9 +17152,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Match Black 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3,
     "popularidad": 60,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-match-black-2026.jpg",
-    "url": "https://padelzoom.es/adidas-match-black-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-match-black-2026.jpg"
   },
   {
     "id": "adidas-drive-light-2026",
@@ -18620,9 +17176,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Drive Light 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3,
     "popularidad": 60,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-drive-light-2026.jpg",
-    "url": "https://padelzoom.es/adidas-drive-light-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-drive-light-2026.jpg"
   },
   {
     "id": "adidas-drive-blue-2026",
@@ -18646,9 +17200,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Drive Blue 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3,
     "popularidad": 60,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-drive-blue-2026.jpg",
-    "url": "https://padelzoom.es/adidas-drive-blue-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-drive-blue-2026.jpg"
   },
   {
     "id": "adidas-drive-black-2026",
@@ -18672,9 +17224,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Drive Black 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3,
     "popularidad": 60,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-drive-black-2026.jpg",
-    "url": "https://padelzoom.es/adidas-drive-black-2026/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-drive-black-2026.jpg"
   },
   {
     "id": "puma-solar-court-woman-2023",
@@ -18697,9 +17247,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Puma Solar Court Woman 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.1,
     "popularidad": 62,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Puma/puma-solar-court-woman-2023.jpg",
-    "url": "https://padelzoom.es/puma-solar-court-woman-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/puma-solar-court-woman-2023.jpg"
   },
   {
     "id": "puma-solar-court-2023",
@@ -18722,9 +17270,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Puma Solar Court 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3.1,
     "popularidad": 62,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Puma/puma-solar-court-2023.jpg",
-    "url": "https://padelzoom.es/puma-solar-court-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/puma-solar-court-2023.jpg"
   },
   {
     "id": "adidas-drive-light-3-2-2023",
@@ -18748,9 +17294,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Drive Light 3.2 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3,
     "popularidad": 60,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-drive-light-3-2-2023.jpg",
-    "url": "https://padelzoom.es/adidas-drive-light-3-2-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-drive-light-3-2-2023.jpg"
   },
   {
     "id": "adidas-drive-3-2-2023",
@@ -18774,9 +17318,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Drive 3.2 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3,
     "popularidad": 60,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-drive-3-2-2023.jpg",
-    "url": "https://padelzoom.es/adidas-drive-3-2-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-drive-3-2-2023.jpg"
   },
   {
     "id": "adidas-drive-3-2-bronze-2023",
@@ -18800,9 +17342,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Drive 3.2 Bronze 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3,
     "popularidad": 60,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-drive-3-2-bronze-2023.jpg",
-    "url": "https://padelzoom.es/adidas-drive-3-2-bronze-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-drive-3-2-bronze-2023.jpg"
   },
   {
     "id": "adidas-match-3-3-black-red-2024",
@@ -18826,9 +17366,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Match 3.3 Black/Red 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3,
     "popularidad": 60,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-match-3-3-black-red-2024.jpg",
-    "url": "https://padelzoom.es/adidas-match-3-3-black-red-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-match-3-3-black-red-2024.jpg"
   },
   {
     "id": "adidas-match-3-3-black-lime-2024",
@@ -18852,9 +17390,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Match 3.3 Black/Lime 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3,
     "popularidad": 60,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-match-3-3-black-lime-2024.jpg",
-    "url": "https://padelzoom.es/adidas-match-3-3-black-lime-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-match-3-3-black-lime-2024.jpg"
   },
   {
     "id": "adidas-match-blue-3-4-2025",
@@ -18878,9 +17414,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Match Blue 3.4 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3,
     "popularidad": 60,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-match-blue-3-4-2025.jpg",
-    "url": "https://padelzoom.es/adidas-match-blue-3-4-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-match-blue-3-4-2025.jpg"
   },
   {
     "id": "puma-solar-smash-2023",
@@ -18903,9 +17437,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Puma Solar Smash 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3,
     "popularidad": 60,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Puma/puma-solar-smash-2023.jpg",
-    "url": "https://padelzoom.es/puma-solar-smash-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/puma-solar-smash-2023.jpg"
   },
   {
     "id": "adidas-drive-grey-3-4-2025",
@@ -18929,9 +17461,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Drive Grey 3.4 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3,
     "popularidad": 60,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-drive-grey-3-4-2025.jpg",
-    "url": "https://padelzoom.es/adidas-drive-grey-3-4-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-drive-grey-3-4-2025.jpg"
   },
   {
     "id": "adidas-drive-black-3-4-2025",
@@ -18955,9 +17485,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Drive Black 3.4 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3,
     "popularidad": 60,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-drive-black-3-4-2025.jpg",
-    "url": "https://padelzoom.es/adidas-drive-black-3-4-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-drive-black-3-4-2025.jpg"
   },
   {
     "id": "adidas-match-3-2-2023",
@@ -18981,9 +17509,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Match 3.2 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3,
     "popularidad": 60,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-match-3-2-2023.jpg",
-    "url": "https://padelzoom.es/adidas-match-3-2-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-match-3-2-2023.jpg"
   },
   {
     "id": "adidas-match-bronze-3-2-2023",
@@ -19007,9 +17533,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Match Bronze 3.2 2023. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3,
     "popularidad": 60,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-match-bronze-3-2-2023.jpg",
-    "url": "https://padelzoom.es/adidas-match-bronze-3-2-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-match-bronze-3-2-2023.jpg"
   },
   {
     "id": "adidas-match-black-3-4-2025",
@@ -19033,9 +17557,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Match Black 3.4 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3,
     "popularidad": 60,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-match-black-3-4-2025.jpg",
-    "url": "https://padelzoom.es/adidas-match-black-3-4-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-match-black-3-4-2025.jpg"
   },
   {
     "id": "puma-nova-court-2024",
@@ -19058,9 +17580,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Puma Nova Court 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3,
     "popularidad": 60,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Puma/puma-nova-court-2024.jpg",
-    "url": "https://padelzoom.es/puma-nova-court-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/puma-nova-court-2024.jpg"
   },
   {
     "id": "adidas-match-light-3-4-2025",
@@ -19084,9 +17604,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Match Light 3.4 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3,
     "popularidad": 60,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-match-light-3-4-2025.jpg",
-    "url": "https://padelzoom.es/adidas-match-light-3-4-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-match-light-3-4-2025.jpg"
   },
   {
     "id": "adidas-drive-3-3-blue-2024",
@@ -19110,9 +17628,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Drive 3.3 Blue 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3,
     "popularidad": 60,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-drive-3-3-blue-2024.jpg",
-    "url": "https://padelzoom.es/adidas-drive-3-3-blue-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-drive-3-3-blue-2024.jpg"
   },
   {
     "id": "adidas-drive-light-3-3-2024",
@@ -19136,9 +17652,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Drive Light 3.3 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3,
     "popularidad": 60,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-drive-light-3-3-2024.jpg",
-    "url": "https://padelzoom.es/adidas-drive-light-3-3-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-drive-light-3-3-2024.jpg"
   },
   {
     "id": "adidas-drive-light-3-4-2025",
@@ -19162,9 +17676,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Drive Light 3.4 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3,
     "popularidad": 60,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-drive-light-3-4-2025.jpg",
-    "url": "https://padelzoom.es/adidas-drive-light-3-4-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-drive-light-3-4-2025.jpg"
   },
   {
     "id": "adidas-match-light-3-3-2024",
@@ -19188,9 +17700,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Adidas Match Light 3.3 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3,
     "popularidad": 59,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Adidas/adidas-match-light-3-3-2024.jpg",
-    "url": "https://padelzoom.es/adidas-match-light-3-3-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/adidas-match-light-3-3-2024.jpg"
   },
   {
     "id": "puma-nova-court-woman-2024",
@@ -19213,9 +17723,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Puma Nova Court Woman 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 3,
     "popularidad": 59,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Puma/puma-nova-court-woman-2024.jpg",
-    "url": "https://padelzoom.es/puma-nova-court-woman-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/puma-nova-court-woman-2024.jpg"
   },
   {
     "id": "puma-nova-smash-2024",
@@ -19238,9 +17746,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Puma Nova Smash 2024. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 2.9,
     "popularidad": 58,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Puma/puma-nova-smash-2024.jpg",
-    "url": "https://padelzoom.es/puma-nova-smash-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/puma-nova-smash-2024.jpg"
   },
   {
     "id": "dunlop-megamax-black-2025",
@@ -19263,9 +17769,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Dunlop Megamax Black 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 2.9,
     "popularidad": 58,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Dunlop/dunlop-megamax-black-2025.jpg",
-    "url": "https://padelzoom.es/dunlop-megamax-black-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/dunlop-megamax-black-2025.jpg"
   },
   {
     "id": "dunlop-megamax-green-2025",
@@ -19288,9 +17792,7 @@ window.PRODUCTOS = [
     "descripcion": "Conoce todo sobre Dunlop Megamax Green 2025. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
     "valoracion": 2.9,
     "popularidad": 58,
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Dunlop/dunlop-megamax-green-2025.jpg",
-    "url": "https://padelzoom.es/dunlop-megamax-green-2025/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/dunlop-megamax-green-2025.jpg"
   },
   {
     "id": "nox-x-one-c6-2023",
@@ -19312,9 +17814,7 @@ window.PRODUCTOS = [
       "goma": "HR3 WHITE EVA"
     },
     "descripcion": "Conoce todo sobre Nox X-Zero Blue 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-x-one-c6-2023.jpg",
-    "url": "https://padelzoom.es/nox-x-one-c6-2023/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-x-one-c6-2023.jpg"
   },
   {
     "id": "nox-at-pro-cup-genius-2024",
@@ -19335,9 +17835,7 @@ window.PRODUCTOS = [
       "goma": "HR3 BLACK EVA"
     },
     "descripcion": "Conoce todo sobre Nox AT10 Luxury Genius 12K Alum Xtrem 2026 Agustin Tapia. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Nox/nox-at-pro-cup-genius-2024.jpg",
-    "url": "https://padelzoom.es/nox-at-pro-cup-genius-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/nox-at-pro-cup-genius-2024.jpg"
   },
   {
     "id": "enebe-massive-2022",
@@ -19358,9 +17856,7 @@ window.PRODUCTOS = [
       "goma": "Medium EVA"
     },
     "descripcion": "Conoce todo sobre Enebe Mustang Silver 3K 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Enebe/enebe-massive-2022.jpg",
-    "url": "https://padelzoom.es/enebe-massive-2022/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/enebe-massive-2022.jpg"
   },
   {
     "id": "enebe-supra-3k-2024",
@@ -19381,8 +17877,6 @@ window.PRODUCTOS = [
       "goma": "Medium EVA"
     },
     "descripcion": "Conoce todo sobre Enebe Genius Red 2026. Te enseñamos la mejor comparativa de precios del mercado. Consigue las mejores condiciones gracias a PadelZoom.",
-    "imagen": "https://padelzoom.es/wp-content/themes/busolightning/images/palas-imagenes/Enebe/enebe-supra-3k-2024.jpg",
-    "url": "https://padelzoom.es/enebe-supra-3k-2024/",
-    "tienda": "Padelzoom"
+    "imagen": "assets/palas/enebe-supra-3k-2024.jpg"
   }
 ];
