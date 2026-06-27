@@ -52,7 +52,20 @@ function marcaDe(nombre) {
 function estiloDe(t) { t = t.toLowerCase(); const p = /potencia|pegada|remate|ataque|power|ofensiv/.test(t), c = /control|precisi|defensa|manejab|toque/.test(t); if (p && !c) return "potencia"; if (c && !p) return "control"; return "polivalente"; }
 function formaDe(t) { t = t.toLowerCase(); if (/diamante/.test(t)) return "diamante"; if (/l[áa]grima|gota|h[íi]brid|teardrop/.test(t)) return "lágrima"; if (/redond/.test(t)) return "redonda"; return null; }
 function balanceDe(t) { t = t.toLowerCase(); if (/balance\s+alto|balance\s+medio[- ]?alto/.test(t)) return "alto"; if (/balance\s+bajo/.test(t)) return "bajo"; if (/balance\s+medio/.test(t)) return "medio"; return null; }
-function nivelDe(t) { t = t.toLowerCase(); if (/iniciaci[óo]n|principiante/.test(t)) return "iniciación"; if (/avanzad|competici|profesional|experto/.test(t)) return "avanzado"; if (/nivel\s+(de\s+)?medio|intermedio/.test(t)) return "intermedio"; return null; }
+function nivelDe(texto, tacto, forma) {
+  const t = (texto || "").toLowerCase();
+  let ini = 0, med = 0, av = 0;
+  if (/iniciaci[óo]n|principiante|que empiez|se inician|primeras palas|primeros partidos|inician en el|aprender/.test(t)) ini += 2;
+  if (/nivel medio|intermedi|club|progresar|polivalente|en evoluci/.test(t)) med += 2;
+  if (/avanzad|competici|profesional|experto|alto nivel|buena t[ée]cnica|exigente|ofensiv|agresiv/.test(t)) av += 2;
+  const tc = (tacto || "").toLowerCase();
+  if (/duro/.test(tc)) av += 1; else if (/blando|suave/.test(tc)) ini += 1;
+  if (forma === "diamante") av += 1; else if (forma === "redonda") ini += 1;
+  if (av === 0 && med === 0 && ini === 0) return null;
+  if (av >= med && av >= ini) return "avanzado";
+  if (ini >= med && ini > av) return "iniciación";
+  return "intermedio";
+}
 
 // --- 1) listado -------------------------------------------------------------
 function parseListado(html) {
@@ -79,17 +92,25 @@ function parseListado(html) {
 function parseDetalle(html) {
   const meta = (html.match(/<meta[^>]+name="description"[^>]+content="([^"]*)"/i) || [])[1] || "";
   const visible = html.replace(/<script[\s\S]*?<\/script>/gi, "").replace(/<style[\s\S]*?<\/style>/gi, "");
-  const texto = limpiar(visible); // quitar etiquetas ANTES de analizar (las specs están en el cuerpo)
-  const peso = (texto.match(/Peso\s*:?\s*(\d{3})\s*(?:gramos|gr|g)\b/i) || [])[1];
-  const corta = (s) => s ? s.replace(/\s+(Tacto|Forma|Balance|Nivel|Cara|N[úu]cleo|Marco|Peso|Material|Superficie|Goma|Dureza|Acabado)\b.*$/i, "").trim() : s;
-  const goma = corta((texto.match(/Material\s+goma\s*:?\s*([A-Za-z0-9 .\-]{2,40})/i) || [])[1]);
-  const cara = corta((texto.match(/(?:Material\s+)?(?:cara|superficie)\s*:?\s*([A-Za-z0-9 .\-]{2,40})/i) || [])[1]);
+  // Tabla de especificaciones: <div class="description-pala"> <p><b>Etiqueta : </b>valor</p> …
+  const bloque = (visible.match(/class="description-pala"[\s\S]*?<\/div>/i) || [])[0] || "";
+  const specs = {};
+  const re = /<p>\s*<b>\s*([^:<]+?)\s*:\s*<\/b>\s*([^<]*)<\/p>/gi; let m;
+  while ((m = re.exec(bloque))) specs[limpiar(m[1]).toLowerCase()] = limpiar(m[2]);
+  // Recomendación de jugador (buena pista del nivel)
+  const rec = limpiar((visible.match(/¿Para qu[ée] jugador[^<]*<\/h3>\s*<p>([\s\S]*?)<\/p>/i) || [])[1] || "");
+  const texto = limpiar(visible);
   return {
-    descripcion: limpiar(meta) || texto.slice(0, 240),
-    forma: formaDe(texto), balance: balanceDe(texto), nivel: nivelDe(texto),
-    estilo: estiloDe(texto),
-    peso: peso ? peso + " g" : undefined,
-    material: (goma || cara) ? { cara: cara ? cara.trim() : undefined, nucleo: goma ? goma.trim() : undefined } : undefined,
+    descripcion: rec || limpiar(meta) || texto.slice(0, 240),
+    recomendacion: rec || undefined,
+    forma: formaDe(specs["forma"] || ""),
+    balance: balanceDe(texto),
+    tacto: specs["tacto"] || undefined,
+    temporada: specs["temporada"] || undefined,
+    materialMarco: specs["material marco"] || undefined,
+    materialPlano: specs["material plano"] || undefined,
+    materialGoma: specs["material goma"] || undefined,
+    peso: specs["peso"] ? specs["peso"].replace(/gramos/i, "g").replace(/\s+/g, " ").trim() : undefined,
   };
 }
 
@@ -141,19 +162,24 @@ async function main() {
     const estilo = (forma === "diamante" && balance === "alto") ? "potencia"
       : (forma === "redonda" && balance === "bajo") ? "control"
       : "polivalente";
+    const nivel = nivelDe(`${x.recomendacion || ""} ${x.nombre} ${x.descripcion || ""}`, x.tacto, forma) || "intermedio";
     const precioOriginal = x.descuentoPct ? +(x.precio / (1 - x.descuentoPct / 100)).toFixed(2) : undefined;
+    const anio = x.temporada ? (parseInt(x.temporada, 10) || undefined) : undefined;
     return {
       id: slug(x.nombre),
       nombre: x.nombre,
       marca: marcaDe(x.nombre),
       precio: x.precio,
       precioOriginal: precioOriginal && precioOriginal > x.precio ? precioOriginal : undefined,
-      nivel: x.nivel || nivelDe(base) || "intermedio",
+      nivel,
       estilo,
       forma,
       balance,
+      tacto: x.tacto,
       peso: x.peso,
-      material: x.material,
+      temporada: x.temporada,
+      anio,
+      material: { marco: x.materialMarco, plano: x.materialPlano, goma: x.materialGoma },
       descripcion: x.descripcion || x.nombre,
       valoracion: x.puntuacion != null ? +(x.puntuacion / 2).toFixed(1) : undefined, // /10 → /5
       popularidad: x.puntuacion != null ? Math.round(x.puntuacion * 10) : undefined,

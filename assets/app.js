@@ -211,10 +211,12 @@
     { etq: "Estilo", val: function (p) { return badge(p.estilo); } },
     { etq: "Forma", val: function (p) { return badge(p.forma); } },
     { etq: "Balance", val: function (p) { return badge(p.balance); } },
+    { etq: "Tacto", val: function (p) { return p.tacto || "—"; } },
     { etq: "Peso", val: function (p) { return p.peso || "—"; } },
-    { etq: "Cara", val: function (p) { return (p.material && p.material.cara) || "—"; } },
-    { etq: "Núcleo", val: function (p) { return (p.material && p.material.nucleo) || "—"; } },
-    { etq: "Año", val: function (p) { return p.anio || "—"; } },
+    { etq: "Material marco", val: function (p) { return (p.material && p.material.marco) || "—"; } },
+    { etq: "Material plano", val: function (p) { return (p.material && p.material.plano) || "—"; } },
+    { etq: "Material goma", val: function (p) { return (p.material && p.material.goma) || "—"; } },
+    { etq: "Temporada", val: function (p) { return p.temporada || p.anio || "—"; } },
     { etq: "Tienda", val: function (p) { return p.tienda; } },
   ];
 
