@@ -221,7 +221,9 @@
     var tabla = document.getElementById("tabla-compara");
     var html = "<thead><tr><th></th>";
     ps.forEach(function (p) {
-      html += '<th><div class="col-marca">' + p.marca + '</div><div class="col-nombre">' + p.nombre + '</div>' +
+      html += '<th>' +
+        (p.imagen ? '<img class="col-foto" src="' + p.imagen + '" alt="' + String(p.nombre).replace(/"/g, "&quot;") + '" onerror="this.remove()">' : '') +
+        '<div class="col-marca">' + p.marca + '</div><div class="col-nombre">' + p.nombre + '</div>' +
         '<button class="quitar" data-quitar-modal="' + p.id + '">Quitar</button></th>';
     });
     html += "</tr></thead><tbody>";

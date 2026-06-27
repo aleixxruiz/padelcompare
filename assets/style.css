@@ -186,6 +186,7 @@ input[type="range"] { width: 100%; accent-color: var(--accent); }
 .tabla-compara tbody tr:nth-child(even) { background: rgba(246,247,245,.6); }
 .tabla-compara .etq { font-weight: 600; color: var(--muted); white-space: nowrap; }
 .tabla-compara .mejor { background: var(--accent-soft); color: var(--accent-strong); font-weight: 600; border-radius: 8px; }
+.tabla-compara .col-foto { display: block; width: 100%; max-width: 130px; height: 96px; object-fit: contain; margin: 0 auto 8px; background: #fff; }
 .tabla-compara .col-marca { font-size: 11px; text-transform: uppercase; color: var(--muted); font-weight: 600; }
 .tabla-compara .col-nombre { font-weight: 700; }
 .tabla-compara .quitar { background: none; border: none; color: #e11d48; font-size: 12px; font-weight: 500; cursor: pointer; padding: 4px 0 0; }
