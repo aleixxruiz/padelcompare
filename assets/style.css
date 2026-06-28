@@ -92,6 +92,7 @@ a { color: inherit; }
 .hero-pro h1 { margin: 0; font-weight: 800; line-height: 1.02; letter-spacing: -.02em; font-size: clamp(40px, 6vw, 72px); color: #fff; }
 .hero-pro h1 .accent { color: var(--accent); display: block; }
 .hero-pro .hero-sub { color: #c7ccd3; font-size: clamp(16px, 2vw, 20px); margin: 16px 0 0; max-width: none; }
+.hero-sub-accent { font-family: "Caveat", "Segoe Script", cursive; color: var(--accent); font-weight: 700; font-size: 1.7em; line-height: 1; white-space: nowrap; }
 .hero-features { display: flex; gap: 14px; margin: 26px 0; flex-wrap: nowrap; }
 .hf { display: flex; gap: 9px; align-items: center; flex: 1 1 0; min-width: 0; }
 .hf-ic { width: 38px; height: 38px; flex: 0 0 auto; border: 1px solid rgba(225,29,43,.55); border-radius: 11px; display: grid; place-items: center; font-size: 17px; color: var(--accent); }
