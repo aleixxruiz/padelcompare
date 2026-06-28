@@ -57,55 +57,8 @@
       </div>
 
       <form id="perfil-form">
-        <div class="form-grid">
-          <label class="campo">
-            <span>Nombre completo</span>
-            <input type="text" id="f-nombre" autocomplete="name" placeholder="Tu nombre">
-          </label>
-          <label class="campo">
-            <span>Nivel Playtomic (0 – 7)</span>
-            <input type="number" id="f-playtomic" min="0" max="7" step="0.25" placeholder="Ej. 3.5">
-          </label>
-          <label class="campo">
-            <span>Estilo de juego preferido</span>
-            <select id="f-estilo">
-              <option value="indiferente">Indiferente</option>
-              <option value="control">Control</option>
-              <option value="potencia">Potencia</option>
-              <option value="polivalente">Polivalente</option>
-            </select>
-          </label>
-          <label class="campo">
-            <span>Mano / lado</span>
-            <select id="f-mano">
-              <option value="">—</option>
-              <option value="derecha">Juego en la derecha</option>
-              <option value="reves">Juego en el revés</option>
-              <option value="ambidiestro">Indistinto</option>
-            </select>
-          </label>
-          <label class="campo">
-            <span>Frecuencia de juego</span>
-            <select id="f-frecuencia">
-              <option value="">—</option>
-              <option value="ocasional">Ocasional</option>
-              <option value="1-2 semana">1-2 veces / semana</option>
-              <option value="3+ semana">3 o más / semana</option>
-            </select>
-          </label>
-          <label class="campo">
-            <span>Presupuesto máximo (€)</span>
-            <input type="number" id="f-presupuesto" min="0" step="10" placeholder="Ej. 200">
-          </label>
-          <label class="campo">
-            <span>Peso (kg, opcional)</span>
-            <input type="number" id="f-peso" min="30" max="180" placeholder="Opcional">
-          </label>
-          <label class="campo check">
-            <input type="checkbox" id="f-codo">
-            <span>He tenido molestias de codo (epicondilitis)</span>
-          </label>
-        </div>
+        <!-- Campos generados desde assets/perfil-schema.js -->
+        <div id="perfil-campos"></div>
 
         <label class="campo check consent">
           <input type="checkbox" id="f-consent" required>
@@ -127,6 +80,7 @@
 
   <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
   <script src="assets/supabase-config.js"></script>
+  <script src="assets/perfil-schema.js"></script>
   <script src="assets/cuenta.js"></script>
   <script src="assets/nav.js"></script>
 </body>

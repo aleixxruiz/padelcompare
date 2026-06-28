@@ -15,6 +15,8 @@ create table if not exists public.perfiles (
   presupuesto   integer,                    -- € máximo
   lesion_codo   boolean default false,
   peso          integer,                    -- kg (opcional)
+  donde_juega   text,                        -- indoor | outdoor | ambas
+  preferencias  jsonb default '{}'::jsonb,   -- respuestas por categoría (zapatillas, ropa, ...)
   consentimiento boolean default false,     -- aceptó la política de privacidad
   created_at    timestamptz default now(),
   updated_at    timestamptz default now()

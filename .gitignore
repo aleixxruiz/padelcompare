@@ -17,3 +17,6 @@ err.txt
 worker/node_modules/
 worker/.wrangler/
 .dev.vars
+
+# Duplicados de sincronización en la nube (iCloud/Drive: "archivo 2.html")
+* [0-9].*

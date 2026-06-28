@@ -228,6 +228,8 @@ input[type="range"] { width: 100%; accent-color: var(--accent); }
 .form-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0 16px; }
 .btn-primary.ancho { width: 100%; }
 .perfil-head { display: flex; justify-content: space-between; align-items: flex-start; gap: 12px; }
+.perfil-cat { margin-top: 16px; }
+.perfil-cat h3 { font-size: 15px; margin: 0 0 12px; padding-top: 16px; border-top: 1px solid var(--border); }
 .perfil-acciones { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; margin-top: 12px; }
 .cuenta-msg { font-size: 13px; color: var(--muted); margin: 8px 0 0; }
 .cuenta-msg.ok { color: var(--accent-strong); }
