@@ -1,5 +1,5 @@
 -- ============================================================
--- Padel Match — esquema de Supabase
+-- Padel Ideal — esquema de Supabase
 -- Ejecuta esto en tu proyecto: Supabase → SQL Editor → New query → pega → Run
 -- ============================================================
 

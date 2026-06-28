@@ -1,5 +1,5 @@
 /* ============================================================
-   Padel Match — login (enlace mágico) + perfil de jugador (Supabase)
+   Padel Ideal — login (enlace mágico) + perfil de jugador (Supabase)
    ============================================================ */
 (function () {
   "use strict";

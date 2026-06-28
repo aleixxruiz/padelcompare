@@ -1,4 +1,4 @@
-# PadelCompare — Comparador de palas de pádel
+# Padel Ideal — Comparador de palas de pádel
 
 Web estática para comparar palas de pádel: filtra por nivel, estilo de juego,
 forma, balance, marca, tienda y precio, y compara hasta 4 palas lado a lado.

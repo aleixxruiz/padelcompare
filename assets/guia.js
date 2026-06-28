@@ -1,5 +1,5 @@
 /* ============================================================
-   Botón flotante "Recomendaciones" · Padel Match
+   Botón flotante "Recomendaciones" · Padel Ideal
    Abre un pop-up con la guía "Elige tu pala" (assets/eligetupala.webp)
    para ayudar a elegir según nivel, control/potencia, forma y balance.
    ============================================================ */

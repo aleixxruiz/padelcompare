@@ -1,4 +1,4 @@
-# Roadmap — Padel Match
+# Roadmap — Padel Ideal
 
 Plan de mejora priorizado. Objetivo: dejar de ser "otro comparador" y ser **la
 referencia para elegir pala** (contenido + datos propios → SEO + afiliación).
@@ -17,7 +17,7 @@ Leyenda: 🟢 encaja con el stack estático actual · 🟠 necesita backend (BD/
 1. **Fichas de producto con URL propia** (`/pala/<id>`) 🟢
    - Specs completas, imagen grande, descripción.
    - Base para todo lo demás (similares, score, comparativas).
-2. **PadelCompare / Padel Match Score** (diferenciador) 🟢
+2. **PadelCompare / Padel Ideal Score** (diferenciador) 🟢
    - Nota global 0-100 a partir de: potencia, control, salida de bola,
      manejabilidad, punto dulce, confort, durabilidad, calidad/precio,
      valoración y tendencia de precio.

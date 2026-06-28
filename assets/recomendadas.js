@@ -1,5 +1,5 @@
 /* ============================================================
-   Padel Match — "Recomendadas para ti"
+   Padel Ideal — "Recomendadas para ti"
    Lee el perfil del usuario (Supabase) y recomienda palas de window.PRODUCTOS.
    ============================================================ */
 (function () {
