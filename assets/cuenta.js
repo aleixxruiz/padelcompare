@@ -36,6 +36,7 @@
   // -------- Cargar / guardar perfil --------
   function cargarPerfil(user) {
     $("perfil-form").dataset.uid = user.id;
+    $("perfil-form").dataset.email = user.email || "";
     sb.from("perfiles").select("*").eq("id", user.id).maybeSingle().then(function (res) {
       var p = res.data;
       if (p) {
@@ -62,6 +63,7 @@
     var num = function (v) { return v === "" ? null : Number(v); };
     var fila = {
       id: uid,
+      email: $("perfil-form").dataset.email || null,
       nombre: $("f-nombre").value.trim() || null,
       nivel_playtomic: num($("f-playtomic").value),
       estilo: $("f-estilo").value || null,

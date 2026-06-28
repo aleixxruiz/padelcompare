@@ -6,6 +6,7 @@
 -- Tabla de perfiles (1 fila por usuario; el id == auth.users.id)
 create table if not exists public.perfiles (
   id            uuid primary key references auth.users(id) on delete cascade,
+  email         text,                       -- copia del correo para verlo en Table Editor
   nombre        text,
   nivel_playtomic numeric(3,1),            -- 0.0 a 7.0
   estilo        text,                       -- control | potencia | polivalente | indiferente
