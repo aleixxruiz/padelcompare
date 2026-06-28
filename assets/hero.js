@@ -52,8 +52,8 @@
   var B = byId("adidas-metalbone-hrd-2026-ale-galan") || mejor(function (p) { return p.estilo === "control" && p.id !== (A && A.id); }) || P[1] || P[0];
   var NAME_A = "Juan Lebrón", NAME_B = "Ale Galán";
 
-  function imgPala(slot, fallback) {
-    return '<img src="assets/' + slot + '.png" alt="pala" loading="lazy" ' +
+  function imgPala(src, fallback) {
+    return '<img src="' + src + '" alt="pala" loading="lazy" ' +
       "onerror=\"this.onerror=null;this.src='" + fallback + "';this.classList.add('framed')\">";
   }
 
@@ -74,9 +74,9 @@
 
     cont.innerHTML =
       '<div class="vs-top">' +
-        '<div class="vs-pala">' + imgPala("vs-a", A.imagen) + '<span class="vs-name">' + NAME_A + "</span></div>" +
+        '<div class="vs-pala">' + imgPala("assets/vs-lebron.webp", A.imagen) + '<span class="vs-name">' + NAME_A + "</span></div>" +
         '<div class="vs-badge">VS</div>' +
-        '<div class="vs-pala">' + imgPala("vs-b", B.imagen) + '<span class="vs-name">' + NAME_B + "</span></div>" +
+        '<div class="vs-pala">' + imgPala("assets/vs-galan.png", B.imagen) + '<span class="vs-name">' + NAME_B + "</span></div>" +
       "</div>" +
       '<div class="vs-stats">' + filas + "</div>";
 
