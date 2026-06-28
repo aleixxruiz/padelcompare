@@ -123,16 +123,23 @@ a { color: inherit; }
 .vs-top::after { content: ""; position: absolute; left: 50%; top: 50%; width: 6px; height: 540px; transform: translate(-50%, -50%) rotate(24deg); background: linear-gradient(180deg, transparent 0%, rgba(255,70,70,0) 12%, rgba(255,80,80,.85) 40%, #fff 50%, rgba(255,80,80,.85) 60%, rgba(255,70,70,0) 88%, transparent 100%); filter: blur(1.4px); box-shadow: 0 0 50px 14px rgba(255,45,45,.6), 0 0 130px 44px rgba(255,30,40,.25); pointer-events: none; z-index: 0; animation: beamPulse 3.2s ease-in-out infinite; }
 .vs-pala { position: relative; z-index: 3; text-align: center; text-decoration: none; color: #fff; }
 /* Recorte: PNG sin fondo flotando sobre el oscuro (como el mockup) */
-.vs-pala img { width: 100%; max-height: 440px; object-fit: contain; filter: drop-shadow(0 22px 46px rgba(0,0,0,.65)) drop-shadow(0 0 30px rgba(255,45,45,.2)); transition: transform .35s ease, filter .35s ease; }
+/* Misma altura para ambas palas (la Babolat queda igual que la de Galán) */
+.vs-pala img { height: clamp(230px, 26vw, 360px); width: auto; max-width: 100%; object-fit: contain; filter: drop-shadow(0 22px 46px rgba(0,0,0,.65)) drop-shadow(0 0 30px rgba(255,45,45,.2)); transition: transform .35s ease, filter .35s ease; }
 .vs-pala:hover img { transform: translateY(-10px) scale(1.04) rotate(-1deg); filter: drop-shadow(0 30px 58px rgba(0,0,0,.65)) drop-shadow(0 0 40px rgba(255,45,45,.42)); }
 .vs-pala img.framed { background: #fff; border-radius: 14px; padding: 8px; max-height: 300px; }
 .vs-badge { position: relative; z-index: 4; font-size: 70px; font-weight: 900; font-style: italic; color: #fff; text-shadow: 0 0 18px rgba(255,45,45,1), 0 0 44px rgba(255,45,45,.8); }
-/* Rayos de explosión girando suavemente detrás del VS */
-.vs-badge::before { content: ""; position: absolute; left: 50%; top: 50%; width: 240px; height: 240px; transform: translate(-50%, -50%); z-index: -1; pointer-events: none;
-  background: repeating-conic-gradient(from 6deg, rgba(255,150,150,0) 0deg 9deg, rgba(255,175,175,.5) 10deg 11deg, rgba(255,150,150,0) 12deg 21deg);
-  -webkit-mask: radial-gradient(circle, #000 0%, rgba(0,0,0,.45) 22%, transparent 58%);
-  mask: radial-gradient(circle, #000 0%, rgba(0,0,0,.45) 22%, transparent 58%);
-  animation: spark 7s linear infinite; }
+/* Impacto de rayo: núcleo blanco incandescente */
+.vs-badge::before { content: ""; position: absolute; left: 50%; top: 50%; width: 180px; height: 180px; transform: translate(-50%, -50%); z-index: -1; pointer-events: none;
+  background: radial-gradient(circle, rgba(255,255,255,.95) 0%, rgba(255,180,185,.6) 18%, rgba(255,70,75,.25) 40%, transparent 70%);
+  animation: flash 2.6s ease-in-out infinite; }
+/* Impacto de rayo: destello en estrella (rayos horizontal y vertical) */
+.vs-badge::after { content: ""; position: absolute; left: 50%; top: 50%; width: 340px; height: 340px; transform: translate(-50%, -50%); z-index: -1; pointer-events: none;
+  background:
+    linear-gradient(90deg, transparent 0%, rgba(255,235,235,.9) 50%, transparent 100%) center / 100% 2px no-repeat,
+    linear-gradient(180deg, transparent 0%, rgba(255,235,235,.85) 50%, transparent 100%) center / 2px 100% no-repeat;
+  -webkit-mask: radial-gradient(circle, #000 0%, rgba(0,0,0,.5) 16%, transparent 58%);
+  mask: radial-gradient(circle, #000 0%, rgba(0,0,0,.5) 16%, transparent 58%);
+  animation: flash 3.2s ease-in-out infinite; }
 /* El panel de stats sube bastante para quedar CLARAMENTE bajo las palas */
 .vs-stats { position: relative; z-index: 1; margin-top: -64px; background: rgba(10,10,11,.72); border: 1px solid rgba(255,255,255,.08); border-radius: 16px; padding: 22px 18px 14px; backdrop-filter: blur(2px); }
 .vs-row { display: grid; grid-template-columns: 34px 1fr 150px 1fr 34px; align-items: center; gap: 8px; padding: 6px 0; }
@@ -160,7 +167,7 @@ a { color: inherit; }
 @keyframes heroUp { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: none; } }
 @keyframes heroRight { from { opacity: 0; transform: translateY(26px) scale(.97); } to { opacity: 1; transform: none; } }
 @keyframes barGrow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
-@keyframes spark { to { transform: translate(-50%, -50%) rotate(360deg); } }
+@keyframes flash { 0%, 100% { opacity: .72; transform: translate(-50%, -50%) scale(.95); } 50% { opacity: 1; transform: translate(-50%, -50%) scale(1.06); } }
 .hero-pro-left > * { animation: heroUp .6s cubic-bezier(.2,.7,.3,1) both; }
 .hero-pro-left .hero-eyebrow { animation-delay: .05s; }
 .hero-pro-left h1 { animation-delay: .12s; }
@@ -177,7 +184,7 @@ a { color: inherit; }
 .btn-outline.btn-lg:hover { transform: translateY(-2px); }
 .nav a { transition: color .2s ease; }
 @media (prefers-reduced-motion: reduce) {
-  .hero-pro-left > *, .hero-pro-right, .vs-bar i, .vs-top::after, .vs-top::before, .vs-badge::before { animation: none; }
+  .hero-pro-left > *, .hero-pro-right, .vs-bar i, .vs-top::after, .vs-top::before, .vs-badge::before, .vs-badge::after { animation: none; }
   .vs-bar i { transform: none; }
 }
 
