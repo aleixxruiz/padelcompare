@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mi cuenta — Padel Match</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎾</text></svg>">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="index.html" class="brand">
+        <img src="assets/logo.png" alt="Padel Match" class="brand-img">
+      </a>
+      <nav class="nav">
+        <a href="index.html">Comparador</a>
+        <a href="recomendadas.html">Recomendadas</a>
+        <a href="cuenta.html" class="active">Mi cuenta</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container cuenta-wrap">
+
+    <!-- Aviso si Supabase no está configurado -->
+    <div id="estado-config" class="aviso" hidden>
+      <b>Falta configurar Supabase.</b> Edita <code>assets/supabase-config.js</code>
+      con la URL y la clave anon de tu proyecto. Ver <code>SETUP-SUPABASE.md</code>.
+    </div>
+
+    <!-- Login -->
+    <section id="login-box" class="cuenta-card" hidden>
+      <h1>Entra o regístrate</h1>
+      <p class="cuenta-sub">Te enviamos un enlace de acceso a tu correo. Sin contraseñas.</p>
+      <form id="login-form">
+        <label class="campo">
+          <span>Correo electrónico</span>
+          <input type="email" id="login-email" required placeholder="tucorreo@email.com" autocomplete="email">
+        </label>
+        <button type="submit" class="btn-primary ancho">Enviar enlace de acceso</button>
+        <p id="login-msg" class="cuenta-msg"></p>
+      </form>
+    </section>
+
+    <!-- Perfil -->
+    <section id="perfil-box" class="cuenta-card" hidden>
+      <div class="perfil-head">
+        <div>
+          <h1>Tu perfil de jugador</h1>
+          <p class="cuenta-sub">Cuéntanos cómo juegas y te recomendaremos las mejores palas para ti.</p>
+        </div>
+        <button id="logout" class="btn-ghost">Cerrar sesión</button>
+      </div>
+
+      <form id="perfil-form">
+        <div class="form-grid">
+          <label class="campo">
+            <span>Nombre completo</span>
+            <input type="text" id="f-nombre" autocomplete="name" placeholder="Tu nombre">
+          </label>
+          <label class="campo">
+            <span>Nivel Playtomic (0 – 7)</span>
+            <input type="number" id="f-playtomic" min="0" max="7" step="0.25" placeholder="Ej. 3.5">
+          </label>
+          <label class="campo">
+            <span>Estilo de juego preferido</span>
+            <select id="f-estilo">
+              <option value="indiferente">Indiferente</option>
+              <option value="control">Control</option>
+              <option value="potencia">Potencia</option>
+              <option value="polivalente">Polivalente</option>
+            </select>
+          </label>
+          <label class="campo">
+            <span>Mano / lado</span>
+            <select id="f-mano">
+              <option value="">—</option>
+              <option value="derecha">Juego en la derecha</option>
+              <option value="reves">Juego en el revés</option>
+              <option value="ambidiestro">Indistinto</option>
+            </select>
+          </label>
+          <label class="campo">
+            <span>Frecuencia de juego</span>
+            <select id="f-frecuencia">
+              <option value="">—</option>
+              <option value="ocasional">Ocasional</option>
+              <option value="1-2 semana">1-2 veces / semana</option>
+              <option value="3+ semana">3 o más / semana</option>
+            </select>
+          </label>
+          <label class="campo">
+            <span>Presupuesto máximo (€)</span>
+            <input type="number" id="f-presupuesto" min="0" step="10" placeholder="Ej. 200">
+          </label>
+          <label class="campo">
+            <span>Peso (kg, opcional)</span>
+            <input type="number" id="f-peso" min="30" max="180" placeholder="Opcional">
+          </label>
+          <label class="campo check">
+            <input type="checkbox" id="f-codo">
+            <span>He tenido molestias de codo (epicondilitis)</span>
+          </label>
+        </div>
+
+        <label class="campo check consent">
+          <input type="checkbox" id="f-consent" required>
+          <span>Acepto la <a href="privacidad.html" target="_blank">política de privacidad</a> y el tratamiento de mis datos para recibir recomendaciones.</span>
+        </label>
+
+        <div class="perfil-acciones">
+          <button type="submit" class="btn-primary">Guardar perfil</button>
+          <a href="recomendadas.html" class="btn-ghost">Ver mis recomendaciones →</a>
+          <span id="perfil-msg" class="cuenta-msg"></span>
+        </div>
+      </form>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container"><p>Padel Match · <a href="privacidad.html">Política de privacidad</a></p></div>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+  <script src="assets/supabase-config.js"></script>
+  <script src="assets/cuenta.js"></script>
+</body>
+</html>

@@ -212,6 +212,39 @@ input[type="range"] { width: 100%; accent-color: var(--accent); }
 .b-medio { background: #fefce8; color: #a16207; border-color: #fef08a; }
 .b-alto { background: #fff7ed; color: #c2410c; border-color: #fed7aa; }
 
+/* ---- Cuenta / formularios ---- */
+.cuenta-wrap { padding: 32px 20px 60px; max-width: 760px; }
+.cuenta-card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 24px; }
+.cuenta-card h1 { margin: 0 0 4px; font-size: 24px; }
+.cuenta-sub { color: var(--muted); margin: 0 0 18px; }
+.campo { display: flex; flex-direction: column; gap: 6px; margin-bottom: 14px; font-size: 14px; }
+.campo > span { font-weight: 600; }
+.campo input, .campo select { padding: 10px 12px; border: 1px solid var(--border); border-radius: 10px; font-size: 14px; background: var(--surface); outline: none; }
+.campo input:focus, .campo select:focus { border-color: var(--accent); box-shadow: 0 0 0 3px rgba(31,157,85,.18); }
+.campo.check { flex-direction: row; align-items: center; gap: 8px; }
+.campo.check input { width: 16px; height: 16px; accent-color: var(--accent); }
+.campo.consent { margin-top: 6px; align-items: flex-start; }
+.form-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0 16px; }
+.btn-primary.ancho { width: 100%; }
+.perfil-head { display: flex; justify-content: space-between; align-items: flex-start; gap: 12px; }
+.perfil-acciones { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; margin-top: 12px; }
+.cuenta-msg { font-size: 13px; color: var(--muted); margin: 8px 0 0; }
+.cuenta-msg.ok { color: var(--accent-strong); }
+.cuenta-msg.err { color: #e11d48; }
+.aviso { background: #fff7ed; border: 1px solid #fed7aa; color: #9a3412; border-radius: 12px; padding: 14px 16px; margin-bottom: 18px; font-size: 14px; }
+.aviso code { background: rgba(0,0,0,.06); padding: 1px 5px; border-radius: 4px; }
+.reco-porque { font-size: 13px; color: var(--accent-strong); margin: 0; font-weight: 500; }
+
+/* ---- Páginas legales ---- */
+.legal { max-width: 760px; padding: 32px 20px 60px; }
+.legal h1 { font-size: 28px; margin-bottom: 4px; }
+.legal h2 { font-size: 18px; margin-top: 24px; }
+.legal-fecha { color: var(--muted); }
+.legal ul { padding-left: 20px; }
+.legal a { color: var(--accent-strong); }
+
+@media (max-width: 600px) { .form-grid { grid-template-columns: 1fr; } }
+
 /* ---- Responsive ---- */
 .only-mobile { display: none; }
 @media (max-width: 900px) {
