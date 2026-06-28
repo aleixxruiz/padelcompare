@@ -57,13 +57,52 @@
   }
 
   function construirFormulario() {
-    var html = '<div class="form-grid">' +
-      SCHEMA.comunes.map(function (f) { return htmlCampo(null, f); }).join("") + "</div>";
+    var html = '<div class="perfil-cat"><h3>📋 Datos básicos</h3><div class="form-grid">' +
+      SCHEMA.comunes.map(function (f) { return htmlCampo(null, f); }).join("") + "</div></div>";
     SCHEMA.categorias.filter(function (c) { return c.activa; }).forEach(function (c) {
       html += '<div class="perfil-cat"><h3>' + c.icon + " " + c.label + "</h3>" +
         '<div class="form-grid">' + c.campos.map(function (f) { return htmlCampo(c.key, f); }).join("") + "</div></div>";
     });
     $("perfil-campos").innerHTML = html;
+  }
+
+  // -------- Foto de perfil (Supabase Storage) --------
+  function mostrarAvatar(url) {
+    var img = $("avatar-img");
+    if (url) { img.src = url; img.hidden = false; $("avatar-ph").hidden = true; $("avatar-quitar").hidden = false; }
+    else { img.hidden = true; img.removeAttribute("src"); $("avatar-ph").hidden = false; $("avatar-quitar").hidden = true; }
+  }
+
+  function initAvatar() {
+    var input = $("avatar-input");
+    if (!input || input.dataset.listo) return;
+    input.dataset.listo = "1";
+    input.addEventListener("change", function () {
+      var file = input.files && input.files[0];
+      var uid = $("perfil-form").dataset.uid;
+      var msg = $("avatar-msg");
+      if (!file || !uid) return;
+      if (!/^image\//.test(file.type)) { msg.textContent = "Selecciona una imagen."; msg.className = "cuenta-msg err"; return; }
+      if (file.size > 3 * 1024 * 1024) { msg.textContent = "La imagen no debe superar 3 MB."; msg.className = "cuenta-msg err"; return; }
+      var ext = (file.name.split(".").pop() || "jpg").toLowerCase().replace(/[^a-z0-9]/g, "");
+      var path = uid + "/avatar." + ext;
+      msg.textContent = "Subiendo…"; msg.className = "cuenta-msg";
+      sb.storage.from("avatares").upload(path, file, { upsert: true, contentType: file.type }).then(function (res) {
+        if (res.error) { msg.textContent = "Error al subir: " + res.error.message; msg.className = "cuenta-msg err"; return; }
+        var url = sb.storage.from("avatares").getPublicUrl(path).data.publicUrl + "?v=" + Date.now();
+        sb.from("perfiles").update({ avatar_url: url }).eq("id", uid).then(function (r) {
+          if (r.error) { msg.textContent = "Subida ok, pero no se guardó: " + r.error.message; msg.className = "cuenta-msg err"; }
+          else { msg.textContent = "✓ Foto actualizada."; msg.className = "cuenta-msg ok"; }
+        });
+        mostrarAvatar(url);
+      });
+    });
+    $("avatar-quitar").addEventListener("click", function () {
+      var uid = $("perfil-form").dataset.uid;
+      sb.from("perfiles").update({ avatar_url: null }).eq("id", uid).then(function () {
+        mostrarAvatar(null); $("avatar-msg").textContent = "";
+      });
+    });
   }
 
   function recorrer(fn) {
@@ -104,6 +143,7 @@
         var nEl = $(campoId(null, { id: "nombre" })); if (nEl) nEl.value = user.user_metadata.full_name;
       }
       $("f-consent").checked = !!p.consentimiento;
+      mostrarAvatar(p.avatar_url);
     });
   }
 
@@ -139,6 +179,7 @@
     else { mostrar("login"); }
   }
   construirFormulario();
+  initAvatar();
   sb.auth.getSession().then(function (res) { aplicarSesion(res.data.session); });
   sb.auth.onAuthStateChange(function (_evt, session) { aplicarSesion(session); });
 })();

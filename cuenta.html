@@ -50,10 +50,24 @@
     <section id="perfil-box" class="cuenta-card" hidden>
       <div class="perfil-head">
         <div>
-          <h1>Tu perfil de jugador</h1>
-          <p class="cuenta-sub">Cuéntanos cómo juegas y te recomendaremos las mejores palas para ti.</p>
+          <h1>Mi perfil de jugador</h1>
+          <p class="cuenta-sub">Cuéntanos cómo juegas y te recomendaremos lo mejor para ti.</p>
         </div>
         <button id="logout" class="btn-ghost">Cerrar sesión</button>
+      </div>
+
+      <!-- Foto de perfil -->
+      <div class="perfil-avatar">
+        <div class="avatar-wrap">
+          <img id="avatar-img" class="avatar" alt="Foto de perfil" hidden>
+          <div id="avatar-ph" class="avatar avatar-ph">🎾</div>
+        </div>
+        <div class="avatar-acciones">
+          <label class="btn-ghost" for="avatar-input">Subir foto</label>
+          <input type="file" id="avatar-input" accept="image/*" hidden>
+          <button type="button" id="avatar-quitar" class="link" hidden>Quitar</button>
+          <p id="avatar-msg" class="cuenta-msg"></p>
+        </div>
       </div>
 
       <form id="perfil-form">
