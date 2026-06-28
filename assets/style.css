@@ -235,6 +235,39 @@ input[type="range"] { width: 100%; accent-color: var(--accent); }
 .aviso code { background: rgba(0,0,0,.06); padding: 1px 5px; border-radius: 4px; }
 .reco-porque { font-size: 13px; color: var(--accent-strong); margin: 0; font-weight: 500; }
 
+/* ---- Ficha de producto ---- */
+.ficha { padding: 24px 20px 60px; max-width: 980px; }
+.breadcrumb { font-size: 13px; color: var(--muted); margin-bottom: 18px; }
+.breadcrumb a { color: var(--accent-strong); text-decoration: none; }
+.ficha-top { display: grid; grid-template-columns: 320px 1fr; gap: 28px; align-items: start; }
+.ficha-img { background: #fff; border: 1px solid var(--border); border-radius: var(--radius); height: 320px; display: grid; place-items: center; overflow: hidden; }
+.ficha-img img { width: 100%; height: 100%; object-fit: contain; padding: 16px; }
+.ficha-img .inicial { font-size: 80px; font-weight: 800; color: rgba(31,157,85,.25); }
+.ficha-info h1 { margin: 4px 0 12px; font-size: 26px; }
+.ficha-info .badges { margin-bottom: 14px; }
+.ficha-rating { color: #f59e0b; font-weight: 700; margin: 0 0 6px; }
+.ficha-precio { font-size: 28px; font-weight: 800; margin: 0 0 14px; }
+.ficha-precio .original { font-size: 18px; color: var(--muted); text-decoration: line-through; font-weight: 500; }
+.ficha-desc { color: var(--muted); margin: 0 0 18px; }
+.ficha h2 { font-size: 20px; margin: 32px 0 12px; }
+.ficha-specs { width: 100%; border-collapse: collapse; font-size: 14px; }
+.ficha-specs th, .ficha-specs td { border: 1px solid var(--border); padding: 10px 12px; text-align: left; }
+.ficha-specs th { background: var(--background); width: 220px; font-weight: 700; }
+.sim-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 14px; }
+.sim-card { display: flex; flex-direction: column; gap: 6px; background: var(--surface); border: 1px solid var(--border); border-radius: 14px; padding: 12px; text-decoration: none; color: inherit; transition: box-shadow .15s; }
+.sim-card:hover { box-shadow: var(--shadow); }
+.sim-card img { width: 100%; height: 110px; object-fit: contain; }
+.sim-card span { font-size: 13px; font-weight: 600; line-height: 1.2; }
+.sim-card b { color: var(--accent-strong); }
+.card-link { text-decoration: none; color: inherit; display: block; }
+@media (max-width: 720px) { .ficha-top { grid-template-columns: 1fr; } .ficha-img { height: 240px; } .ficha-specs th { width: 140px; } }
+
+/* ---- Directorio de palas ---- */
+.dir-list { columns: 3 220px; column-gap: 24px; list-style: none; padding: 0; margin: 0 0 18px; }
+.dir-list li { margin: 0 0 6px; break-inside: avoid; font-size: 14px; }
+.dir-list a { color: var(--accent-strong); text-decoration: none; }
+.dir-list a:hover { text-decoration: underline; }
+
 /* ---- Páginas legales ---- */
 .legal { max-width: 760px; padding: 32px 20px 60px; }
 .legal h1 { font-size: 28px; margin-bottom: 4px; }

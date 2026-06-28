@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /cuenta.html
+Disallow: /recomendadas.html
+
+Sitemap: https://aleixxruiz.github.io/padelcompare/sitemap.xml

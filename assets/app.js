@@ -87,7 +87,9 @@
     var puede = estado.comparar.length < MAX_COMPARAR;
     var desc = descuento(p);
     var c = el("article", { class: "card" + (sel ? " selected" : "") });
+    var ficha = "pala/" + p.id + ".html";
     c.innerHTML =
+      '<a class="card-link" href="' + ficha + '">' +
       '<div class="card-img">' +
         '<span class="inicial">' + p.marca.charAt(0) + '</span>' +
         (p.imagen
@@ -96,11 +98,11 @@
             '" loading="lazy" onerror="this.remove()">'
           : "") +
         (desc != null ? '<span class="card-badge-desc">-' + desc + '%</span>' : '') +
-      '</div>' +
+      '</div></a>' +
       '<div class="card-body">' +
         '<div>' +
           '<p class="card-marca">' + p.marca + '</p>' +
-          '<h3 class="card-nombre">' + p.nombre + '</h3>' +
+          '<a class="card-link" href="' + ficha + '"><h3 class="card-nombre">' + p.nombre + '</h3></a>' +
         '</div>' +
         '<div class="badges">' +
           badge(p.nivel) + badge(p.estilo) + badge(p.forma) +

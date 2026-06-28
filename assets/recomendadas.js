@@ -60,13 +60,15 @@
     var c = document.createElement("article");
     c.className = "card";
     var b = function (v) { return '<span class="badge b-' + slug(v) + '">' + cap(v) + "</span>"; };
+    var ficha = "pala/" + x.id + ".html";
     c.innerHTML =
+      '<a class="card-link" href="' + ficha + '">' +
       '<div class="card-img">' +
         '<span class="inicial">' + x.marca.charAt(0) + "</span>" +
         (x.imagen ? '<img class="card-foto" src="' + x.imagen + '" alt="' + String(x.nombre).replace(/"/g, "&quot;") + '" loading="lazy" onerror="this.remove()">' : "") +
-      "</div>" +
+      "</div></a>" +
       '<div class="card-body">' +
-        '<div><p class="card-marca">' + x.marca + '</p><h3 class="card-nombre">' + x.nombre + "</h3></div>" +
+        '<div><p class="card-marca">' + x.marca + '</p><a class="card-link" href="' + ficha + '"><h3 class="card-nombre">' + x.nombre + "</h3></a></div>" +
         '<div class="badges">' + b(x.nivel) + b(x.estilo) + b(x.forma) + "</div>" +
         '<p class="reco-porque">✓ ' + (porque(x, ctx, perfil) || "buena opción para ti") + "</p>" +
         '<div class="card-precio" style="margin-top:auto">' +
