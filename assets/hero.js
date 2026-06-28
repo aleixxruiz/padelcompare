@@ -21,6 +21,8 @@
     sliders: '<line x1="4" y1="8" x2="20" y2="8"/><line x1="4" y1="16" x2="20" y2="16"/><circle cx="9" cy="8" r="2.3"/><circle cx="15" cy="16" r="2.3"/>',
     chat: '<path d="M21 12a8 8 0 0 1-11.5 7.2L3 21l1.8-6.5A8 8 0 1 1 21 12z"/>',
     precio: '<circle cx="12" cy="12" r="9"/><path d="M15 9.5a3.5 3.5 0 1 0 0 5"/><line x1="7.5" y1="11" x2="13" y2="11"/><line x1="7.5" y1="13.2" x2="12" y2="13.2"/>',
+    lobo: '<path d="M12 21C9 18.5 6.2 15 5.7 8.6L4 3.8 8.7 7Q12 9 15.3 7L20 3.8 18.3 8.6C17.8 15 15 18.5 12 21Z"/><circle cx="9.3" cy="11.2" r="1" fill="currentColor" stroke="none"/><circle cx="14.7" cy="11.2" r="1" fill="currentColor" stroke="none"/><path d="M10.7 15h2.6L12 16.9Z" fill="currentColor" stroke="none"/>',
+    alien: '<path d="M12 2.5C17 2.5 20 6 20 10 20 13.5 17.5 17 14 19.6 13 20.3 12.4 21 12 21.6 11.6 21 11 20.3 10 19.6 6.5 17 4 13.5 4 10 4 6 7 2.5 12 2.5Z"/><path d="M10.7 9C8.7 8.3 6 9.3 5.9 11.5 5.8 13.2 8.4 14 10.4 12.9 11.7 12.2 12 9.8 10.7 9Z" fill="currentColor" stroke="none"/><path d="M13.3 9C15.3 8.3 18 9.3 18.1 11.5 18.2 13.2 15.6 14 13.6 12.9 12.3 12.2 12 9.8 13.3 9Z" fill="currentColor" stroke="none"/>',
   };
   function svg(p, cls) { return '<svg class="' + (cls || "") + '" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">' + p + "</svg>"; }
 
@@ -74,9 +76,9 @@
 
     cont.innerHTML =
       '<div class="vs-top">' +
-        '<div class="vs-pala">' + imgPala("vs-a", A.imagen) + '<span class="vs-name">' + NAME_A + "</span></div>" +
+        '<div class="vs-pala">' + imgPala("vs-a", A.imagen) + '<span class="vs-name">' + svg(I.lobo, "vs-mascot") + NAME_A + "</span></div>" +
         '<div class="vs-badge">VS</div>' +
-        '<div class="vs-pala">' + imgPala("vs-b", B.imagen) + '<span class="vs-name">' + NAME_B + "</span></div>" +
+        '<div class="vs-pala">' + imgPala("vs-b", B.imagen) + '<span class="vs-name">' + svg(I.alien, "vs-mascot") + NAME_B + "</span></div>" +
       "</div>" +
       '<div class="vs-stats">' + filas + "</div>";
 

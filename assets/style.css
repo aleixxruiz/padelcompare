@@ -122,7 +122,8 @@ a { color: inherit; }
 /* Recorte: PNG sin fondo flotando sobre el oscuro (como el mockup) */
 .vs-pala img { width: 100%; max-height: 300px; object-fit: contain; filter: drop-shadow(0 18px 40px rgba(0,0,0,.6)) drop-shadow(0 0 26px rgba(255,45,45,.18)); }
 .vs-pala img.framed { background: #fff; border-radius: 14px; padding: 8px; max-height: 240px; }
-.vs-name { display: block; font-size: 12px; font-weight: 700; color: #c7ccd3; text-transform: uppercase; letter-spacing: .06em; margin-top: 8px; }
+.vs-name { display: inline-flex; align-items: center; justify-content: center; gap: 7px; font-size: 12px; font-weight: 700; color: #c7ccd3; text-transform: uppercase; letter-spacing: .06em; margin-top: 8px; }
+.vs-mascot { width: 21px; height: 21px; flex: 0 0 auto; color: var(--accent); }
 .vs-badge { font-size: 60px; font-weight: 900; font-style: italic; color: #fff; text-shadow: 0 0 18px rgba(255,45,45,1), 0 0 44px rgba(255,45,45,.7); z-index: 2; }
 .vs-stats { background: rgba(0,0,0,.5); border: 1px solid rgba(255,255,255,.08); border-radius: 16px; padding: 12px 16px; }
 .vs-row { display: grid; grid-template-columns: 34px 1fr 150px 1fr 34px; align-items: center; gap: 8px; padding: 6px 0; }
