@@ -1,44 +1,40 @@
-# Asistente IA — Cloudflare Worker
+# Asistente IA — Cloudflare Worker (Padel Ideal)
 
-Este worker da vida al botón flotante de la web (`assets/widget.js`). Recibe la
-pregunta del usuario + el catálogo y llama a la API de Claude con el system
-prompt de pádel.
+El Worker conecta la web con la API de Claude **sin exponer tu clave** (se guarda
+como *Secret* cifrado en Cloudflare). Modelo por defecto: `claude-haiku-4-5`.
 
-## Requisitos
-- Una cuenta de Cloudflare (gratis): https://dash.cloudflare.com
-- Una clave de API de Anthropic: https://console.anthropic.com → API Keys
-- `wrangler` (CLI de Cloudflare): `npm i -g wrangler`
+## 1. Conseguir la clave de Anthropic (tiene coste por uso)
+1. Entra en https://console.anthropic.com → **API Keys** → **Create Key**.
+2. Cópiala (empieza por `sk-ant-...`).
+3. Añade saldo/billing en **Settings → Billing** (sin saldo, la IA no responde).
 
-## Desplegar (CLI)
+## 2. Crear el Worker (panel de Cloudflare, lo más seguro)
+1. Entra en https://dash.cloudflare.com → **Workers & Pages** → **Create** → **Create Worker**.
+2. Ponle un nombre (p. ej. `padel-ideal-ia`) → **Deploy** (crea uno de ejemplo).
+3. **Edit code**: borra todo y pega el contenido de `worker/padel-worker.js`. → **Deploy**.
+
+## 3. Guardar la clave como SECRET (cifrada)
+1. En el Worker → **Settings** → **Variables and Secrets** → **Add**.
+2. Tipo **Secret** (no "Text"), nombre **`ANTHROPIC_API_KEY`**, valor = tu `sk-ant-...`.
+3. **Save and deploy**.
+   > Al ser *Secret*, queda cifrada y no se puede volver a leer: es lo seguro.
+
+## 4. Copiar la URL del Worker
+- Arriba del Worker verás su URL: `https://padel-ideal-ia.TU-SUBDOMINIO.workers.dev`.
+- Pásamela y yo la pongo en `assets/widget.js` y activo el botón en la web.
+  (O edítalo tú: `CONFIG.aiUrl = "https://...workers.dev/"`.)
+
+## Coste y optimización
+- El Worker manda el catálogo con **caché de prompt**: las consultas seguidas
+  reutilizan la caché y cuestan ~10× menos.
+- Con Haiku, cada consulta cuesta unos céntimos. Puedes vigilar el gasto en la
+  consola de Anthropic y poner un **límite de gasto** en Billing.
+
+## Probar
+`curl` rápido (sustituye la URL):
 ```bash
-cd worker
-wrangler login                       # abre el navegador para autenticarte
-wrangler secret put ANTHROPIC_API_KEY  # pega tu clave sk-ant-...
-wrangler deploy                      # despliega padel-worker.js
+curl -X POST https://padel-ideal-ia.TU-SUBDOMINIO.workers.dev/ \
+  -H "Content-Type: application/json" \
+  -d '{"message":"Soy nivel 3, busco control por menos de 150€","productos":[]}'
 ```
-Al terminar te dará una URL tipo `https://padel-worker.TU-SUBDOMINIO.workers.dev/`.
-
-## Conectar con la web
-Abre `assets/widget.js` y pega esa URL en la configuración:
-```js
-var CONFIG = {
-  aiUrl: "https://padel-worker.TU-SUBDOMINIO.workers.dev/",
-  ...
-};
-```
-Sube el cambio y el asistente quedará operativo.
-
-## Alternativa sin CLI (panel web)
-1. dash.cloudflare.com → **Workers & Pages** → **Create** → **Worker**.
-2. Pega el contenido de `padel-worker.js` en el editor y **Deploy**.
-3. En **Settings → Variables and Secrets**, añade `ANTHROPIC_API_KEY` (tipo *Secret*).
-4. Copia la URL del worker en `assets/widget.js`.
-
-## Modelo y coste
-Por defecto usa `claude-opus-4-8` (máxima calidad). Para un asistente sencillo
-puedes bajar coste cambiando `MODEL` en `padel-worker.js` a:
-- `claude-haiku-4-5` — el más barato y rápido.
-- `claude-sonnet-4-6` — equilibrio calidad/precio.
-
-El worker no expone tu clave: vive como *secret* en Cloudflare, nunca en el
-navegador ni en el repositorio.
+(Con `productos:[]` responderá que necesita catálogo; la web ya se lo envía.)
