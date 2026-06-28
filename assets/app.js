@@ -277,12 +277,16 @@
 
     renderFiltros();
 
-    // Si venimos de una ficha con ?comparar=<id>, pre-seleccionamos esa pala.
+    // Si venimos con ?comparar=<id> (ficha) o ?comparar2=<id> (VS del hero),
+    // pre-seleccionamos esas palas en el comparador.
     try {
-      var pre = new URLSearchParams(location.search).get("comparar");
-      if (pre && productoPorId(pre) && estado.comparar.indexOf(pre) === -1) {
-        estado.comparar.push(pre);
-      }
+      var params = new URLSearchParams(location.search);
+      ["comparar", "comparar2"].forEach(function (k) {
+        var id = params.get(k);
+        if (id && productoPorId(id) && estado.comparar.indexOf(id) === -1 && estado.comparar.length < MAX_COMPARAR) {
+          estado.comparar.push(id);
+        }
+      });
     } catch (e) {}
 
     renderGrid();

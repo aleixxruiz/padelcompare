@@ -63,16 +63,35 @@
     </div>
   </header>
 
-  <!-- Hero -->
-  <section class="hero">
-    <div class="container">
-      <h1>Encuentra y compara los <span class="accent">mejores productos de pádel</span> del mercado</h1>
-      <p class="hero-sub">El producto ideal para cada jugador, según su nivel y sus preferencias de juego.</p>
+  <!-- Hero premium -->
+  <section class="hero-pro">
+    <div class="container hero-pro-inner">
+      <div class="hero-pro-left">
+        <p class="hero-eyebrow">Compara · Elige · Juega mejor</p>
+        <h1>Encuentra tu <span class="accent">pala ideal</span></h1>
+        <p class="hero-sub">Compara los mejores productos de pádel</p>
+        <div class="hero-features">
+          <div class="hf"><span class="hf-ic">🤖</span><div class="hf-tx"><b>Compara</b><span>Características, precios y opiniones</span></div></div>
+          <div class="hf"><span class="hf-ic">🎯</span><div class="hf-tx"><b>Encuentra</b><span>El producto perfecto para tu juego</span></div></div>
+          <div class="hf"><span class="hf-ic">🏆</span><div class="hf-tx"><b>Mejora</b><span>Rinde al máximo en cada partido</span></div></div>
+        </div>
+        <div class="hero-cta">
+          <a href="#comparador" class="btn-primary btn-lg">Comparar palas →</a>
+          <a href="#comparador" class="btn-outline btn-lg">Ver comparativas</a>
+        </div>
+        <p class="hero-proof">★★★★★ &nbsp;<span id="hero-proof-tx">Cientos de jugadores ya han encontrado su pala ideal</span></p>
+      </div>
+      <div class="hero-pro-right">
+        <div id="hero-vs" class="vs-card"><!-- generado por hero.js --></div>
+      </div>
+    </div>
+    <div class="hero-strip">
+      <div class="container hero-strip-inner" id="hero-strip"><!-- generado por hero.js --></div>
     </div>
   </section>
 
   <!-- Toolbar -->
-  <div class="container">
+  <div class="container" id="comparador">
     <div class="toolbar">
       <input type="search" id="buscador" placeholder="Buscar por marca o modelo…" autocomplete="off">
       <select id="orden">
@@ -151,6 +170,8 @@
   <!-- Datos + lógica -->
   <script src="datos/productos.js"></script>
   <script src="assets/app.js"></script>
+  <!-- Hero premium (VS de palas + stats) -->
+  <script src="assets/hero.js"></script>
   <!-- Pop-up de recomendaciones (guía para elegir la pala) -->
   <script src="assets/guia.js"></script>
   <!-- Supabase: detectar si el visitante tiene sesión -->
