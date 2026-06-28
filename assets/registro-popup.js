@@ -33,9 +33,9 @@
       "#reg-pop-card .emoji{font-size:40px;line-height:1}" +
       "#reg-pop-card h3{margin:10px 0 6px;font-size:21px;color:#16201a}" +
       "#reg-pop-card p{margin:0 0 18px;color:#5d6b62;font-size:15px;line-height:1.5}" +
-      "#reg-pop-card .reg-cta{display:block;width:100%;background:#1f9d55;color:#fff;border:none;border-radius:12px;" +
+      "#reg-pop-card .reg-cta{display:block;width:100%;background:linear-gradient(135deg,#ff2d2d,#b00d18);color:#fff;border:none;border-radius:12px;" +
         "padding:13px;font-size:15px;font-weight:700;cursor:pointer;text-decoration:none;margin-bottom:8px}" +
-      "#reg-pop-card .reg-cta:hover{background:#14773f}" +
+      "#reg-pop-card .reg-cta:hover{background:linear-gradient(135deg,#f01f24,#8e0e16)}" +
       "#reg-pop-card .reg-no{background:none;border:none;color:#5d6b62;font-size:14px;cursor:pointer;text-decoration:underline}";
     document.head.appendChild(css);
 

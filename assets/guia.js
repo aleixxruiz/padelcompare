@@ -9,9 +9,9 @@
   var css = document.createElement("style");
   css.textContent =
     "#guia-fab{position:fixed;right:92px;bottom:24px;z-index:9997;display:inline-flex;align-items:center;gap:8px;" +
-      "background:#14773f;color:#fff;border:none;border-radius:30px;padding:14px 18px;cursor:pointer;" +
+      "background:linear-gradient(135deg,#ff2d2d,#b00d18);color:#fff;border:none;border-radius:30px;padding:14px 18px;cursor:pointer;" +
       "font:600 14px system-ui,-apple-system,Arial,sans-serif;box-shadow:0 8px 24px rgba(16,32,24,.25);transition:background .15s}" +
-    "#guia-fab:hover{background:#0f5e32}" +
+    "#guia-fab:hover{background:linear-gradient(135deg,#f01f24,#8e0e16)}" +
     "#guia-modal{position:fixed;inset:0;z-index:9999;background:rgba(22,32,26,.6);backdrop-filter:blur(4px);" +
       "display:none;align-items:flex-start;justify-content:center;overflow-y:auto;padding:20px}" +
     "#guia-modal.open{display:flex}" +
