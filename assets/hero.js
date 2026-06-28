@@ -74,9 +74,9 @@
 
     cont.innerHTML =
       '<div class="vs-top">' +
-        '<div class="vs-pala">' + imgPala("assets/vs-lebron.webp", A.imagen) + '<span class="vs-name">' + NAME_A + "</span></div>" +
+        '<div class="vs-pala">' + imgPala("assets/vs-lebron.png", A.imagen) + "</div>" +
         '<div class="vs-badge">VS</div>' +
-        '<div class="vs-pala">' + imgPala("assets/vs-galan.png", B.imagen) + '<span class="vs-name">' + NAME_B + "</span></div>" +
+        '<div class="vs-pala">' + imgPala("assets/vs-galan.png", B.imagen) + "</div>" +
       "</div>" +
       '<div class="vs-stats">' + filas + "</div>";
 
