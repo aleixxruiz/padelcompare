@@ -44,8 +44,8 @@ a { color: inherit; }
 }
 .header-inner { display: flex; align-items: center; justify-content: space-between; padding: 12px 20px; }
 .brand { display: flex; align-items: center; gap: 10px; text-decoration: none; }
-.brand-img { height: 44px; width: auto; display: block; }
-@media (max-width: 600px) { .brand-img { height: 36px; } }
+.brand-img { height: 50px; width: auto; display: block; }
+@media (max-width: 600px) { .brand-img { height: 40px; } }
 .brand-logo {
   display: grid; place-items: center; width: 36px; height: 36px;
   background: var(--accent); color: #fff; border-radius: 12px;

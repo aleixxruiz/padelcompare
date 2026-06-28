@@ -93,14 +93,14 @@ function ficha(p) {
   <meta property="og:url" content="${url}">
   ${imgAbs ? '<meta property="og:image" content="' + att(imgAbs) + '">' : ""}
   <meta name="twitter:card" content="summary_large_image">
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎾</text></svg>">
+  <link rel="icon" href="../assets/favicon.png">
   <link rel="stylesheet" href="../assets/style.css">
   <script type="application/ld+json">${JSON.stringify(jsonld)}</script>
 </head>
 <body>
   <header class="site-header">
     <div class="container header-inner">
-      <a href="../index.html" class="brand"><span class="brand-logo">P</span><span class="brand-name">Padel <span>Ideal</span></span></a>
+      <a href="../index.html" class="brand"><img src="../assets/logo.png" alt="Padel Ideal" class="brand-img"></a>
       <nav class="nav"><a href="../index.html">Comparador</a><a href="../recomendadas.html">Recomendadas</a><a href="../cuenta.html">Mi cuenta</a></nav>
     </div>
   </header>
@@ -172,13 +172,13 @@ const palasPage = `<!DOCTYPE html>
   <title>Todas las palas de pádel (${vistos.size}) | Padel Ideal</title>
   <meta name="description" content="Listado completo de palas de pádel por marca. Consulta características, valoración y precio de cada pala.">
   <link rel="canonical" href="${BASE}/palas.html">
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎾</text></svg>">
+  <link rel="icon" href="assets/favicon.png">
   <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
   <header class="site-header">
     <div class="container header-inner">
-      <a href="index.html" class="brand"><span class="brand-logo">P</span><span class="brand-name">Padel <span>Ideal</span></span></a>
+      <a href="index.html" class="brand"><img src="assets/logo.png" alt="Padel Ideal" class="brand-img"></a>
       <nav class="nav"><a href="index.html">Comparador</a><a href="palas.html" class="active">Todas las palas</a><a href="recomendadas.html">Recomendadas</a><a href="cuenta.html">Mi cuenta</a></nav>
     </div>
   </header>
