@@ -242,6 +242,9 @@ input[type="range"] { width: 100%; accent-color: var(--accent); }
 .legal-fecha { color: var(--muted); }
 .legal ul { padding-left: 20px; }
 .legal a { color: var(--accent-strong); }
+.tabla-cookies { width: 100%; border-collapse: collapse; margin: 12px 0; font-size: 14px; }
+.tabla-cookies th, .tabla-cookies td { border: 1px solid var(--border); padding: 8px 10px; text-align: left; vertical-align: top; }
+.tabla-cookies th { background: var(--background); font-weight: 700; }
 
 @media (max-width: 600px) { .form-grid { grid-template-columns: 1fr; } }
 
