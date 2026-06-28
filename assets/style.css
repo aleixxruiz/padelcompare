@@ -57,6 +57,7 @@ a { color: inherit; }
 .nav a { color: var(--muted); text-decoration: none; }
 .nav a:hover, .nav a.active { color: var(--fg); }
 .nav .disabled { color: var(--muted); opacity: .5; cursor: not-allowed; }
+.nav-toggle { display: none; background: var(--surface); border: 1px solid var(--border); border-radius: 10px; width: 42px; height: 42px; font-size: 20px; line-height: 1; cursor: pointer; color: var(--fg); }
 
 /* ---- Hero ---- */
 .hero {
@@ -289,7 +290,18 @@ input[type="range"] { width: 100%; accent-color: var(--accent); }
   .sidebar.open { display: block; margin-bottom: 8px; }
   .filtros-card { position: static; }
   .only-mobile { display: inline-block; }
-  .nav { display: none; }
+  /* Menú hamburguesa */
+  .header-inner { position: relative; }
+  .nav-toggle { display: inline-flex; align-items: center; justify-content: center; }
+  .nav {
+    display: none; position: absolute; top: calc(100% + 1px); right: 0;
+    min-width: 210px; background: var(--surface); border: 1px solid var(--border);
+    border-radius: 0 0 14px 14px; box-shadow: var(--shadow);
+    flex-direction: column; padding: 6px 0; z-index: 45;
+  }
+  .nav.open { display: flex; }
+  .nav a, .nav .disabled { padding: 12px 18px; }
+  .nav a:hover { background: var(--background); }
   /* Los botones flotantes no deben tapar la barra de comparación */
   #compare-bar:not([hidden]) ~ #guia-fab,
   #compare-bar:not([hidden]) ~ #pc-fab { display: none; }

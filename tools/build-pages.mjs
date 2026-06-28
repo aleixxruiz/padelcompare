@@ -143,6 +143,7 @@ function ficha(p) {
   <footer class="site-footer">
     <div class="container"><p>Padel Ideal · <a href="../privacidad.html">Privacidad</a> · <a href="../aviso-legal.html">Aviso legal</a> · <a href="../cookies.html">Cookies</a></p></div>
   </footer>
+  <script src="../assets/nav.js"></script>
 </body>
 </html>
 `;
@@ -189,6 +190,7 @@ const palasPage = `<!DOCTYPE html>
   <footer class="site-footer">
     <div class="container"><p>Padel Ideal · <a href="privacidad.html">Privacidad</a> · <a href="aviso-legal.html">Aviso legal</a> · <a href="cookies.html">Cookies</a></p></div>
   </footer>
+  <script src="assets/nav.js"></script>
 </body>
 </html>
 `;
