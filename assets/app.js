@@ -276,6 +276,15 @@
     document.getElementById("precio-max-val").textContent = eur(PRECIO_MAX);
 
     renderFiltros();
+
+    // Si venimos de una ficha con ?comparar=<id>, pre-seleccionamos esa pala.
+    try {
+      var pre = new URLSearchParams(location.search).get("comparar");
+      if (pre && productoPorId(pre) && estado.comparar.indexOf(pre) === -1) {
+        estado.comparar.push(pre);
+      }
+    } catch (e) {}
+
     renderGrid();
     renderCompareBar();
 

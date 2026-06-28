@@ -119,7 +119,7 @@ function ficha(p) {
         ${p.valoracion != null ? '<p class="ficha-rating">★ ' + p.valoracion.toFixed(1) + " / 5</p>" : ""}
         <p class="ficha-precio">${eur(p.precio)}${p.precioOriginal ? ' <span class="original">' + eur(p.precioOriginal) + "</span>" : ""}</p>
         <p class="ficha-desc">${esc(p.descripcion || "")}</p>
-        <a class="btn-primary" href="../index.html">Comparar con otras palas →</a>
+        <a class="btn-primary" href="../index.html?comparar=${p.id}">Comparar con otras palas →</a>
       </div>
     </div>
 
