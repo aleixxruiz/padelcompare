@@ -76,9 +76,9 @@
 
     cont.innerHTML =
       '<div class="vs-top">' +
-        '<div class="vs-pala">' + imgPala("vs-a", A.imagen) + '<span class="vs-name">' + svg(I.lobo, "vs-mascot") + NAME_A + "</span></div>" +
+        '<div class="vs-pala">' + imgPala("vs-a", A.imagen) + '<span class="vs-name"><span class="vs-mascot">🐺</span>' + NAME_A + "</span></div>" +
         '<div class="vs-badge">VS</div>' +
-        '<div class="vs-pala">' + imgPala("vs-b", B.imagen) + '<span class="vs-name">' + svg(I.alien, "vs-mascot") + NAME_B + "</span></div>" +
+        '<div class="vs-pala">' + imgPala("vs-b", B.imagen) + '<span class="vs-name"><span class="vs-mascot">👽</span>' + NAME_B + "</span></div>" +
       "</div>" +
       '<div class="vs-stats">' + filas + "</div>";
 
